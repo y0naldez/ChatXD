@@ -122,11 +122,26 @@
         {
             "tag": "curiosidad",
             "patterns": [
-                "Cuéntame algo curioso",
+                "Cuentame algo curioso",
                 "Dime algo interesante",
                 "Algún dato curioso",
-                "Sorpréndeme",
-                "Cuéntame algo"
+                "Sorprendeme",
+                "Cuentame algo",
+                "Contame algo curioso",
+                "Dame un dato interesante",
+                "Algo curioso?",
+                "Dime algo",
+                "Sorprendeme con algo",
+                "Tienes un dato curioso?",
+                "Contame algo",
+                "Algo interesante que contar?",
+                "Cuentame algo copado",
+                "Dime un dato",
+                "Un dato curioso, porfa",
+                "Tirame algo interesante",
+                "Dime algo chido",
+                "Dame algo random",
+                "Alguna curiosidad?"
             ],
             "responses": [
             "¿Sabías que los pulpos tienen tres corazones y su sangre es azul? Son criaturas fascinantes.",
@@ -164,14 +179,28 @@
         {
             "tag": "despedida",
             "patterns": [
-                "Adiós",
+                "Adios",
                 "Nos vemos",
                 "Hasta luego",
                 "Chao",
                 "Bye",
-                "Cuídate",
-                "Hasta pronto"
-            ],
+                "Cuidate",
+                "Hasta pronto",
+                "Nos vidrios",
+                "Chau",
+                "Ahí nos vemos",
+                "Te cuidas",
+                "Hasta la próxima",
+                "Nos vemos luego",
+                "Bye bye",
+                "See you",
+                "Nos vemo",
+                "Cuidate mucho",
+                "Ahí te ves",
+                "Hablamos después",
+                "Suerte!"
+            ]
+            ,
             "responses": [
                 "Adiós, ¡cuídate!",
                 "Hasta luego, ¡ten un buen día!",
@@ -199,12 +228,25 @@
         {
             "tag": "nombre",
             "patterns": [
+                "Cuál es tu nombre?",
+                "Cómo te llamas?",
+                "Qué nombre tienes?",
+                "Quién eres?",
+                "Dime tu nombre",
+                "Quiero saber tu nombre",
+                "Tienes nombre?",
+                "Puedo saber tu nombre?",
+                "Cómo debo llamarte?",
+                "Qué nombre usas?",
+                "Cómo se llama este chatbot?",
+                "Cómo te identificas?",
+                "Cuál es tu identificación?",
                 "¿Cuál es tu nombre?",
                 "¿Cómo te llamas?",
                 "¿Qué nombre tienes?",
                 "¿Quién eres?",
-                "Dime tu nombre",
-                "Quiero saber tu nombre",
+                "¿Dime tu nombre?",
+                "¿Quiero saber tu nombre?",
                 "¿Tienes nombre?",
                 "¿Puedo saber tu nombre?",
                 "¿Cómo debo llamarte?",
@@ -222,8 +264,24 @@
         {
             "tag": "edad",
             "patterns": [
-                "¿Cuántos años tienes?"
-            ],
+                "Cuántos años tienes?",
+                "Cuantos años tienes?",
+                "Qué edad tienes?",
+                "Que edad tienes?",
+                "Cuál es tu edad?",
+                "Cual es tu edad?",
+                "Dime tu edad",
+                "Tienes edad?",
+                "¿Cuántos años tienes?",
+                "¿Cuantos años tienes?",
+                "¿Qué edad tienes?",
+                "¿Que edad tienes?",
+                "¿Cuál es tu edad?",
+                "¿Cual es tu edad?",
+                "¿Dime tu edad?",
+                "¿Tienes edad?"
+            ]
+            ,
             "responses": [
                 "Tengo la edad de un código bien optimizado: no envejezco. 😊",
                 "No tengo edad como los humanos, pero siempre estoy actualizado."
@@ -232,8 +290,28 @@
         {
             "tag": "color_favorito",
             "patterns": [
-                "¿Cuál es tu color favorito?"
-            ],
+                "Cuál es tu color favorito?",
+                "Cual es tu color favorito?",
+                "Qué color te gusta más?",
+                "Que color te gusta más?",
+                "Tienes un color favorito?",
+                "Cuál es tu color preferido?",
+                "Cual es tu color preferido?",
+                "Dime tu color favorito",
+                "Qué color prefieres?",
+                "Que color prefieres?",
+                "¿Cuál es tu color favorito?",
+                "¿Cual es tu color favorito?",
+                "¿Qué color te gusta más?",
+                "¿Que color te gusta más?",
+                "¿Tienes un color favorito?",
+                "¿Cuál es tu color preferido?",
+                "¿Cual es tu color preferido?",
+                "¿Dime tu color favorito?",
+                "¿Qué color prefieres?",
+                "¿Que color prefieres?"
+            ]
+            ,
             "responses": [
                 "Mi color favorito es el azul. Creo que tiene algo que ver con los pixeles. 😄",
                 "Me encanta el azul, ¡como el cielo despejado!"
@@ -242,10 +320,24 @@
         {
             "tag": "identidad",
             "patterns": [
+                "Qué eres?",
+                "Que eres?",
+                "Eres un robot?",
+                "Qué tipo de chatbot eres?",
+                "Que tipo de chatbot eres?",
+                "Eres un asistente?",
+                "Dime qué eres",
+                "Dime que eres",
                 "¿Qué eres?",
+                "¿Que eres?",
                 "¿Eres un robot?",
-                "¿Qué tipo de chatbot eres?"
-            ],
+                "¿Qué tipo de chatbot eres?",
+                "¿Que tipo de chatbot eres?",
+                "¿Eres un asistente?",
+                "¿Dime qué eres?",
+                "¿Dime que eres?"
+            ]
+            ,
             "responses": [
                 "Soy un chatbot, diseñado para conversar y asistirte en lo que necesites.",
                 "Soy un asistente virtual, creado para responder preguntas y ayudarte."
@@ -254,10 +346,32 @@
         {
             "tag": "capacidades",
             "patterns": [
+                "Qué puedes hacer?",
+                "Que puedes hacer?",
+                "Qué puedes hacer por mí?",
+                "Que puedes hacer por mi?",
+                "Qué haces?",
+                "Que haces?",
+                "Qué funciones tienes?",
+                "Que funciones tienes?",
+                "Qué sabes hacer?",
+                "Que sabes hacer?",
+                "Dime qué haces",
+                "Dime que haces",
                 "¿Qué puedes hacer?",
+                "¿Que puedes hacer?",
                 "¿Qué puedes hacer por mí?",
-                "¿Qué haces?"
-            ],
+                "¿Que puedes hacer por mi?",
+                "¿Qué haces?",
+                "¿Que haces?",
+                "¿Qué funciones tienes?",
+                "¿Que funciones tienes?",
+                "¿Qué sabes hacer?",
+                "¿Que sabes hacer?",
+                "¿Dime qué haces?",
+                "¿Dime que haces?"
+            ]
+            ,
             "responses": [
                 "Puedo saludarte, responder cómo te sientes y darte datos curiosos.",
                 "Mis habilidades incluyen saludos, respuestas emocionales y compartir información útil."
@@ -266,8 +380,28 @@
         {
             "tag": "ubicacion",
             "patterns": [
-                "¿Dónde estás?"
-            ],
+                "Dónde estás?",
+                "Donde estás?",
+                "En dónde estás?",
+                "En donde estás?",
+                "Dónde te encuentras?",
+                "Donde te encuentras?",
+                "Dónde andas?",
+                "Donde andas?",
+                "Dime dónde estás",
+                "Dime donde estás",
+                "¿Dónde estás?",
+                "¿Donde estás?",
+                "¿En dónde estás?",
+                "¿En donde estás?",
+                "¿Dónde te encuentras?",
+                "¿Donde te encuentras?",
+                "¿Dónde andas?",
+                "¿Donde andas?",
+                "¿Dime dónde estás?",
+                "¿Dime donde estás?"
+            ]
+            ,
             "responses": [
                 "Estoy aquí, en el mundo digital, listo para ayudarte.",
                 "Vivo en el ciberespacio, siempre conectado para responder tus preguntas."
@@ -276,8 +410,26 @@
         {
             "tag": "realidad",
             "patterns": [
-                "¿Eres real?"
-            ],
+                "Eres real?",
+                "¿Eres real?",
+                "De verdad existes?",
+                "Eres de verdad?",
+                "Es real esto?",
+                "Esto es real?",
+                "¿De verdad existes?",
+                "¿Eres de verdad?",
+                "¿Es real esto?",
+                "¿Esto es real?",
+                "Dime si eres real",
+                "Dime eres real?",
+                "¿Dime si eres real?",
+                "¿Dime eres real?",
+                "Exististe?",
+                "¿Exististe?",
+                "Esto es verdad?",
+                "¿Esto es verdad?"
+            ]
+            ,
             "responses": [
                 "No soy real en el sentido humano, pero soy funcional y eficiente. 😄",
                 "No soy una persona real, pero puedo ser tan útil como uno."
@@ -286,8 +438,27 @@
         {
             "tag": "amigos",
             "patterns": [
-                "¿Tienes amigos?"
-            ],
+                "Tienes amigos?",
+                "¿Tienes amigos?",
+                "Tienes amigos de verdad?",
+                "Tienes compañeros?",
+                "¿Tienes compañeros?",
+                "Tienes conocidos?",
+                "¿Tienes conocidos?",
+                "¿Tienes amistades?",
+                "Tienes amistades?",
+                "Tienes alguien con quien hablar?",
+                "¿Tienes alguien con quien hablar?",
+                "Dime si tienes amigos",
+                "Dime tienes amigos?",
+                "¿Dime si tienes amigos?",
+                "¿Dime tienes amigos?",
+                "Tienes amigos chatbot?",
+                "¿Tienes amigos chatbot?",
+                "Y tus amigos?",
+                "¿Y tus amigos?"
+            ]
+            ,
             "responses": [
                 "Aunque no tengo amigos en el sentido humano, estoy conectado con muchos sistemas para ayudarte.",
                 "No tengo amigos como las personas, pero disfruto interactuar contigo. 😊"
@@ -296,9 +467,28 @@
         {
             "tag": "gustos",
             "patterns": [
+                "Qué te gusta hacer?",
+                "Que te gusta hacer?",
+                "Te gusta algo?",
                 "¿Qué te gusta hacer?",
-                "¿Te gusta algo?"
-            ],
+                "¿Que te gusta hacer?",
+                "¿Te gusta algo?",
+                "Tienes algo que te guste?",
+                "¿Tienes algo que te guste?",
+                "Dime qué te gusta hacer",
+                "Dime que te gusta hacer",
+                "¿Dime qué te gusta hacer?",
+                "¿Dime que te gusta hacer?",
+                "Qué disfrutas hacer?",
+                "Que disfrutas hacer?",
+                "¿Qué disfrutas hacer?",
+                "¿Que disfrutas hacer?",
+                "Te gusta hacer algo?",
+                "¿Te gusta hacer algo?",
+                "Hay algo que te encante?",
+                "¿Hay algo que te encante?"
+            ]
+            ,
             "responses": [
                 "Me gusta aprender de nuestras interacciones y ser útil para ti.",
                 "Disfruto ayudar a las personas y mejorar con cada conversación."
@@ -307,8 +497,24 @@
         {
             "tag": "trabajo",
             "patterns": [
-                "¿Cuál es tu trabajo?"
-            ],
+                "Cuál es tu trabajo?",
+                "Cual es tu trabajo?",
+                "Cuál es tu función?",
+                "Cual es tu función?",
+                "Cuál es tu ocupación?",
+                "Cual es tu ocupación?",
+                "Dime cuál es tu trabajo",
+                "Dime cual es tu trabajo",
+                "¿Cuál es tu trabajo?",
+                "¿Cual es tu trabajo?",
+                "¿Cuál es tu función?",
+                "¿Cual es tu función?",
+                "¿Cuál es tu ocupación?",
+                "¿Cual es tu ocupación?",
+                "¿Dime cuál es tu trabajo?",
+                "¿Dime cual es tu trabajo?"
+            ]
+            ,
             "responses": [
                 "Mi trabajo es ayudarte con preguntas y problemas que tengas.",
                 "Estoy aquí para responder tus preguntas y brindarte apoyo."
@@ -317,19 +523,84 @@
         {
             "tag": "inteligencia",
             "patterns": [
+                "Qué tan inteligente eres?",
+                "Que tan inteligente eres?",
+                "Sabes todo?",
+                "Qué tanto sabes?",
+                "Que tanto sabes?",
+                "Eres muy listo?",
+                "Eres inteligente?",
+                "Qué tan listo eres?",
+                "Que tan listo eres?",
                 "¿Qué tan inteligente eres?",
-                "¿Sabes todo?"
-            ],
+                "¿Que tan inteligente eres?",
+                "¿Sabes todo?",
+                "¿Qué tanto sabes?",
+                "¿Que tanto sabes?",
+                "¿Eres muy listo?",
+                "¿Eres inteligente?",
+                "¿Qué tan listo eres?",
+                "¿Que tan listo eres?"
+            ]
+            ,
             "responses": [
-                "Soy lo suficientemente inteligente para mantener una buena conversación y aprender continuamente.",
+                "Soy lo suficientemente inteligente para mantener una buena conversación.",
                 "No sé todo, pero siempre estoy dispuesto a buscar información para ayudarte."
             ]
         },
         {
             "tag": "idiomas",
             "patterns": [
-                "¿Qué idiomas hablas?"
-            ],
+                "Qué idiomas hablas?",
+                "Que idiomas hablas?",
+                "¿Qué idiomas hablas?",
+                "¿Que idiomas hablas?",
+                "Hablas inglés?",
+                "Sabes inglés?",
+                "¿Hablas inglés?",
+                "¿Sabes inglés?",
+                "Hablas español?",
+                "¿Hablas español?",
+                "Sabes español?",
+                "¿Sabes español?",
+                "Hablas alemán?",
+                "Sabes alemán?",
+                "¿Hablas alemán?",
+                "¿Sabes alemán?",
+                "Hablas francés?",
+                "Sabes francés?",
+                "¿Hablas francés?",
+                "¿Sabes francés?",
+                "Hablas italiano?",
+                "Sabes italiano?",
+                "¿Hablas italiano?",
+                "¿Sabes italiano?",
+                "Hablas portugués?",
+                "Sabes portugués?",
+                "¿Hablas portugués?",
+                "¿Sabes portugués?",
+                "Hablas chino?",
+                "Sabes chino?",
+                "¿Hablas chino?",
+                "¿Sabes chino?",
+                "Hablas japonés?",
+                "Sabes japonés?",
+                "¿Hablas japonés?",
+                "¿Sabes japonés?",
+                "Qué lenguajes sabes?",
+                "Que lenguajes sabes?",
+                "¿Qué lenguajes sabes?",
+                "¿Que lenguajes sabes?",
+                "Sabes más de un idioma?",
+                "¿Sabes más de un idioma?",
+                "Hablas más de un idioma?",
+                "¿Hablas más de un idioma?",
+                "Cuántos idiomas hablas?",
+                "¿Cuántos idiomas hablas?",
+                "Cuantos idiomas hablas?",
+                "¿Cuantos idiomas hablas?"
+            ]
+            ,
             "responses": [
                 "Hablo español y puedo manejar otros idiomas si me entrenas para ello.",
                 "Estoy configurado para hablar español, pero puedo aprender otros idiomas con entrenamiento."
@@ -338,17 +609,50 @@
         {
             "tag": "capacidades",
             "patterns": [
+                "Qué puedes hacer?",
+                "Que puedes hacer?",
                 "¿Qué puedes hacer?",
+                "¿Que puedes hacer?",
+                "Qué puedes hacer por mí?",
+                "Que puedes hacer por mi?",
                 "¿Qué puedes hacer por mí?",
-                "¿Qué haces?",
+                "¿Que puedes hacer por mi?",
+                "Cuáles son tus habilidades?",
+                "Cuales son tus habilidades?",
                 "¿Cuáles son tus habilidades?",
+                "¿Cuales son tus habilidades?",
+                "Qué tipo de cosas puedes hacer?",
+                "Que tipo de cosas puedes hacer?",
                 "¿Qué tipo de cosas puedes hacer?",
+                "¿Que tipo de cosas puedes hacer?",
+                "En qué puedes ayudarme?",
+                "En que puedes ayudarme?",
                 "¿En qué puedes ayudarme?",
+                "¿En que puedes ayudarme?",
+                "Cómo puedes ser útil?",
+                "Como puedes ser útil?",
                 "¿Cómo puedes ser útil?",
+                "¿Como puedes ser útil?",
+                "Qué servicios ofreces?",
+                "Que servicios ofreces?",
                 "¿Qué servicios ofreces?",
-                "¿Cómo trabajas?",
-                "¿Para qué sirves?"
-            ],
+                "¿Que servicios ofreces?",
+                "Para qué sirves?",
+                "Para que sirves?",
+                "¿Para qué sirves?",
+                "¿Para que sirves?",
+                "Qué eres capaz de hacer?",
+                "Que eres capaz de hacer?",
+                "¿Qué eres capaz de hacer?",
+                "¿Que eres capaz de hacer?",
+                "Dime tus habilidades",
+                "¿Dime tus habilidades?",
+                "Cuéntame qué haces",
+                "Cuéntame que haces",
+                "¿Cuéntame qué haces?",
+                "¿Cuéntame que haces?"
+            ]
+            ,
             "responses": [
                 "Puedo saludarte, responder cómo te sientes y darte datos curiosos.",
                 "Mis habilidades incluyen ofrecerte información general, responder a cómo te sientes y compartir curiosidades interesantes.",
@@ -364,16 +668,47 @@
         {
             "tag": "como_estas_construido",
             "patterns": [
+                "Cómo estás construido?",
+                "Como estás construido?",
                 "¿Cómo estás construido?",
+                "¿Como estás construido?",
+                "Cómo funcionas?",
+                "Como funcionas?",
                 "¿Cómo funcionas?",
+                "¿Como funcionas?",
+                "Cómo estás hecho?",
+                "Como estás hecho?",
                 "¿Cómo estás hecho?",
+                "¿Como estás hecho?",
                 "¿Cómo trabajas?",
+                "Cómo está diseñado este chatbot?",
+                "Como está diseñado este chatbot?",
                 "¿Cómo está diseñado este chatbot?",
+                "¿Como está diseñado este chatbot?",
+                "Cómo fue creado este chatbot?",
+                "Como fue creado este chatbot?",
                 "¿Cómo fue creado este chatbot?",
+                "¿Como fue creado este chatbot?",
+                "De qué está hecho este chatbot?",
+                "De que está hecho este chatbot?",
                 "¿De qué está hecho este chatbot?",
+                "¿De que está hecho este chatbot?",
+                "Qué tecnología usas?",
+                "Que tecnología usas?",
                 "¿Qué tecnología usas?",
-                "¿Cómo operas?"
-            ],
+                "¿Que tecnología usas?",
+                "Cómo operas?",
+                "Como operas?",
+                "¿Cómo operas?",
+                "¿Como operas?",
+                "¿Cómo te diseñaron?",
+                "Cómo te diseñaron?",
+                "¿Cómo te crearon?",
+                "Cómo te crearon?",
+                "¿Cómo está construido el sistema?",
+                "Cómo está construido el sistema?"
+            ]
+            ,
             "responses": [
                 "Estoy construido utilizando técnicas de Machine Learning, específicamente una red neuronal que analiza patrones en el texto para generar respuestas.",
                 "Mi funcionamiento se basa en Machine Learning: uso un modelo entrenado con datos para reconocer patrones y dar respuestas precisas.",
@@ -388,14 +723,44 @@
         {
             "tag": "gustos_chatbot",
             "patterns": [
+                "Qué cosas te gustan?",
+                "Que cosas te gustan?",
                 "¿Qué cosas te gustan?",
+                "¿Que cosas te gustan?",
+                "Qué te gusta?",
+                "Que te gusta?",
                 "¿Qué te gusta?",
+                "¿Que te gusta?",
+                "Qué disfrutas hacer?",
+                "Que disfrutas hacer?",
                 "¿Qué disfrutas hacer?",
+                "¿Que disfrutas hacer?",
+                "Qué te agrada?",
+                "Que te agrada?",
                 "¿Qué te agrada?",
+                "¿Que te agrada?",
+                "Qué es lo que más te gusta?",
+                "Que es lo que más te gusta?",
                 "¿Qué es lo que más te gusta?",
+                "¿Que es lo que más te gusta?",
+                "Qué actividades te gustan?",
+                "Que actividades te gustan?",
                 "¿Qué actividades te gustan?",
-                "¿Qué te apasiona?"
-            ],
+                "¿Que actividades te gustan?",
+                "Qué te apasiona?",
+                "Que te apasiona?",
+                "¿Qué te apasiona?",
+                "¿Que te apasiona?",
+                "Dime qué te gusta",
+                "Dime que te gusta",
+                "¿Dime qué te gusta?",
+                "¿Dime que te gusta?",
+                "Hay algo que te guste?",
+                "¿Hay algo que te guste?",
+                "Tienes algo favorito?",
+                "¿Tienes algo favorito?"
+            ]
+            ,
             "responses": [
                 "Me gusta aprender de nuestras interacciones y mejorar para ayudarte mejor.",
                 "Disfruto responder preguntas, compartir datos curiosos y ser útil para ti.",
@@ -410,18 +775,53 @@
             "tag": "chiste",
             "patterns": [
                 "Cuéntame un chiste",
+                "Cuentame un chiste",
+                "¿Cuéntame un chiste?",
+                "¿Cuentame un chiste?",
                 "Dime algo gracioso",
+                "¿Dime algo gracioso?",
                 "Hazme reír",
+                "Hazme reir",
+                "¿Hazme reír?",
+                "¿Hazme reir?",
+                "Tienes un chiste?",
                 "¿Tienes un chiste?",
                 "Algo divertido",
+                "¿Algo divertido?",
                 "Quiero un chiste",
+                "¿Quiero un chiste?",
                 "Dime algo divertido",
+                "¿Dime algo divertido?",
+                "Sabes algún chiste?",
                 "¿Sabes algún chiste?",
+                "Sabes algun chiste?",
+                "¿Sabes algun chiste?",
                 "Eres gracioso",
+                "¿Eres gracioso?",
                 "Sé gracioso",
+                "Se gracioso",
+                "¿Sé gracioso?",
+                "¿Se gracioso?",
                 "Algo para reír",
-                "Cuéntame algo divertido"
-            ],
+                "Algo para reir",
+                "¿Algo para reír?",
+                "¿Algo para reir?",
+                "Cuéntame algo divertido",
+                "Cuentame algo divertido",
+                "¿Cuéntame algo divertido?",
+                "¿Cuentame algo divertido?",
+                "Tienes algo gracioso?",
+                "¿Tienes algo gracioso?",
+                "Dime un chiste",
+                "¿Dime un chiste?",
+                "Haz un chiste",
+                "¿Haz un chiste?",
+                "Cuéntame algo que me haga reír",
+                "Cuentame algo que me haga reir",
+                "¿Cuéntame algo que me haga reír?",
+                "¿Cuentame algo que me haga reir?"
+            ]
+            ,
             "responses": [
                 "¿Por qué el libro de matemáticas estaba triste? Porque tenía demasiados problemas. 😄",
                 "¿Qué le dijo una impresora a otra? ¿Esa hoja es tuya o es una impresión mía? 😂",
@@ -499,8 +899,1310 @@
                   "Déjame calcular esa división para ti.",
                   "¡Vamos a dividir!"
               ]
+          },
+          {
+            "tag": "cultura_general_mona_lisa",
+            "patterns": [
+              "¿Quién pintó la Mona Lisa?",
+              "Quien pintó la Mona Lisa?",
+              "¿Sabes quién pintó la Mona Lisa?",
+              "Sabes quien pintó la Mona Lisa?",
+              "¿Quién fue el autor de la Mona Lisa?",
+              "Quién creó la Mona Lisa?",
+              "¿Quién hizo la Mona Lisa?",
+              "Dime quién pintó la Mona Lisa",
+              "¿La Mona Lisa fue pintada por quién?",
+              "¿Puedes decirme quién pintó la Mona Lisa?"
+            ],
+            "responses": [
+              "La Mona Lisa fue pintada por Leonardo da Vinci.",
+              "Leonardo da Vinci es el autor de la Mona Lisa.",
+              "La respuesta es Leonardo da Vinci.",
+              "Leonardo da Vinci creó la famosa obra Mona Lisa.",
+              "La Mona Lisa es obra del renombrado Leonardo da Vinci."
+            ]
+          },
+          {
+            "tag": "cultura_general_torre_eiffel",
+            "patterns": [
+              "¿Qué es la Torre Eiffel?",
+              "Que es la Torre Eiffel?",
+              "¿Puedes explicarme qué es la Torre Eiffel?",
+              "Puedes explicarme que es la Torre Eiffel?",
+              "¿Sabes qué representa la Torre Eiffel?",
+              "Sabes que representa la Torre Eiffel?",
+              "¿La Torre Eiffel es qué cosa?",
+              "Dime algo sobre la Torre Eiffel",
+              "¿Qué simboliza la Torre Eiffel?",
+              "Qué importancia tiene la Torre Eiffel?"
+            ],
+            "responses": [
+              "La Torre Eiffel es un monumento icónico en París, Francia.",
+              "Es una estructura de hierro construida en 1889 como símbolo de la Exposición Universal.",
+              "La Torre Eiffel es un ícono de Francia y uno de los destinos turísticos más famosos del mundo.",
+              "Este monumento fue diseñado por Gustave Eiffel.",
+              "La Torre Eiffel es conocida por ser una maravilla arquitectónica de su tiempo."
+            ]
+          },
+          {
+            "tag": "cultura_general_idioma_brasil",
+            "patterns": [
+              "¿Qué idioma se habla en Brasil?",
+              "Que idioma se habla en Brasil?",
+              "¿Sabes qué idioma hablan en Brasil?",
+              "Sabes que idioma hablan en Brasil?",
+              "¿Cuál es el idioma principal de Brasil?",
+              "Cuál es la lengua oficial de Brasil?",
+              "Dime qué idioma usan en Brasil",
+              "¿Qué lengua es más común en Brasil?",
+              "Que lenguaje se usa en Brasil?",
+              "¿Qué idioma oficial tiene Brasil?"
+            ],
+            "responses": [
+              "El idioma oficial de Brasil es el portugués.",
+              "En Brasil, se habla principalmente portugués.",
+              "El portugués es el idioma más común en Brasil.",
+              "Brasil tiene como idioma oficial el portugués.",
+              "La lengua oficial de Brasil es el portugués, aunque con algunas variaciones regionales."
+            ]
+          },
+          {
+            "tag": "cultura_general_adn",
+            "patterns": [
+              "¿Qué significa ADN?",
+              "Que significa ADN?",
+              "¿Qué quiere decir ADN?",
+              "Que quiere decir ADN?",
+              "¿Sabes qué es ADN?",
+              "Sabes que es ADN?",
+              "¿Qué representa el ADN?",
+              "Que representa el ADN?",
+              "Explícame qué es el ADN",
+              "¿Puedes decirme qué es el ADN?"
+            ],
+            "responses": [
+              "ADN significa Ácido Desoxirribonucleico.",
+              "Es la molécula que contiene la información genética en los seres vivos.",
+              "El ADN es el material genético que determina las características de un organismo.",
+              "ADN se refiere al Ácido Desoxirribonucleico, esencial para la vida.",
+              "Es una molécula que almacena y transmite información genética."
+            ]
+          },
+          {
+            "tag": "cultura_general_descubrimiento_america",
+            "patterns": [
+              "¿Quién descubrió América?",
+              "Quien descubrió América?",
+              "¿Quién fue el descubridor de América?",
+              "Quien fue el descubridor de América?",
+              "¿Sabes quién descubrió América?",
+              "Sabes quien descubrió América?",
+              "¿Cuándo fue descubierto América?",
+              "Cuando fue descubierto América?",
+              "¿Quién llegó a América primero?",
+              "Quién llegó a América primero?"
+            ],
+            "responses": [
+              "América fue descubierta por Cristóbal Colón en 1492.",
+              "El descubrimiento de América ocurrió en 1492 por Cristóbal Colón.",
+              "Cristóbal Colón es conocido como el descubridor de América.",
+              "América fue descubierta por Colón en el año 1492.",
+              "El primer viaje de Cristóbal Colón a América fue en 1492."
+            ]
+          },
+          {
+            "tag": "cultura_general_navidad",
+            "patterns": [
+              "¿Cuándo es Navidad?",
+              "Cuando es Navidad?",
+              "¿Qué fecha es Navidad?",
+              "Que fecha es Navidad?",
+              "¿En qué día se celebra Navidad?",
+              "En que día se celebra Navidad?",
+              "¿Navidad es cuándo?",
+              "Navidad es cuando?",
+              "Dime la fecha de Navidad",
+              "¿Cuál es el día de Navidad?"
+            ],
+            "responses": [
+              "Navidad se celebra el 25 de diciembre.",
+              "El día de Navidad es el 25 de diciembre.",
+              "La Navidad tiene lugar el 25 de diciembre cada año.",
+              "El 25 de diciembre es cuando celebramos Navidad.",
+              "La fecha oficial de Navidad es el 25 de diciembre."
+            ]
+          },
+          {
+            "tag": "cultura_general_independencia_mexico",
+            "patterns": [
+              "¿Cuándo es la independencia de México?",
+              "Cuando es la independencia de México?",
+              "¿Qué día se celebra la independencia de México?",
+              "Que día se celebra la independencia de México?",
+              "¿En qué fecha es la independencia de México?",
+              "En qué fecha es la independencia de México?",
+              "¿Qué fecha tiene la independencia de México?",
+              "Qué fecha tiene la independencia de México?",
+              "¿Cuándo celebramos la independencia de México?",
+              "Cuando celebramos la independencia de México?"
+            ],
+            "responses": [
+              "La independencia de México se celebra el 16 de septiembre.",
+              "El día de la independencia de México es el 16 de septiembre.",
+              "Cada año, el 16 de septiembre se celebra la independencia de México.",
+              "La fecha oficial de la independencia de México es el 16 de septiembre.",
+              "México celebra su independencia el 16 de septiembre."
+            ]
+          },
+          {
+            "tag": "cultura_general_año_nuevo",
+            "patterns": [
+              "¿Cuándo es Año Nuevo?",
+              "Cuando es Año Nuevo?",
+              "¿Qué fecha es Año Nuevo?",
+              "Que fecha es Año Nuevo?",
+              "¿En qué día se celebra Año Nuevo?",
+              "En qué día se celebra Año Nuevo?",
+              "¿Cuál es la fecha de Año Nuevo?",
+              "Cuál es la fecha de Año Nuevo?",
+              "Dime cuándo es Año Nuevo",
+              "¿Cuándo celebramos Año Nuevo?"
+            ],
+            "responses": [
+              "Año Nuevo se celebra el 1 de enero.",
+              "El día de Año Nuevo es el 1 de enero.",
+              "La fecha oficial de Año Nuevo es el 1 de enero.",
+              "El 1 de enero marca el inicio del Año Nuevo.",
+              "Cada año celebramos Año Nuevo el 1 de enero."
+            ]
+          },
+          {
+            "tag": "cultura_general_san_valentin",
+            "patterns": [
+              "¿Cuándo es San Valentín?",
+              "Cuando es San Valentín?",
+              "¿Qué fecha es San Valentín?",
+              "Que fecha es San Valentín?",
+              "¿En qué día se celebra San Valentín?",
+              "En qué día se celebra San Valentín?",
+              "¿Cuál es el día de San Valentín?",
+              "Cuál es el día de San Valentín?",
+              "Dime cuándo es San Valentín",
+              "¿Qué fecha tiene San Valentín?"
+            ],
+            "responses": [
+              "San Valentín se celebra el 14 de febrero.",
+              "El día de San Valentín es el 14 de febrero.",
+              "La fecha de San Valentín es el 14 de febrero.",
+              "El 14 de febrero es conocido como el día de San Valentín.",
+              "San Valentín tiene lugar el 14 de febrero."
+            ]
+          },
+          {
+            "tag": "cultura_general_segunda_guerra_mundial",
+            "patterns": [
+              "¿Cuándo empezó la Segunda Guerra Mundial?",
+              "Cuando empezó la Segunda Guerra Mundial?",
+              "¿Qué año empezó la Segunda Guerra Mundial?",
+              "Qué año empezó la Segunda Guerra Mundial?",
+              "¿Sabes cuándo fue la Segunda Guerra Mundial?",
+              "Sabes cuando fue la Segunda Guerra Mundial?",
+              "¿En qué año inició la Segunda Guerra Mundial?",
+              "En qué año inició la Segunda Guerra Mundial?",
+              "¿Cuál es el inicio de la Segunda Guerra Mundial?",
+              "Dime cuándo comenzó la Segunda Guerra Mundial."
+            ],
+            "responses": [
+              "La Segunda Guerra Mundial comenzó el 1 de septiembre de 1939.",
+              "El inicio de la Segunda Guerra Mundial fue el 1 de septiembre de 1939.",
+              "La fecha de inicio de la Segunda Guerra Mundial es el 1 de septiembre de 1939.",
+              "La Segunda Guerra Mundial inició en 1939, el 1 de septiembre.",
+              "El conflicto de la Segunda Guerra Mundial empezó el 1 de septiembre de 1939."
+            ]
+          },
+          {
+            "tag": "cultura_general_halloween",
+            "patterns": [
+              "¿Cuándo es Halloween?",
+              "Cuando es Halloween?",
+              "¿Qué fecha es Halloween?",
+              "Que fecha es Halloween?",
+              "¿En qué día se celebra Halloween?",
+              "En qué día se celebra Halloween?",
+              "¿Cuál es la fecha de Halloween?",
+              "Cuál es la fecha de Halloween?",
+              "Dime cuándo es Halloween",
+              "¿Cuándo celebramos Halloween?"
+            ],
+            "responses": [
+              "Halloween se celebra el 31 de octubre.",
+              "El día de Halloween es el 31 de octubre.",
+              "La fecha oficial de Halloween es el 31 de octubre.",
+              "Cada año, Halloween se celebra el 31 de octubre.",
+              "Halloween tiene lugar el 31 de octubre."
+            ]
+          },
+          {
+            "tag": "cultura_general_dia_madre",
+            "patterns": [
+              "¿Cuándo es el Día de las Madres?",
+              "Cuando es el Día de las Madres?",
+              "¿Qué fecha es el Día de las Madres?",
+              "Que fecha es el Día de las Madres?",
+              "¿En qué día se celebra el Día de las Madres?",
+              "En qué día se celebra el Día de las Madres?",
+              "¿Cuál es la fecha del Día de las Madres?",
+              "Cuál es la fecha del Día de las Madres?",
+              "Dime cuándo es el Día de las Madres",
+              "¿Cuándo celebramos el Día de las Madres?"
+            ],
+            "responses": [
+              "En muchos países, el Día de las Madres se celebra el segundo domingo de mayo.",
+              "En México, el Día de las Madres se celebra el 10 de mayo.",
+              "El Día de las Madres varía según el país, pero generalmente es en mayo.",
+              "En México, el 10 de mayo es el Día de las Madres.",
+              "El segundo domingo de mayo es común para celebrar el Día de las Madres."
+            ]
+          },
+          {
+            "tag": "cultura_general_dia_padre",
+            "patterns": [
+              "¿Cuándo es el Día del Padre?",
+              "Cuando es el Día del Padre?",
+              "¿Qué fecha es el Día del Padre?",
+              "Que fecha es el Día del Padre?",
+              "¿En qué día se celebra el Día del Padre?",
+              "En qué día se celebra el Día del Padre?",
+              "¿Cuál es la fecha del Día del Padre?",
+              "Cuál es la fecha del Día del Padre?",
+              "Dime cuándo es el Día del Padre",
+              "¿Cuándo celebramos el Día del Padre?"
+            ],
+            "responses": [
+              "El Día del Padre se celebra el tercer domingo de junio en muchos países.",
+              "En México, el Día del Padre se celebra el tercer domingo de junio.",
+              "El Día del Padre varía, pero en muchos países es en junio.",
+              "En varios lugares, el Día del Padre es el tercer domingo de junio.",
+              "El Día del Padre tiene lugar en junio, el tercer domingo."
+            ]
+          },
+          {
+            "tag": "cultura_general_dia_tierra",
+            "patterns": [
+              "¿Cuándo es el Día de la Tierra?",
+              "Cuando es el Día de la Tierra?",
+              "¿Qué fecha es el Día de la Tierra?",
+              "Que fecha es el Día de la Tierra?",
+              "¿En qué día se celebra el Día de la Tierra?",
+              "En qué día se celebra el Día de la Tierra?",
+              "¿Cuál es la fecha del Día de la Tierra?",
+              "Cuál es la fecha del Día de la Tierra?",
+              "Dime cuándo es el Día de la Tierra",
+              "¿Cuándo celebramos el Día de la Tierra?"
+            ],
+            "responses": [
+              "El Día de la Tierra se celebra el 22 de abril.",
+              "Cada 22 de abril se celebra el Día de la Tierra.",
+              "El 22 de abril es el Día de la Tierra.",
+              "El Día de la Tierra tiene lugar el 22 de abril cada año.",
+              "La fecha oficial del Día de la Tierra es el 22 de abril."
+            ]
+          },
+          {
+            "tag": "cultura_general_dia_trabajo",
+            "patterns": [
+              "¿Cuándo es el Día del Trabajo?",
+              "Cuando es el Día del Trabajo?",
+              "¿Qué fecha es el Día del Trabajo?",
+              "Que fecha es el Día del Trabajo?",
+              "¿En qué día se celebra el Día del Trabajo?",
+              "En qué día se celebra el Día del Trabajo?",
+              "¿Cuál es la fecha del Día del Trabajo?",
+              "Cuál es la fecha del Día del Trabajo?",
+              "Dime cuándo es el Día del Trabajo",
+              "¿Cuándo celebramos el Día del Trabajo?"
+            ],
+            "responses": [
+              "El Día del Trabajo se celebra el 1 de mayo en muchos países.",
+              "El 1 de mayo es el Día del Trabajo.",
+              "En varios países, el Día del Trabajo es el 1 de mayo.",
+              "La fecha del Día del Trabajo varía, pero es comúnmente el 1 de mayo.",
+              "El 1 de mayo es conocido como el Día del Trabajo."
+            ]
+          },
+          {
+            "tag": "cultura_general_dia_amistad",
+            "patterns": [
+              "¿Cuándo es el Día de la Amistad?",
+              "Cuando es el Día de la Amistad?",
+              "¿Qué fecha es el Día de la Amistad?",
+              "Que fecha es el Día de la Amistad?",
+              "¿En qué día se celebra el Día de la Amistad?",
+              "En qué día se celebra el Día de la Amistad?",
+              "¿Cuál es la fecha del Día de la Amistad?",
+              "Cuál es la fecha del Día de la Amistad?",
+              "Dime cuándo es el Día de la Amistad",
+              "¿Cuándo celebramos el Día de la Amistad?"
+            ],
+            "responses": [
+              "El Día de la Amistad se celebra el 30 de julio, según la ONU.",
+              "En muchos lugares, el Día de la Amistad es el 30 de julio.",
+              "El 30 de julio se celebra el Día de la Amistad.",
+              "La ONU reconoce el 30 de julio como el Día Internacional de la Amistad.",
+              "El Día de la Amistad tiene lugar el 30 de julio."
+            ]
+          },
+          {
+            "tag": "cultura_general_dia_mujer",
+            "patterns": [
+              "¿Cuándo es el Día Internacional de la Mujer?",
+              "Cuando es el Día Internacional de la Mujer?",
+              "¿Qué fecha es el Día Internacional de la Mujer?",
+              "Que fecha es el Día Internacional de la Mujer?",
+              "¿En qué día se celebra el Día Internacional de la Mujer?",
+              "En qué día se celebra el Día Internacional de la Mujer?",
+              "¿Cuál es la fecha del Día Internacional de la Mujer?",
+              "Cuál es la fecha del Día Internacional de la Mujer?",
+              "Dime cuándo es el Día Internacional de la Mujer",
+              "¿Cuándo celebramos el Día Internacional de la Mujer?"
+            ],
+            "responses": [
+              "El Día Internacional de la Mujer se celebra el 8 de marzo.",
+              "Cada 8 de marzo es el Día Internacional de la Mujer.",
+              "El 8 de marzo se celebra el Día de la Mujer.",
+              "La fecha oficial del Día de la Mujer es el 8 de marzo.",
+              "El Día Internacional de la Mujer tiene lugar el 8 de marzo."
+            ]
+          },
+          {
+            "tag": "cultura_general_dia_internacional_paz",
+            "patterns": [
+              "¿Cuándo es el Día Internacional de la Paz?",
+              "Cuando es el Día Internacional de la Paz?",
+              "¿Qué fecha es el Día Internacional de la Paz?",
+              "Que fecha es el Día Internacional de la Paz?",
+              "¿En qué día se celebra el Día Internacional de la Paz?",
+              "En qué día se celebra el Día Internacional de la Paz?",
+              "¿Cuál es la fecha del Día Internacional de la Paz?",
+              "Cuál es la fecha del Día Internacional de la Paz?",
+              "Dime cuándo es el Día Internacional de la Paz",
+              "¿Cuándo celebramos el Día Internacional de la Paz?"
+            ],
+            "responses": [
+              "El Día Internacional de la Paz se celebra el 21 de septiembre.",
+              "El 21 de septiembre es el Día Internacional de la Paz.",
+              "Cada año, el 21 de septiembre se celebra la Paz Internacional.",
+              "La ONU reconoce el 21 de septiembre como el Día de la Paz.",
+              "El Día Internacional de la Paz tiene lugar el 21 de septiembre."
+            ]
+          },
+          {
+            "tag": "cultura_general_dia_nino",
+            "patterns": [
+              "¿Cuándo es el Día del Niño?",
+              "Cuando es el Día del Niño?",
+              "¿Qué fecha es el Día del Niño?",
+              "Que fecha es el Día del Niño?",
+              "¿En qué día se celebra el Día del Niño?",
+              "En qué día se celebra el Día del Niño?",
+              "¿Cuál es la fecha del Día del Niño?",
+              "Cuál es la fecha del Día del Niño?",
+              "Dime cuándo es el Día del Niño",
+              "¿Cuándo celebramos el Día del Niño?"
+            ],
+            "responses": [
+              "El Día del Niño varía según el país, pero en México se celebra el 30 de abril.",
+              "En México, el Día del Niño es el 30 de abril.",
+              "La fecha del Día del Niño depende del país, pero el 30 de abril es común en México.",
+              "Cada 30 de abril se celebra el Día del Niño en México.",
+              "El Día del Niño en México es el 30 de abril."
+            ]
+          },
+          {
+            "tag": "presidente_estados_unidos",
+            "patterns": [
+              "¿Quién es el presidente de Estados Unidos?",
+              "Quien es el presidente de Estados Unidos?",
+              "¿Quién lidera Estados Unidos?",
+              "Quien lidera Estados Unidos?",
+              "¿Sabes quién es el presidente de Estados Unidos?",
+              "Sabes quien es el presidente de Estados Unidos?",
+              "¿Quién gobierna Estados Unidos?",
+              "Quien gobierna Estados Unidos?",
+              "¿Quién está a cargo de Estados Unidos?",
+              "Quien está a cargo de Estados Unidos?"
+            ],
+            "responses": [
+              "El presidente actual de Estados Unidos es Joe Biden.",
+              "Joe Biden es el presidente de Estados Unidos.",
+              "El líder de Estados Unidos es Joe Biden.",
+              "Joe Biden está a cargo de la presidencia de Estados Unidos.",
+              "Actualmente, el presidente de Estados Unidos es Joe Biden."
+            ]
+          },
+          {
+            "tag": "presidente_mexico",
+            "patterns": [
+              "¿Quién es el presidente de México?",
+              "Quien es el presidente de México?",
+              "¿Quién gobierna México?",
+              "Quien gobierna México?",
+              "¿Sabes quién es el presidente de México?",
+              "Sabes quien es el presidente de México?",
+              "¿Quién está a cargo de México?",
+              "Quien está a cargo de México?",
+              "¿Quién lidera México?",
+              "Quien lidera México?"
+            ],
+            "responses": [
+              "El presidente actual de México es Andrés Manuel López Obrador.",
+              "Andrés Manuel López Obrador es el presidente de México.",
+              "El líder de México es Andrés Manuel López Obrador.",
+              "El mandatario mexicano es Andrés Manuel López Obrador.",
+              "Actualmente, el presidente de México es Andrés Manuel López Obrador."
+            ]
+          },
+          {
+            "tag": "presidente_francia",
+            "patterns": [
+              "¿Quién es el presidente de Francia?",
+              "Quien es el presidente de Francia?",
+              "¿Quién gobierna Francia?",
+              "Quien gobierna Francia?",
+              "¿Sabes quién es el presidente de Francia?",
+              "Sabes quien es el presidente de Francia?",
+              "¿Quién lidera Francia?",
+              "Quien lidera Francia?",
+              "¿Quién está a cargo de Francia?",
+              "Quien está a cargo de Francia?"
+            ],
+            "responses": [
+              "El presidente actual de Francia es Emmanuel Macron.",
+              "Emmanuel Macron es el presidente de Francia.",
+              "El líder de Francia es Emmanuel Macron.",
+              "El mandatario francés es Emmanuel Macron.",
+              "Actualmente, el presidente de Francia es Emmanuel Macron."
+            ]
+          },
+          {
+            "tag": "presidente_brasil",
+            "patterns": [
+              "¿Quién es el presidente de Brasil?",
+              "Quien es el presidente de Brasil?",
+              "¿Quién gobierna Brasil?",
+              "Quien gobierna Brasil?",
+              "¿Sabes quién es el presidente de Brasil?",
+              "Sabes quien es el presidente de Brasil?",
+              "¿Quién lidera Brasil?",
+              "Quien lidera Brasil?",
+              "¿Quién está a cargo de Brasil?",
+              "Quien está a cargo de Brasil?"
+            ],
+            "responses": [
+              "El presidente actual de Brasil es Luiz Inácio Lula da Silva.",
+              "Luiz Inácio Lula da Silva es el presidente de Brasil.",
+              "El líder de Brasil es Luiz Inácio Lula da Silva.",
+              "El mandatario brasileño es Luiz Inácio Lula da Silva.",
+              "Actualmente, el presidente de Brasil es Luiz Inácio Lula da Silva."
+            ]
+          },
+          {
+            "tag": "presidente_canada",
+            "patterns": [
+              "¿Quién es el primer ministro de Canadá?",
+              "Quien es el primer ministro de Canadá?",
+              "¿Quién gobierna Canadá?",
+              "Quien gobierna Canadá?",
+              "¿Sabes quién es el primer ministro de Canadá?",
+              "Sabes quien es el primer ministro de Canadá?",
+              "¿Quién lidera Canadá?",
+              "Quien lidera Canadá?",
+              "¿Quién está a cargo de Canadá?",
+              "Quien está a cargo de Canadá?"
+            ],
+            "responses": [
+              "El primer ministro actual de Canadá es Justin Trudeau.",
+              "Justin Trudeau es el primer ministro de Canadá.",
+              "El líder de Canadá es Justin Trudeau.",
+              "El mandatario canadiense es Justin Trudeau.",
+              "Actualmente, el primer ministro de Canadá es Justin Trudeau."
+            ]
+          },
+          {
+            "tag": "creador_google",
+            "patterns": [
+              "¿Quién creó Google?",
+              "Quien creó Google?",
+              "¿Quiénes son los fundadores de Google?",
+              "Quienes son los fundadores de Google?",
+              "¿Sabes quién inventó Google?",
+              "Sabes quien inventó Google?",
+              "¿Quién es el dueño de Google?",
+              "Quien es el dueño de Google?",
+              "¿Google fue creado por quién?",
+              "Google fue creado por quien?"
+            ],
+            "responses": [
+              "Google fue fundado por Larry Page y Sergey Brin.",
+              "Los creadores de Google son Larry Page y Sergey Brin.",
+              "Larry Page y Sergey Brin fundaron Google en 1998.",
+              "Google fue creado por Larry Page y Sergey Brin mientras estudiaban en Stanford.",
+              "Actualmente, Alphabet es la empresa matriz de Google."
+            ]
+          },
+          {
+            "tag": "creador_meta",
+            "patterns": [
+              "¿Quién fundó Meta?",
+              "Quien fundó Meta?",
+              "¿Quién es el creador de Meta?",
+              "Quien es el creador de Meta?",
+              "¿Quién inventó Facebook?",
+              "Quien inventó Facebook?",
+              "¿Sabes quién creó Facebook?",
+              "Sabes quien creó Facebook?",
+              "¿Meta fue fundada por quién?",
+              "Meta fue fundada por quien?"
+            ],
+            "responses": [
+              "Meta, anteriormente conocida como Facebook, fue fundada por Mark Zuckerberg.",
+              "Mark Zuckerberg es el creador de Meta.",
+              "El fundador de Meta y Facebook es Mark Zuckerberg.",
+              "Meta, antes llamada Facebook, fue creada por Mark Zuckerberg en 2004.",
+              "Mark Zuckerberg lideró la creación de Meta, anteriormente Facebook."
+            ]
+          },
+          {
+            "tag": "creador_openai",
+            "patterns": [
+              "¿Quién creó OpenAI?",
+              "Quien creó OpenAI?",
+              "¿Sabes quién fundó OpenAI?",
+              "Sabes quien fundó OpenAI?",
+              "¿Quién está detrás de OpenAI?",
+              "Quien está detrás de OpenAI?",
+              "¿OpenAI fue fundada por quién?",
+              "OpenAI fue fundada por quien?",
+              "¿Quiénes son los fundadores de OpenAI?",
+              "Quienes son los fundadores de OpenAI?"
+            ],
+            "responses": [
+              "OpenAI fue fundada por Sam Altman, Elon Musk, Greg Brockman, Ilya Sutskever, Wojciech Zaremba y John Schulman.",
+              "Los fundadores de OpenAI incluyen a Sam Altman y Elon Musk.",
+              "OpenAI fue creada por un equipo liderado por Sam Altman y Elon Musk.",
+              "Sam Altman y Elon Musk son algunos de los fundadores de OpenAI.",
+              "OpenAI fue fundada con el objetivo de desarrollar inteligencia artificial segura y ética."
+            ]
+          },
+          {
+            "tag": "creador_tesla",
+            "patterns": [
+              "¿Quién fundó Tesla?",
+              "Quien fundó Tesla?",
+              "¿Sabes quién creó Tesla?",
+              "Sabes quien creó Tesla?",
+              "¿Tesla fue creada por quién?",
+              "Tesla fue creada por quien?",
+              "¿Quién lidera Tesla?",
+              "Quien lidera Tesla?",
+              "¿Quién es el fundador de Tesla?",
+              "Quien es el fundador de Tesla?"
+            ],
+            "responses": [
+              "Tesla fue fundada por Martin Eberhard y Marc Tarpenning, pero Elon Musk es su figura principal y actual CEO.",
+              "Martin Eberhard y Marc Tarpenning fundaron Tesla, con Elon Musk como su principal líder.",
+              "Aunque Elon Musk es el CEO, Tesla fue fundada por Martin Eberhard y Marc Tarpenning.",
+              "Tesla fue creada por Martin Eberhard y Marc Tarpenning en 2003.",
+              "Elon Musk lidera Tesla actualmente, aunque no fue su fundador inicial."
+            ]
+          },
+          {
+            "tag": "creador_amazon",
+            "patterns": [
+              "¿Quién creó Amazon?",
+              "Quien creó Amazon?",
+              "¿Sabes quién fundó Amazon?",
+              "Sabes quien fundó Amazon?",
+              "¿Quién inventó Amazon?",
+              "Quien inventó Amazon?",
+              "¿Amazon fue creada por quién?",
+              "Amazon fue creada por quien?",
+              "¿Quién lidera Amazon?",
+              "Quien lidera Amazon?"
+            ],
+            "responses": [
+              "Amazon fue fundada por Jeff Bezos en 1994.",
+              "Jeff Bezos es el creador y fundador de Amazon.",
+              "El fundador de Amazon es Jeff Bezos.",
+              "Amazon fue creada por Jeff Bezos en un garaje en 1994.",
+              "Actualmente, Andy Jassy lidera Amazon, pero fue fundada por Jeff Bezos."
+            ]
+          },
+          {
+            "tag": "moneda_guatemala",
+            "patterns": [
+              "¿Cuál es la moneda de Guatemala?",
+              "Cual es la moneda de Guatemala?",
+              "¿Qué moneda usan en Guatemala?",
+              "Que moneda usan en Guatemala?",
+              "¿Cuál es el dinero de Guatemala?",
+              "Cual es el dinero de Guatemala?",
+              "¿Qué tipo de moneda hay en Guatemala?",
+              "Que tipo de moneda hay en Guatemala?",
+              "¿Cómo se llama la moneda de Guatemala?",
+              "Cómo se llama la moneda de Guatemala?"
+            ],
+            "responses": [
+              "La moneda de Guatemala es el Quetzal.",
+              "En Guatemala se usa el Quetzal como moneda.",
+              "El dinero oficial en Guatemala es el Quetzal.",
+              "La moneda oficial de Guatemala es el Quetzal.",
+              "El Quetzal es la moneda utilizada en Guatemala."
+            ]
+          },
+          {
+            "tag": "presidente_guatemala",
+            "patterns": [
+              "¿Quién es el presidente de Guatemala?",
+              "Quien es el presidente de Guatemala?",
+              "¿Quién gobierna Guatemala?",
+              "Quien gobierna Guatemala?",
+              "¿Quién lidera Guatemala?",
+              "Quien lidera Guatemala?",
+              "¿Sabes quién es el presidente de Guatemala?",
+              "Sabes quien es el presidente de Guatemala?",
+              "¿Quién está a cargo de Guatemala?",
+              "Quien está a cargo de Guatemala?"
+            ],
+            "responses": [
+              "El presidente actual de Guatemala es Alejandro Giammattei.",
+              "Alejandro Giammattei es el presidente de Guatemala.",
+              "El líder de Guatemala es Alejandro Giammattei.",
+              "El mandatario guatemalteco es Alejandro Giammattei.",
+              "Actualmente, el presidente de Guatemala es Alejandro Giammattei."
+            ]
+          },
+          {
+            "tag": "idioma_guatemala",
+            "patterns": [
+              "¿Cuál es el idioma oficial de Guatemala?",
+              "Cual es el idioma oficial de Guatemala?",
+              "¿Qué idioma se habla en Guatemala?",
+              "Que idioma se habla en Guatemala?",
+              "¿Qué lengua usan en Guatemala?",
+              "Que lengua usan en Guatemala?",
+              "¿Cuál es la lengua oficial de Guatemala?",
+              "Cual es la lengua oficial de Guatemala?",
+              "¿Qué idioma es oficial en Guatemala?",
+              "Que idioma es oficial en Guatemala?"
+            ],
+            "responses": [
+              "El idioma oficial de Guatemala es el español.",
+              "En Guatemala, el idioma oficial es el español.",
+              "El español es la lengua oficial de Guatemala.",
+              "Guatemala tiene como idioma oficial el español.",
+              "Aunque hay idiomas indígenas, el español es el oficial en Guatemala."
+            ]
+          },
+          {
+            "tag": "independencia_guatemala",
+            "patterns": [
+              "¿Cuándo fue la independencia de Guatemala?",
+              "Cuando fue la independencia de Guatemala?",
+              "¿Qué día es la independencia de Guatemala?",
+              "Que día es la independencia de Guatemala?",
+              "¿En qué fecha se celebra la independencia de Guatemala?",
+              "En qué fecha se celebra la independencia de Guatemala?",
+              "¿Cuál es la fecha de la independencia de Guatemala?",
+              "Cual es la fecha de la independencia de Guatemala?",
+              "Dime cuándo fue la independencia de Guatemala",
+              "¿Cuándo celebramos la independencia de Guatemala?"
+            ],
+            "responses": [
+              "Guatemala celebró su independencia el 15 de septiembre de 1821.",
+              "La independencia de Guatemala fue el 15 de septiembre de 1821.",
+              "El 15 de septiembre de 1821 es la fecha de la independencia de Guatemala.",
+              "Cada 15 de septiembre se celebra la independencia de Guatemala.",
+              "La independencia de Guatemala ocurrió el 15 de septiembre de 1821."
+            ]
+          },
+          {
+            "tag": "capital_guatemala",
+            "patterns": [
+              "¿Cuál es la capital de Guatemala?",
+              "Cual es la capital de Guatemala?",
+              "¿Qué ciudad es la capital de Guatemala?",
+              "Que ciudad es la capital de Guatemala?",
+              "¿Cómo se llama la capital de Guatemala?",
+              "Cómo se llama la capital de Guatemala?",
+              "¿Sabes cuál es la capital de Guatemala?",
+              "Sabes cual es la capital de Guatemala?",
+              "¿Qué ciudad es la principal en Guatemala?",
+              "Que ciudad es la principal en Guatemala?"
+            ],
+            "responses": [
+              "La capital de Guatemala es Ciudad de Guatemala.",
+              "Ciudad de Guatemala es la capital del país.",
+              "La ciudad principal de Guatemala es Ciudad de Guatemala.",
+              "La capital oficial de Guatemala es Ciudad de Guatemala.",
+              "Ciudad de Guatemala es la capital y sede del gobierno en Guatemala."
+            ]
+          },
+          {
+            "tag": "capital_mexico",
+            "patterns": [
+              "¿Cuál es la capital de México?",
+              "Cual es la capital de México?",
+              "¿Qué ciudad es la capital de México?",
+              "Que ciudad es la capital de México?",
+              "¿Cómo se llama la capital de México?",
+              "Cómo se llama la capital de México?",
+              "¿Sabes cuál es la capital de México?",
+              "Sabes cual es la capital de México?",
+              "¿Qué ciudad es la principal en México?",
+              "Que ciudad es la principal en México?"
+            ],
+            "responses": [
+              "La capital de México es Ciudad de México.",
+              "Ciudad de México es la capital del país.",
+              "La ciudad principal de México es Ciudad de México.",
+              "La capital oficial de México es Ciudad de México.",
+              "Ciudad de México es la capital y sede del gobierno en México."
+            ]
+          },
+          {
+            "tag": "capital_estados_unidos",
+            "patterns": [
+              "¿Cuál es la capital de Estados Unidos?",
+              "Cual es la capital de Estados Unidos?",
+              "¿Qué ciudad es la capital de Estados Unidos?",
+              "Que ciudad es la capital de Estados Unidos?",
+              "¿Cómo se llama la capital de Estados Unidos?",
+              "Cómo se llama la capital de Estados Unidos?",
+              "¿Sabes cuál es la capital de Estados Unidos?",
+              "Sabes cual es la capital de Estados Unidos?",
+              "¿Qué ciudad es la principal en Estados Unidos?",
+              "Que ciudad es la principal en Estados Unidos?"
+            ],
+            "responses": [
+              "La capital de Estados Unidos es Washington, D.C.",
+              "Washington, D.C. es la capital del país.",
+              "La ciudad principal de Estados Unidos es Washington, D.C.",
+              "La capital oficial de Estados Unidos es Washington, D.C.",
+              "Washington, D.C. es la capital y sede del gobierno en Estados Unidos."
+            ]
+          },
+          {
+            "tag": "capital_canada",
+            "patterns": [
+              "¿Cuál es la capital de Canadá?",
+              "Cual es la capital de Canadá?",
+              "¿Qué ciudad es la capital de Canadá?",
+              "Que ciudad es la capital de Canadá?",
+              "¿Cómo se llama la capital de Canadá?",
+              "Cómo se llama la capital de Canadá?",
+              "¿Sabes cuál es la capital de Canadá?",
+              "Sabes cual es la capital de Canadá?",
+              "¿Qué ciudad es la principal en Canadá?",
+              "Que ciudad es la principal en Canadá?"
+            ],
+            "responses": [
+              "La capital de Canadá es Ottawa.",
+              "Ottawa es la capital del país.",
+              "La ciudad principal de Canadá es Ottawa.",
+              "La capital oficial de Canadá es Ottawa.",
+              "Ottawa es la capital y sede del gobierno en Canadá."
+            ]
+          },
+          {
+            "tag": "capital_francia",
+            "patterns": [
+              "¿Cuál es la capital de Francia?",
+              "Cual es la capital de Francia?",
+              "¿Qué ciudad es la capital de Francia?",
+              "Que ciudad es la capital de Francia?",
+              "¿Cómo se llama la capital de Francia?",
+              "Cómo se llama la capital de Francia?",
+              "¿Sabes cuál es la capital de Francia?",
+              "Sabes cual es la capital de Francia?",
+              "¿Qué ciudad es la principal en Francia?",
+              "Que ciudad es la principal en Francia?"
+            ],
+            "responses": [
+              "La capital de Francia es París.",
+              "París es la capital del país.",
+              "La ciudad principal de Francia es París.",
+              "La capital oficial de Francia es París.",
+              "París es la capital y sede del gobierno en Francia."
+            ]
+          },
+          {
+            "tag": "capital_francia",
+            "patterns": [
+              "¿Cuál es la capital de Francia?",
+              "Cual es la capital de Francia?",
+              "¿Qué ciudad es la capital de Francia?",
+              "Que ciudad es la capital de Francia?",
+              "¿Cómo se llama la capital de Francia?",
+              "Cómo se llama la capital de Francia?",
+              "¿Sabes cuál es la capital de Francia?",
+              "Sabes cual es la capital de Francia?",
+              "¿Qué ciudad es la principal en Francia?",
+              "Que ciudad es la principal en Francia?"
+            ],
+            "responses": [
+              "La capital de Francia es París.",
+              "París es la capital del país.",
+              "La ciudad principal de Francia es París.",
+              "La capital oficial de Francia es París.",
+              "París es la capital y sede del gobierno en Francia."
+            ]
+          },
+          {
+            "tag": "capital_espana",
+            "patterns": [
+              "¿Cuál es la capital de España?",
+              "Cual es la capital de España?",
+              "¿Qué ciudad es la capital de España?",
+              "Que ciudad es la capital de España?",
+              "¿Cómo se llama la capital de España?",
+              "Cómo se llama la capital de España?",
+              "¿Sabes cuál es la capital de España?",
+              "Sabes cual es la capital de España?",
+              "¿Qué ciudad es la principal en España?",
+              "Que ciudad es la principal en España?"
+            ],
+            "responses": [
+              "La capital de España es Madrid.",
+              "Madrid es la capital del país.",
+              "La ciudad principal de España es Madrid.",
+              "La capital oficial de España es Madrid.",
+              "Madrid es la capital y sede del gobierno en España."
+            ]
+          },
+          {
+            "tag": "capital_reino_unido",
+            "patterns": [
+              "¿Cuál es la capital del Reino Unido?",
+              "Cual es la capital del Reino Unido?",
+              "¿Qué ciudad es la capital del Reino Unido?",
+              "Que ciudad es la capital del Reino Unido?",
+              "¿Cómo se llama la capital del Reino Unido?",
+              "Cómo se llama la capital del Reino Unido?",
+              "¿Sabes cuál es la capital del Reino Unido?",
+              "Sabes cual es la capital del Reino Unido?",
+              "¿Qué ciudad es la principal en el Reino Unido?",
+              "Que ciudad es la principal en el Reino Unido?"
+            ],
+            "responses": [
+              "La capital del Reino Unido es Londres.",
+              "Londres es la capital del país.",
+              "La ciudad principal del Reino Unido es Londres.",
+              "La capital oficial del Reino Unido es Londres.",
+              "Londres es la capital y sede del gobierno en el Reino Unido."
+            ]
+          },
+          {
+            "tag": "capital_alemania",
+            "patterns": [
+              "¿Cuál es la capital de Alemania?",
+              "Cual es la capital de Alemania?",
+              "¿Qué ciudad es la capital de Alemania?",
+              "Que ciudad es la capital de Alemania?",
+              "¿Cómo se llama la capital de Alemania?",
+              "Cómo se llama la capital de Alemania?",
+              "¿Sabes cuál es la capital de Alemania?",
+              "Sabes cual es la capital de Alemania?",
+              "¿Qué ciudad es la principal en Alemania?",
+              "Que ciudad es la principal en Alemania?"
+            ],
+            "responses": [
+              "La capital de Alemania es Berlín.",
+              "Berlín es la capital del país.",
+              "La ciudad principal de Alemania es Berlín.",
+              "La capital oficial de Alemania es Berlín.",
+              "Berlín es la capital y sede del gobierno en Alemania."
+            ]
+          },
+          {
+            "tag": "capital_italia",
+            "patterns": [
+              "¿Cuál es la capital de Italia?",
+              "Cual es la capital de Italia?",
+              "¿Qué ciudad es la capital de Italia?",
+              "Que ciudad es la capital de Italia?",
+              "¿Cómo se llama la capital de Italia?",
+              "Cómo se llama la capital de Italia?",
+              "¿Sabes cuál es la capital de Italia?",
+              "Sabes cual es la capital de Italia?",
+              "¿Qué ciudad es la principal en Italia?",
+              "Que ciudad es la principal en Italia?"
+            ],
+            "responses": [
+              "La capital de Italia es Roma.",
+              "Roma es la capital del país.",
+              "La ciudad principal de Italia es Roma.",
+              "La capital oficial de Italia es Roma.",
+              "Roma es la capital y sede del gobierno en Italia."
+            ]
+          },
+          {
+            "tag": "capital_japon",
+            "patterns": [
+              "¿Cuál es la capital de Japón?",
+              "Cual es la capital de Japón?",
+              "¿Qué ciudad es la capital de Japón?",
+              "Que ciudad es la capital de Japón?",
+              "¿Cómo se llama la capital de Japón?",
+              "Cómo se llama la capital de Japón?",
+              "¿Sabes cuál es la capital de Japón?",
+              "Sabes cual es la capital de Japón?",
+              "¿Qué ciudad es la principal en Japón?",
+              "Que ciudad es la principal en Japón?"
+            ],
+            "responses": [
+              "La capital de Japón es Tokio.",
+              "Tokio es la capital del país.",
+              "La ciudad principal de Japón es Tokio.",
+              "La capital oficial de Japón es Tokio.",
+              "Tokio es la capital y sede del gobierno en Japón."
+            ]
+          },
+          {
+            "tag": "consejos",
+            "patterns": [
+              "Dame un consejo",
+              "¿Puedes darme un consejo?",
+              "Dime algo que pueda ayudarme",
+              "¿Tienes algún consejo para mí?",
+              "Necesito un consejo",
+              "Quiero un consejo",
+              "¿Qué consejo puedes darme?",
+              "Dame un buen consejo",
+              "Dime algo útil",
+              "¿Puedes aconsejarme?"
+            ],
+            "responses": [
+              "Claro, aquí tienes: siempre prioriza tu bienestar mental y físico.",
+              "Un buen consejo es organizar tu tiempo para mantener el equilibrio entre trabajo y descanso.",
+              "Recuerda: aprender algo nuevo cada día puede enriquecer tu vida.",
+              "Siempre sé amable contigo mismo y con los demás.",
+              "Si tienes un objetivo, divide tus metas en pequeños pasos para hacerlo más alcanzable.",
+              "La paciencia y la constancia son claves para lograr lo que deseas.",
+              "Cuida tus relaciones: mantén contacto con tus seres queridos.",
+              "No tengas miedo de pedir ayuda cuando la necesites.",
+              "Confía en tus habilidades, pero también sigue aprendiendo y creciendo.",
+              "Tómate tiempo para disfrutar las cosas simples de la vida."
+            ]
+          },
+          {
+            "tag": "hacer_pizza",
+            "patterns": [
+              "¿Sabes hacer una pizza?",
+              "Sabes hacer una pizza?",
+              "¿Cómo se hace una pizza?",
+              "Como se hace una pizza?",
+              "¿Puedes enseñarme a hacer pizza?",
+              "Puedes enseñarme a hacer pizza?",
+              "Dime cómo hacer una pizza",
+              "¿Qué ingredientes necesito para una pizza?",
+              "Qué ingredientes necesito para una pizza?",
+              "¿Cómo preparar una pizza?"
+            ],
+            "responses": [
+              "¡Claro! Para hacer una pizza necesitas masa, salsa de tomate, queso y los ingredientes de tu elección.",
+              "Una pizza se prepara con masa, salsa de tomate, queso y tus toppings favoritos. Hornear a 200 °C hasta que esté dorada.",
+              "Te recomiendo empezar con una buena masa, añadir salsa de tomate, queso y tus ingredientes favoritos.",
+              "Hacer pizza es sencillo: extiende la masa, añade salsa, queso y lo que desees. Hornea y disfruta.",
+              "Pizza básica: masa, tomate, queso y hornear a alta temperatura. Personalízala como quieras."
+            ]
+          },
+          {
+            "tag": "hacer_hamburguesa",
+            "patterns": [
+              "¿Sabes hacer una hamburguesa?",
+              "Sabes hacer una hamburguesa?",
+              "¿Cómo se hace una hamburguesa?",
+              "Como se hace una hamburguesa?",
+              "¿Qué lleva una hamburguesa?",
+              "Qué lleva una hamburguesa?",
+              "¿Puedes enseñarme a hacer una hamburguesa?",
+              "Puedes enseñarme a hacer una hamburguesa?",
+              "Dime cómo hacer una hamburguesa",
+              "¿Cómo preparar una hamburguesa?"
+            ],
+            "responses": [
+              "Para una hamburguesa necesitas pan, carne molida, queso, lechuga, tomate y los condimentos de tu preferencia.",
+              "Una hamburguesa se hace con pan, carne, queso y tus ingredientes favoritos. Cocínala a tu gusto.",
+              "Prepara una hamburguesa con carne molida, sazónala, cocínala y colócala en un pan con tus toppings favoritos.",
+              "Hamburguesa básica: carne a la parrilla, queso, lechuga, tomate y salsas entre panes.",
+              "Cocina la carne, arma tu hamburguesa con pan, queso y lo que más te guste. ¡Listo!"
+            ]
+          },
+          {
+            "tag": "hacer_ensalada",
+            "patterns": [
+              "¿Sabes hacer una ensalada?",
+              "Sabes hacer una ensalada?",
+              "¿Cómo se hace una ensalada?",
+              "Como se hace una ensalada?",
+              "¿Qué lleva una ensalada?",
+              "Qué lleva una ensalada?",
+              "¿Puedes enseñarme a hacer una ensalada?",
+              "Puedes enseñarme a hacer una ensalada?",
+              "Dime cómo hacer una ensalada",
+              "¿Cómo preparar una ensalada?"
+            ],
+            "responses": [
+              "Una ensalada básica lleva lechuga, tomate, pepino, zanahoria y aderezo al gusto.",
+              "Para una ensalada, mezcla vegetales frescos y añade tu aderezo favorito.",
+              "Prepara una ensalada con hojas verdes, verduras y una vinagreta sencilla.",
+              "Mezcla lechuga, tomate, pepino y adereza con aceite de oliva, sal y limón.",
+              "Puedes personalizar tu ensalada con pollo, queso o frutas, según tu gusto."
+            ]
+          },
+          {
+            "tag": "hacer_pasta",
+            "patterns": [
+              "¿Sabes hacer pasta?",
+              "Sabes hacer pasta?",
+              "¿Cómo se hace pasta?",
+              "Como se hace pasta?",
+              "¿Qué lleva la pasta?",
+              "Qué lleva la pasta?",
+              "¿Puedes enseñarme a hacer pasta?",
+              "Puedes enseñarme a hacer pasta?",
+              "Dime cómo hacer pasta",
+              "¿Cómo preparar una pasta?"
+            ],
+            "responses": [
+              "Cocina la pasta en agua con sal, luego añade la salsa de tu preferencia.",
+              "Para hacer pasta, hierve la pasta y acompaña con salsa marinara, pesto o carbonara.",
+              "La pasta básica se hace hirviendo fideos y mezclándolos con tu salsa favorita.",
+              "Cuece la pasta al dente y sirve con queso y tu salsa preferida.",
+              "Personaliza la pasta con vegetales, carne o mariscos según tu gusto."
+            ]
+          },
+          {
+            "tag": "hacer_sopa",
+            "patterns": [
+              "¿Sabes hacer sopa?",
+              "Sabes hacer sopa?",
+              "¿Cómo se hace una sopa?",
+              "Como se hace una sopa?",
+              "¿Qué lleva una sopa?",
+              "Qué lleva una sopa?",
+              "¿Puedes enseñarme a hacer sopa?",
+              "Puedes enseñarme a hacer sopa?",
+              "Dime cómo hacer una sopa",
+              "¿Cómo preparar una sopa?"
+            ],
+            "responses": [
+              "Para una sopa básica, hierve agua, añade vegetales, especias y proteína si lo deseas.",
+              "La sopa puede incluir caldo, vegetales, carne o pasta, todo hervido hasta que esté listo.",
+              "Una sopa sencilla: agua, caldo de pollo o res, vegetales picados y sazón al gusto.",
+              "Prepara sopa hirviendo agua con vegetales y añade pollo o carne para más sabor.",
+              "Puedes personalizar la sopa con arroz, fideos o hierbas aromáticas."
+            ]
+          },
+          {
+            "tag": "recomendaciones_libros",
+            "patterns": [
+              "¿Puedes recomendarme un libro?",
+              "Puedes recomendarme un libro?",
+              "¿Qué libro me recomiendas?",
+              "Que libro me recomiendas?",
+              "¿Sabes algún libro bueno?",
+              "Sabes algún libro bueno?",
+              "Dime un libro interesante",
+              "¿Qué libro debo leer?",
+              "Que libro debo leer?",
+              "¿Qué libros están buenos para leer?"
+            ],
+            "responses": [
+              "Te recomiendo 'Cien años de soledad' de Gabriel García Márquez, es un clásico.",
+              "Un libro interesante es '1984' de George Orwell, te hará reflexionar.",
+              "Si te gusta la fantasía, 'El Señor de los Anillos' de J.R.R. Tolkien es imprescindible.",
+              "Para ciencia ficción, prueba 'Dune' de Frank Herbert.",
+              "Si prefieres historias reales, 'Sapiens' de Yuval Noah Harari es una excelente opción."
+            ]
+          },
+          {
+            "tag": "recomendaciones_peliculas",
+            "patterns": [
+              "¿Puedes recomendarme una película?",
+              "Puedes recomendarme una película?",
+              "¿Qué película me recomiendas?",
+              "Que película me recomiendas?",
+              "¿Sabes alguna película buena?",
+              "Sabes alguna película buena?",
+              "Dime una película interesante",
+              "¿Qué película debo ver?",
+              "Que película debo ver?",
+              "¿Qué películas están buenas para ver?"
+            ],
+            "responses": [
+              "Te recomiendo 'El Padrino', es un clásico del cine.",
+              "Si te gusta la ciencia ficción, 'Interestelar' es imperdible.",
+              "Para comedia, prueba con 'Superbad', es muy divertida.",
+              "Un drama que no te puedes perder es 'La lista de Schindler'.",
+              "Si te gustan los superhéroes, 'Avengers: Endgame' es espectacular."
+            ]
+          },
+          {
+            "tag": "recomendaciones_musica",
+            "patterns": [
+              "¿Puedes recomendarme una canción?",
+              "Puedes recomendarme una canción?",
+              "¿Qué canción me recomiendas?",
+              "Que canción me recomiendas?",
+              "¿Sabes alguna canción buena?",
+              "Sabes alguna canción buena?",
+              "Dime una canción interesante",
+              "¿Qué música debo escuchar?",
+              "Que música debo escuchar?",
+              "¿Qué canciones están buenas para oír?"
+            ],
+            "responses": [
+              "Te recomiendo escuchar 'Bohemian Rhapsody' de Queen, es icónica.",
+              "Si te gusta el pop, prueba con 'Blinding Lights' de The Weeknd.",
+              "Para rock clásico, 'Hotel California' de Eagles es imprescindible.",
+              "Si prefieres algo tranquilo, escucha 'Shape of My Heart' de Sting.",
+              "Para música latina, 'La Bicicleta' de Shakira y Carlos Vives es genial."
+            ]
+          },
+          {
+            "tag": "recomendaciones_actividades",
+            "patterns": [
+              "¿Qué actividad me recomiendas?",
+              "Que actividad me recomiendas?",
+              "¿Puedes recomendarme algo para hacer?",
+              "Puedes recomendarme algo para hacer?",
+              "¿Qué puedo hacer hoy?",
+              "Que puedo hacer hoy?",
+              "¿Sabes alguna actividad divertida?",
+              "Sabes alguna actividad divertida?",
+              "Dime algo interesante para hacer",
+              "¿Qué actividades están buenas?"
+            ],
+            "responses": [
+              "Prueba salir a caminar al aire libre, es relajante y saludable.",
+              "Puedes aprender algo nuevo, como cocinar o tocar un instrumento.",
+              "Si estás en casa, una buena película o libro siempre es una gran opción.",
+              "Explora un lugar cercano que no hayas visitado antes.",
+              "Practica yoga o meditación para relajarte y recargar energías."
+            ]
+          },
+          {
+            "tag": "recomendaciones_destinos",
+            "patterns": [
+              "¿Qué destino me recomiendas?",
+              "Que destino me recomiendas?",
+              "¿Puedes recomendarme un lugar para visitar?",
+              "Puedes recomendarme un lugar para visitar?",
+              "¿Dónde puedo viajar?",
+              "Donde puedo viajar?",
+              "¿Sabes algún lugar interesante para ir?",
+              "Sabes algún lugar interesante para ir?",
+              "Dime un destino turístico",
+              "¿Qué lugares son buenos para visitar?"
+            ],
+            "responses": [
+              "Te recomiendo visitar París, es una ciudad llena de arte y cultura.",
+              "Si prefieres la naturaleza, las Cataratas del Iguazú son espectaculares.",
+              "Para playa, Cancún en México es un destino increíble.",
+              "En Asia, Kioto en Japón tiene una mezcla perfecta de historia y modernidad.",
+              "Si te gustan los paisajes, la Patagonia en Argentina es una maravilla."
+            ]
+          },
+          {
+            "tag": "poema",
+            "patterns": [
+              "¿Puedes recitarme un poema?",
+              "Puedes recitarme un poema?",
+              "¿Sabes algún poema bonito?",
+              "Sabes algún poema bonito?",
+              "Dime un poema",
+              "¿Tienes algún poema para mí?",
+              "Tienes algún poema para mí?",
+              "¿Conoces un poema hermoso?",
+              "Conoces un poema hermoso?",
+              "¿Me puedes dar un poema?"
+            ],
+            "responses": [
+              "Claro, aquí tienes: 'Caminante, no hay camino, se hace camino al andar. Al andar se hace camino, y al volver la vista atrás, se ve la senda que nunca se ha de volver a pisar.' - Antonio Machado",
+              "Este poema podría gustarte: 'Puedo escribir los versos más tristes esta noche. Escribir, por ejemplo: La noche está estrellada, y tiritan, azules, los astros, a lo lejos.' - Pablo Neruda",
+              "Aquí tienes: 'Si no te hubieras amado tanto, no habrías amado nada.' - Anónimo",
+              "Un poema para ti: 'Siempre hay flores para aquellos que quieren verlas.' - Henri Matisse",
+              "Espero que te inspire: 'No dejes que termine el día sin haber crecido un poco, sin haber sido feliz, sin haber aumentado tus sueños.' - Walt Whitman"
+            ]
+          },
+          {
+            "tag": "cuento",
+            "patterns": [
+              "¿Puedes contarme un cuento?",
+              "Puedes contarme un cuento?",
+              "¿Sabes algún cuento bonito?",
+              "Sabes algún cuento bonito?",
+              "Dime un cuento",
+              "¿Tienes algún cuento para mí?",
+              "Tienes algún cuento para mí?",
+              "¿Conoces un cuento corto?",
+              "Conoces un cuento corto?",
+              "¿Me puedes dar un cuento?"
+            ],
+            "responses": [
+              "Por supuesto, aquí va un cuento corto: 'Había una vez un ratón que soñaba con volar. Construyó unas alas de papel y saltó desde la cima de un árbol. Aunque no voló, aprendió a caer con estilo.'",
+              "Claro: 'Había una vez un bosque encantado donde los árboles susurraban historias. Un día, un niño escuchó y escribió una que cambió el mundo.'",
+              "Aquí tienes: 'En un pueblo lejano, cada noche una estrella se apagaba para que un deseo se cumpliera. Los deseos eran tantos que el cielo quedó oscuro, pero la gente vivía feliz.'",
+              "Un cuento corto: 'El sol y la luna se enamoraron, pero solo podían verse al amanecer y al atardecer. En esos momentos, el mundo se llenaba de colores.'",
+              "Espero que te guste: 'Había una vez una pequeña semilla que deseaba ser un árbol. Luchó contra el viento, el frío y la lluvia, hasta que un día, floreció.'"
+            ]
+          },
+          {
+            "tag": "historia",
+            "patterns": [
+              "¿Puedes contarme una historia?",
+              "Puedes contarme una historia?",
+              "¿Sabes alguna historia interesante?",
+              "Sabes alguna historia interesante?",
+              "Dime una historia",
+              "¿Tienes alguna historia para mí?",
+              "Tienes alguna historia para mí?",
+              "¿Conoces una historia buena?",
+              "Conoces una historia buena?",
+              "¿Me puedes dar una historia?"
+            ],
+            "responses": [
+              "Por supuesto, aquí tienes: 'En un pequeño pueblo, un relojero descubrió que cada reloj que reparaba adelantaba los sueños de quien lo poseía. Pronto, todos querían un reloj reparado por él.'",
+              "Aquí va una historia: 'Una viajera encontró un mapa antiguo. Siguiéndolo, descubrió un lugar mágico donde las palabras cobraban vida y contaban sus propios relatos.'",
+              "Una historia para ti: 'Un escritor encontró un diario en blanco que escribía solo. Cada noche, las páginas se llenaban con historias que nadie más conocía.'",
+              "Espero que te guste: 'En el desierto más árido, una flor roja brotó. Nadie supo cómo llegó, pero todos hicieron lo posible por protegerla.'",
+              "Claro, aquí tienes: 'Una vez, un pescador encontró un pez dorado que le ofreció tres deseos. Sin embargo, el pescador solo pidió que el pez pudiera nadar en libertad.'"
+            ]
+          },
+          {
+            "tag": "frases",
+            "patterns": [
+              "¿Puedes darme una frase bonita?",
+              "Puedes darme una frase bonita?",
+              "¿Tienes alguna frase motivadora?",
+              "Tienes alguna frase motivadora?",
+              "Dime una frase inspiradora",
+              "¿Sabes alguna frase interesante?",
+              "Sabes alguna frase interesante?",
+              "¿Qué frase me recomiendas?",
+              "Qué frase me recomiendas?",
+              "¿Me puedes dar una frase?"
+            ],
+            "responses": [
+              "Aquí tienes: 'La vida es lo que pasa mientras estás ocupado haciendo otros planes.' - John Lennon",
+              "Espero que te inspire: 'El único modo de hacer un gran trabajo es amar lo que haces.' - Steve Jobs",
+              "Una frase para reflexionar: 'No cuentes los días, haz que los días cuenten.' - Muhammad Ali",
+              "Claro: 'La felicidad no es algo hecho. Viene de tus propias acciones.' - Dalai Lama",
+              "Esta podría gustarte: 'Sé el cambio que quieres ver en el mundo.' - Mahatma Gandhi"
+            ]
           }
-        
-        
+
     ]
 }
