@@ -16,9 +16,9 @@ const App = () => {
     useEffect(() => {
         const cargarDatos = async () => {
             try {
-                const modeloCargado = await tf.loadGraphModel('/model.json');
-                const intentsRes = await fetch('/intents.json').then(res => res.json());
-                const vocabularioRes = await fetch('/vocabulario.json').then(res => res.json());
+                const modeloCargado = await tf.loadGraphModel('./model.json');
+                const intentsRes = await fetch('./intents.json').then(res => res.json());
+                const vocabularioRes = await fetch('./vocabulario.json').then(res => res.json());
 
                 setModelo(modeloCargado);
                 setIntents(intentsRes);
@@ -100,9 +100,8 @@ const App = () => {
     };
 
     return (
-        
         <div className="chat-container">
-            <h1 className="chat-title">ChatXD</h1>
+            <h1 className="chat-title">ChatBot</h1>
             <div ref={chatContainerRef} className="chat-box">
                 {chat.map((linea, index) => (
                     <div
