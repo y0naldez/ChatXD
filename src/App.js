@@ -24,6 +24,8 @@ const App = () => {
                 setIntents(intentsRes);
                 setPalabras(vocabularioRes.palabras || []);
                 setEtiquetas(vocabularioRes.etiquetas || []);
+
+                console.log('[DEBUG] Vocabulario cargado:', vocabularioRes.palabras);
             } catch (error) {
                 console.error('Error al cargar los datos:', error);
             }
@@ -39,43 +41,51 @@ const App = () => {
 
     const manejarEntrada = async (texto) => {
         if (!modelo || !intents || palabras.length === 0) return;
-
-        const tokens = dividirEnPalabras(texto);
+    
+        const tokens = dividirEnPalabras(texto, palabras); // Pasar el vocabulario aquí
+        console.log('[DEBUG] Tokens procesados:', tokens);
+    
         const vector = vectorBolsaDePalabras(tokens, palabras);
+        console.log('[DEBUG] Vector de bolsa de palabras:', vector);
+    
         const tensor = tf.tensor([vector]);
-
-        setEscribiendo(true); // Mostrar indicador de "escribiendo..."
-
+        setEscribiendo(true);
+    
         try {
-            // Simular un retraso para la respuesta del bot
             await new Promise(resolve => setTimeout(resolve, 1500));
-
+    
             const salida = modelo.predict(tensor);
             const prediccion = salida.argMax(-1).dataSync()[0];
             const confianza = salida.dataSync()[prediccion];
-
+    
             if (confianza > 0.75) {
                 const etiqueta = etiquetas[prediccion];
-
+                console.log(`[DEBUG] Etiqueta detectada: ${etiqueta}`);
+    
+                // Manejar operaciones matemáticas
                 if (["suma", "resta", "multiplicacion", "division"].includes(etiqueta)) {
+                    // Extraer números del texto
                     const numeros = texto.match(/\d+/g)?.map(Number) || [];
+                    console.log(`[DEBUG] Números extraídos: ${numeros}`);
+    
                     if (numeros.length >= 2) {
                         const [num1, num2] = numeros;
-                        const resultado =
-                            etiqueta === "suma"
-                                ? num1 + num2
-                                : etiqueta === "resta"
-                                ? num1 - num2
-                                : etiqueta === "multiplicacion"
-                                ? num1 * num2
-                                : num2 !== 0
-                                ? num1 / num2
-                                : "No puedo dividir entre cero. 😅";
+                        let resultado;
+                        if (etiqueta === "suma") {
+                            resultado = num1 + num2;
+                        } else if (etiqueta === "resta") {
+                            resultado = num1 - num2;
+                        } else if (etiqueta === "multiplicacion") {
+                            resultado = num1 * num2;
+                        } else if (etiqueta === "division") {
+                            resultado = num2 !== 0 ? num1 / num2 : "No puedo dividir entre cero. 😅";
+                        }
                         setChat(prevChat => [...prevChat, { tipo: 'bot', mensaje: `El resultado es ${resultado}` }]);
                     } else {
-                        setChat(prevChat => [...prevChat, { tipo: 'bot', mensaje: 'Faltan números para calcular. Intenta de nuevo.' }]);
+                        setChat(prevChat => [...prevChat, { tipo: 'bot', mensaje: 'Parece que faltan números para calcular. Intenta de nuevo.' }]);
                     }
                 } else {
+                    // Respuesta general del bot
                     const respuestas = intents.intents.find(intent => intent.tag === etiqueta).responses;
                     const respuestaAleatoria = respuestas[Math.floor(Math.random() * respuestas.length)];
                     setChat(prevChat => [...prevChat, { tipo: 'bot', mensaje: respuestaAleatoria }]);
@@ -86,9 +96,10 @@ const App = () => {
         } catch (error) {
             console.error('Error durante la predicción:', error);
         } finally {
-            setEscribiendo(false); // Ocultar indicador de "escribiendo..."
+            setEscribiendo(false);
         }
     };
+    
 
     const manejarSubmit = (e) => {
         e.preventDefault();
