@@ -156,7 +156,7 @@ const App = () => {
                         className={`chat-message-container ${linea.tipo}`}
                     >
                         <img
-                            src={linea.tipo === 'usuario' ? '/user-icon.png' : '/bot-icon.png'}
+                            src={linea.tipo === 'usuario' ? './user-icon.png' : './bot-icon.png'}
                             alt={linea.tipo === 'usuario' ? 'Usuario' : 'Bot'}
                             className="chat-avatar"
                         />
