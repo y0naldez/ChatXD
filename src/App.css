@@ -1,3 +1,5 @@
+/* Contenedor Principal del Chat */
+
 .chat-container {
   display: flex;
   flex-direction: column;
@@ -6,13 +8,8 @@
   padding: 20px;
   font-family: 'Arial', sans-serif;
   background-color: #f0f2f5;
-  height: 100vh;
-}
-
-.chat-title {
-  font-size: 24px;
-  margin-bottom: 10px;
-  color: #333;
+  height: 100vh; 
+  width: 100vw; 
 }
 
 .chat-box {
@@ -24,35 +21,57 @@
   background-color: #fff;
   padding: 10px;
   overflow-y: auto;
-  margin-bottom: 10px;
+  margin-bottom: 20px; 
   display: flex;
   flex-direction: column;
   gap: 10px;
 }
+/* Contenedor de Mensajes (Usuario o Bot) */
+.chat-message-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
 
+/* Alinear el Usuario a la Derecha */
+.chat-message-container.usuario {
+  justify-content: flex-end;
+}
+
+/* Estilos de los Avatares */
+.chat-avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+/* Estilos de los Mensajes */
 .chat-message {
-  max-width: 80%;
+  max-width: 70%;
   padding: 10px;
   border-radius: 15px;
   font-size: 14px;
   line-height: 1.5;
   word-wrap: break-word;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-.chat-message.user {
-  align-self: flex-end;
+/* Estilo para el Usuario */
+.chat-message.usuario {
   background-color: #d1e7dd;
   color: #0f5132;
   border: 1px solid #0f5132;
 }
 
+/* Estilo para el Bot */
 .chat-message.bot {
-  align-self: flex-start;
   background-color: #f9f9f9;
   color: #333;
   border: 1px solid #ccc;
 }
 
+/* Indicador de Escribiendo */
 .typing-indicator span {
   animation: typing 1.5s infinite;
 }
@@ -63,6 +82,7 @@
   66% { opacity: 0; }
 }
 
+/* Formulario de Entrada */
 .chat-form {
   display: flex;
   width: 100%;
@@ -87,3 +107,26 @@
   font-size: 14px;
   cursor: pointer;
 }
+
+.scroll-button {
+  position: fixed;
+  bottom: 80px;
+  right: 20px;
+  padding: 10px 15px;
+  background-color: #0d6efd;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  font-size: 20px;
+  cursor: pointer;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease;
+}
+
+.scroll-button:hover {
+  background-color: #0a58ca;
+}
+
+
+
+

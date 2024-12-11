@@ -11,6 +11,7 @@ const App = () => {
     const [chat, setChat] = useState([]);
     const [etiquetas, setEtiquetas] = useState([]);
     const [escribiendo, setEscribiendo] = useState(false);
+    const [mostrarBoton, setMostrarBoton] = useState(false);
     const chatContainerRef = useRef(null);
 
     useEffect(() => {
@@ -39,35 +40,53 @@ const App = () => {
         }
     }, [chat]);
 
+    useEffect(() => {
+        const handleScroll = () => {
+            if (!chatContainerRef.current) return;
+
+            const { scrollTop, scrollHeight, clientHeight } = chatContainerRef.current;
+            setMostrarBoton(scrollTop + clientHeight < scrollHeight - 50);
+        };
+
+        const chatBox = chatContainerRef.current;
+        if (chatBox) {
+            chatBox.addEventListener('scroll', handleScroll);
+        }
+
+        return () => {
+            if (chatBox) {
+                chatBox.removeEventListener('scroll', handleScroll);
+            }
+        };
+    }, []);
+
     const manejarEntrada = async (texto) => {
         if (!modelo || !intents || palabras.length === 0) return;
-    
-        const tokens = dividirEnPalabras(texto, palabras); // Pasar el vocabulario aquí
+
+        const tokens = dividirEnPalabras(texto, palabras);
         console.log('[DEBUG] Tokens procesados:', tokens);
-    
+
         const vector = vectorBolsaDePalabras(tokens, palabras);
         console.log('[DEBUG] Vector de bolsa de palabras:', vector);
-    
+
         const tensor = tf.tensor([vector]);
         setEscribiendo(true);
-    
+
         try {
             await new Promise(resolve => setTimeout(resolve, 1500));
-    
+
             const salida = modelo.predict(tensor);
             const prediccion = salida.argMax(-1).dataSync()[0];
             const confianza = salida.dataSync()[prediccion];
-    
+
             if (confianza > 0.75) {
                 const etiqueta = etiquetas[prediccion];
                 console.log(`[DEBUG] Etiqueta detectada: ${etiqueta}`);
-    
-                // Manejar operaciones matemáticas
+
                 if (["suma", "resta", "multiplicacion", "division"].includes(etiqueta)) {
-                    // Extraer números del texto
                     const numeros = texto.match(/\d+/g)?.map(Number) || [];
                     console.log(`[DEBUG] Números extraídos: ${numeros}`);
-    
+
                     if (numeros.length >= 2) {
                         const [num1, num2] = numeros;
                         let resultado;
@@ -85,7 +104,6 @@ const App = () => {
                         setChat(prevChat => [...prevChat, { tipo: 'bot', mensaje: 'Parece que faltan números para calcular. Intenta de nuevo.' }]);
                     }
                 } else {
-                    // Respuesta general del bot
                     const respuestas = intents.intents.find(intent => intent.tag === etiqueta).responses;
                     const respuestaAleatoria = respuestas[Math.floor(Math.random() * respuestas.length)];
                     setChat(prevChat => [...prevChat, { tipo: 'bot', mensaje: respuestaAleatoria }]);
@@ -99,7 +117,6 @@ const App = () => {
             setEscribiendo(false);
         }
     };
-    
 
     const manejarSubmit = (e) => {
         e.preventDefault();
@@ -110,24 +127,64 @@ const App = () => {
         }
     };
 
+    const bajarAlFinal = () => {
+        if (chatContainerRef.current) {
+            chatContainerRef.current.scrollTo({
+                top: chatContainerRef.current.scrollHeight,
+                behavior: 'smooth',
+            });
+        }
+    };
+
     return (
-        <div className="chat-container">
-            <h1 className="chat-title">ChatBot</h1>
+        <div 
+            className="chat-container" 
+            style={{
+                backgroundImage: "url('./background.jpg')",
+                backgroundSize: "cover",
+                backgroundPosition: "center",
+                backgroundRepeat: "no-repeat",
+                height: "100vh",
+                width: "100vw",
+            }}
+        >
+            <h1 className="chat-title">ChatXD</h1>
             <div ref={chatContainerRef} className="chat-box">
                 {chat.map((linea, index) => (
                     <div
                         key={index}
-                        className={`chat-message ${linea.tipo === 'usuario' ? 'user' : 'bot'}`}
+                        className={`chat-message-container ${linea.tipo}`}
                     >
-                        {linea.mensaje}
+                        <img
+                            src={linea.tipo === 'usuario' ? '/user-icon.png' : '/bot-icon.png'}
+                            alt={linea.tipo === 'usuario' ? 'Usuario' : 'Bot'}
+                            className="chat-avatar"
+                        />
+                        <div className={`chat-message ${linea.tipo}`}>
+                            {linea.mensaje}
+                        </div>
                     </div>
                 ))}
                 {escribiendo && (
-                    <div className="chat-message bot typing-indicator">
-                        <span>.</span><span>.</span><span>.</span>
+                    <div className="chat-message-container bot">
+                        <img
+                            src="/bot-icon.png"
+                            alt="Bot"
+                            className="chat-avatar"
+                        />
+                        <div className="chat-message bot typing-indicator">
+                            <span>.</span><span>.</span><span>.</span>
+                        </div>
                     </div>
                 )}
             </div>
+    
+            {mostrarBoton && (
+                <button onClick={bajarAlFinal} className="scroll-button">
+                    ↓
+                </button>
+            )}
+    
             <form onSubmit={manejarSubmit} className="chat-form">
                 <input
                     type="text"
@@ -140,6 +197,7 @@ const App = () => {
             </form>
         </div>
     );
+    
 };
 
 export default App;
