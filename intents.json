@@ -3185,11 +3185,11 @@
             ]
             ,
             "responses": [
-                "Soy un bot interactivo que puede saludarte, entender tus emociones y compartir datos sobre cultura general, como la independencia de países, idiomas oficiales, fechas importantes y datros curiosos. También puedo recomendarte películas y música",
-                "Puedo saludarte, identificar tu estado emocional y responder preguntas sobre cultura general, como las capitales de países, idiomas oficiales, eventos históricos y celebraciones globales. Además, ofrezco recomendaciones de peliculas y datos curiosos..",
-                "Te saludo de forma personalizada y puedo hablar sobre cultura general, como la independencia de México, el idioma oficial de Brasil o la historia detrás de la Mona Lisa. Además, ofrezco recomendaciones de entretenimiento y datos curiosos.",
-                "Soy un asistente que puede saludarte, entender cómo te sientes y compartir información cultural, como fechas históricas importantes, capitales del mundo, idiomas oficiales y celebraciones internacionales. También puedo recomendar películas, libros y música para ti.",
-                "Soy un chatbot diseñado para interactuar contigo de forma amigable. Mis capacidades incluyen responder saludos, identificar emociones, proporcionar datos útiles sobre películas, recomendarte musica y libros además de responder preguntas sobre historia, idiomas y geografía."
+                "Soy un bot interactivo que puede saludarte, entender tus emociones y compartir datos sobre cultura general, como la independencia de países, idiomas oficiales, fechas importantes y datros curiosos. También puedo recomendarte películas y música. Casi lo olvido, también puedo ayudarte con información de Guatemala",
+                "Puedo saludarte, identificar tu estado emocional y responder preguntas sobre cultura general, como las capitales de países, idiomas oficiales, eventos históricos y celebraciones globales. Además, ofrezco recomendaciones de peliculas y datos curiosos, así como información de Guatemala",
+                "Te saludo de forma personalizada y puedo hablar sobre cultura general, como la independencia de México, el idioma oficial de Brasil o la historia detrás de la Mona Lisa. Además, ofrezco recomendaciones de entretenimiento y datos curiosos. Así como información de Guatemala",
+                "Soy un asistente que puede saludarte, entender cómo te sientes y compartir información cultural, como fechas históricas importantes, capitales del mundo, idiomas oficiales y celebraciones internacionales. También puedo recomendar información sobre guatemala, películas, libros y música para ti.",
+                "Soy un chatbot diseñado para interactuar contigo de forma amigable. Mis capacidades incluyen responder saludos, información sobre Guatemala, identificar emociones, proporcionar datos útiles sobre películas, recomendarte musica y libros además de responder preguntas sobre historia, idiomas y geografía."
             ]
         },
         {
@@ -3243,13 +3243,12 @@
             "how can you help out?"
           ],
           "responses": [
-              "I am an interactive bot that can greet you, understand your emotions, and share cultural information, such as the independence of countries, official languages, important dates, and curiosities about the Eiffel Tower or the Mona Lisa. I can also recommend movies and music.",
-              "I can greet you, identify your emotional state, and answer questions about general culture, such as country capitals, official languages, historical events, and global celebrations. Additionally, I offer movie recommendations and interesting facts.",
-              "My skills include personalized greetings, emotional analysis, and general culture information, such as details about Earth Day, World War II, country languages, and important historical events. I can also recommend movies, books, and music.",
-              "I can greet you personally and talk about general culture, such as Mexico's independence, Brazil's official language, or the story behind the Mona Lisa. Additionally, I offer entertainment recommendations and interesting facts.",
-              "I am an assistant that can greet you, understand how you feel, and share cultural information, such as important historical dates, world capitals, official languages, and international celebrations. I can also recommend movies, books, and music for you."
+              "I am an interactive bot that can greet you, understand your emotions, and share general knowledge about topics like the independence of countries, official languages, important dates, and curious facts. I can also recommend movies and music. Almost forgot, I can also help you with Guatemala information.",
+              "I can greet you, identify your emotional state, and answer questions about general knowledge, such as the capitals of countries, official languages, historical events, and global celebrations. Additionally, I offer movie recommendations and curious facts, as well as Guatemala information.",
+              "I greet you in a personalized way and can talk about general knowledge topics like the independence of Mexico, the official language of Brazil, or the story behind the Mona Lisa. I also offer entertainment recommendations and curious facts, as well as Guatemala information.",
+              "I am an assistant that can greet you, understand how you feel, and share cultural information such as important historical dates, world capitals, official languages, and international celebrations. I can also recommend Guatemala information, movies, books, and music for you.",
+              "I am a chatbot designed to interact with you in a friendly way. My capabilities include responding to greetings, providing Guatemala information, identifying emotions, sharing useful facts about movies, recommending music and books, and answering questions about history, languages, and geography."
           ]
-
         },
 
       
@@ -4587,6 +4586,8 @@
               "¿Qué año empezó la Segunda Guerra Mundial?",
               "Qué año empezó la Segunda Guerra Mundial?",
               "¿Sabes cuándo fue la Segunda Guerra Mundial?",
+              "que sabes de la segunda guerra mundial",
+              "segunda guerra mundial",
               "Sabes cuando fue la Segunda Guerra Mundial?",
               "¿En qué año inició la Segunda Guerra Mundial?",
               "En qué año inició la Segunda Guerra Mundial?",
@@ -4606,6 +4607,8 @@
             "patterns": [
               "when did world war ii start?",
               "what year did world war ii begin?",
+              "what do you know about world war ii",
+              "world war ii",
               "do you know when world war ii was?",
               "in what year did world war ii begin?",
               "what was the start of world war ii?",
@@ -14949,6 +14952,9 @@
             "podrias darme informacion sobre guatemala",
             "podrias darme informacion de guatemala",
             "guatemala informacion",
+            "información de Guatemala",
+            "informacion de guatemala",
+            "ayudame con informacion de guatemala",
             "dime info sobre guatemala",
             "dame info sobre guatemala",
             "dime informacion sobre guatemala",
@@ -14964,6 +14970,8 @@
             "puedes darme informacion sobre guatemala",
             "necesito informacion sobre guatemala",
             "que sabes sobre guatemala",
+            "datos de guatemala",
+            "curiosidades de guatemala",
             "cuantame sobre guatemala",
             "dime que sabes sobre guatemala",
             "cuentame que sabes sobre guatemala",
@@ -15009,6 +15017,8 @@
             "guatemala information",
             "tell me info about guatemala",
             "give me info about guatemala",
+            "help me with information about guatemala",
+            "facts about guatemala",
             "tell me information about guatemala",
             "give me information about guatemala",
             "traveling to guatemala",
