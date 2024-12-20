@@ -1,0 +1,8230 @@
+[
+    {
+        "input": "¿Qué",
+        "output": "qué"
+    },
+    {
+        "input": "tal?",
+        "output": "tal"
+    },
+    {
+        "input": "Bnas",
+        "output": "bnas"
+    },
+    {
+        "input": "¿Hay",
+        "output": "hay"
+    },
+    {
+        "input": "alguien",
+        "output": "algui"
+    },
+    {
+        "input": "ahí?",
+        "output": "ahí"
+    },
+    {
+        "input": "Saludos",
+        "output": "saludos"
+    },
+    {
+        "input": "Buen",
+        "output": "buen"
+    },
+    {
+        "input": "día",
+        "output": "dia"
+    },
+    {
+        "input": "Hey",
+        "output": "hey"
+    },
+    {
+        "input": "onda",
+        "output": "onda"
+    },
+    {
+        "input": "How's",
+        "output": "hows"
+    },
+    {
+        "input": "it",
+        "output": "it"
+    },
+    {
+        "input": "going?",
+        "output": "going"
+    },
+    {
+        "input": "Hi",
+        "output": "hi"
+    },
+    {
+        "input": "there",
+        "output": "there"
+    },
+    {
+        "input": "Is",
+        "output": "is"
+    },
+    {
+        "input": "anyone",
+        "output": "anyone"
+    },
+    {
+        "input": "Greetings",
+        "output": "greetings"
+    },
+    {
+        "input": "Good",
+        "output": "good"
+    },
+    {
+        "input": "day",
+        "output": "day"
+    },
+    {
+        "input": "What's",
+        "output": "whats"
+    },
+    {
+        "input": "up?",
+        "output": "up"
+    },
+    {
+        "input": "Hola",
+        "output": "hola"
+    },
+    {
+        "input": "Holi",
+        "output": "holi"
+    },
+    {
+        "input": "Holis",
+        "output": "holis"
+    },
+    {
+        "input": "Holas",
+        "output": "holas"
+    },
+    {
+        "input": "Ola",
+        "output": "ola"
+    },
+    {
+        "input": "Que",
+        "output": "que"
+    },
+    {
+        "input": "hubo",
+        "output": "hubo"
+    },
+    {
+        "input": "Quiubo",
+        "output": "quiubo"
+    },
+    {
+        "input": "a",
+        "output": "a"
+    },
+    {
+        "input": "todos",
+        "output": "todos"
+    },
+    {
+        "input": "Buenasss",
+        "output": "buenasss"
+    },
+    {
+        "input": "Oli",
+        "output": "oli"
+    },
+    {
+        "input": "Alo",
+        "output": "alo"
+    },
+    {
+        "input": "Holii",
+        "output": "holii"
+    },
+    {
+        "input": "Holaaa",
+        "output": "holaaa"
+    },
+    {
+        "input": "Buenaa",
+        "output": "buenaa"
+    },
+    {
+        "input": "pasó",
+        "output": "pas"
+    },
+    {
+        "input": "algo?",
+        "output": "algo"
+    },
+    {
+        "input": "pex",
+        "output": "pex"
+    },
+    {
+        "input": "talco",
+        "output": "talco"
+    },
+    {
+        "input": "Buenas",
+        "output": "buenas"
+    },
+    {
+        "input": "noches",
+        "output": "noches"
+    },
+    {
+        "input": "tardes",
+        "output": "tardes"
+    },
+    {
+        "input": "días",
+        "output": "dias"
+    },
+    {
+        "input": "Hello",
+        "output": "hello"
+    },
+    {
+        "input": "Hiya",
+        "output": "hiya"
+    },
+    {
+        "input": "morning",
+        "output": "morning"
+    },
+    {
+        "input": "afternoon",
+        "output": "afternoon"
+    },
+    {
+        "input": "evening",
+        "output": "evening"
+    },
+    {
+        "input": "everyone",
+        "output": "everyone"
+    },
+    {
+        "input": "Howdy",
+        "output": "howdy"
+    },
+    {
+        "input": "Heya",
+        "output": "heya"
+    },
+    {
+        "input": "happening?",
+        "output": "happening"
+    },
+    {
+        "input": "new?",
+        "output": "new"
+    },
+    {
+        "input": "all",
+        "output": "all"
+    },
+    {
+        "input": "How",
+        "output": "how"
+    },
+    {
+        "input": "are",
+        "output": "are"
+    },
+    {
+        "input": "you?",
+        "output": "you"
+    },
+    {
+        "input": "Heyy",
+        "output": "heyy"
+    },
+    {
+        "input": "Estoy",
+        "output": "estoy"
+    },
+    {
+        "input": "feliz",
+        "output": "feliz"
+    },
+    {
+        "input": "Me",
+        "output": "me"
+    },
+    {
+        "input": "siento",
+        "output": "siento"
+    },
+    {
+        "input": "bien",
+        "output": "bien"
+    },
+    {
+        "input": "humor",
+        "output": "humor"
+    },
+    {
+        "input": "Hoy",
+        "output": "hoy"
+    },
+    {
+        "input": "es",
+        "output": "es"
+    },
+    {
+        "input": "un",
+        "output": "un"
+    },
+    {
+        "input": "excelente",
+        "output": "excelente"
+    },
+    {
+        "input": "muy",
+        "output": "muy"
+    },
+    {
+        "input": "contento",
+        "output": "contento"
+    },
+    {
+        "input": "Todo",
+        "output": "todo"
+    },
+    {
+        "input": "está",
+        "output": "esta"
+    },
+    {
+        "input": "saliendo",
+        "output": "saliendo"
+    },
+    {
+        "input": "increíble",
+        "output": "increíble"
+    },
+    {
+        "input": "súper",
+        "output": "súper"
+    },
+    {
+        "input": "ha",
+        "output": "ha"
+    },
+    {
+        "input": "sido",
+        "output": "sido"
+    },
+    {
+        "input": "gran",
+        "output": "gran"
+    },
+    {
+        "input": "No",
+        "output": "no"
+    },
+    {
+        "input": "puedo",
+        "output": "pued"
+    },
+    {
+        "input": "dejar",
+        "output": "dejar"
+    },
+    {
+        "input": "sonreír",
+        "output": "sonreír"
+    },
+    {
+        "input": "hace",
+        "output": "hace"
+    },
+    {
+        "input": "emocionado!",
+        "output": "emocionado"
+    },
+    {
+        "input": "optimista",
+        "output": "optimista"
+    },
+    {
+        "input": "La",
+        "output": "la"
+    },
+    {
+        "input": "vida",
+        "output": "vida"
+    },
+    {
+        "input": "genial",
+        "output": "genial"
+    },
+    {
+        "input": "alegre!",
+        "output": "alegre"
+    },
+    {
+        "input": "perfecto",
+        "output": "perfecto"
+    },
+    {
+        "input": "animado",
+        "output": "animado"
+    },
+    {
+        "input": "mucha",
+        "output": "mucha"
+    },
+    {
+        "input": "alegría",
+        "output": "alegr"
+    },
+    {
+        "input": "podría",
+        "output": "podría"
+    },
+    {
+        "input": "estar",
+        "output": "estar"
+    },
+    {
+        "input": "mejor",
+        "output": "mejor"
+    },
+    {
+        "input": "positivo",
+        "output": "positivo"
+    },
+    {
+        "input": "realmente",
+        "output": "realmente"
+    },
+    {
+        "input": "motivado",
+        "output": "motivado"
+    },
+    {
+        "input": "maravilloso",
+        "output": "maravill"
+    },
+    {
+        "input": "agradecido",
+        "output": "agradecido"
+    },
+    {
+        "input": "lleno",
+        "output": "llen"
+    },
+    {
+        "input": "energía",
+        "output": "energ"
+    },
+    {
+        "input": "con",
+        "output": "con"
+    },
+    {
+        "input": "ánimo",
+        "output": "anim"
+    },
+    {
+        "input": "disfrutando",
+        "output": "disfrutando"
+    },
+    {
+        "input": "mucho",
+        "output": "mucho"
+    },
+    {
+        "input": "felicidad",
+        "output": "felic"
+    },
+    {
+        "input": "espectacular",
+        "output": "espectacul"
+    },
+    {
+        "input": "Nada",
+        "output": "nada"
+    },
+    {
+        "input": "en",
+        "output": "en"
+    },
+    {
+        "input": "particular",
+        "output": "particular"
+    },
+    {
+        "input": "fue",
+        "output": "fue"
+    },
+    {
+        "input": "tranquilo",
+        "output": "tranquilo"
+    },
+    {
+        "input": "fresco",
+        "output": "fresc"
+    },
+    {
+        "input": "tranqui",
+        "output": "tranqui"
+    },
+    {
+        "input": "estuvo",
+        "output": "estuvo"
+    },
+    {
+        "input": "calmado",
+        "output": "calmado"
+    },
+    {
+        "input": "especial",
+        "output": "especial"
+    },
+    {
+        "input": "normal",
+        "output": "normal"
+    },
+    {
+        "input": "pero",
+        "output": "pero"
+    },
+    {
+        "input": "relajante",
+        "output": "relajante"
+    },
+    {
+        "input": "contar,",
+        "output": "contar"
+    },
+    {
+        "input": "simple",
+        "output": "simple"
+    },
+    {
+        "input": "sin",
+        "output": "sin"
+    },
+    {
+        "input": "estrés",
+        "output": "estrés"
+    },
+    {
+        "input": "calma",
+        "output": "calma"
+    },
+    {
+        "input": "fuera",
+        "output": "fuer"
+    },
+    {
+        "input": "lo",
+        "output": "lo"
+    },
+    {
+        "input": "sereno",
+        "output": "sereno"
+    },
+    {
+        "input": "problemas",
+        "output": "problem"
+    },
+    {
+        "input": "importante,",
+        "output": "importante"
+    },
+    {
+        "input": "Ninguna",
+        "output": "ninguna"
+    },
+    {
+        "input": "esas,",
+        "output": "esas"
+    },
+    {
+        "input": "como",
+        "output": "como"
+    },
+    {
+        "input": "dices,",
+        "output": "dices"
+    },
+    {
+        "input": "las",
+        "output": "las"
+    },
+    {
+        "input": "emociones",
+        "output": "emocion"
+    },
+    {
+        "input": "mencionaste,",
+        "output": "mencion"
+    },
+    {
+        "input": "eso,",
+        "output": "eso"
+    },
+    {
+        "input": "opciones,",
+        "output": "opciones"
+    },
+    {
+        "input": "coincide",
+        "output": "coincide"
+    },
+    {
+        "input": "dijiste,",
+        "output": "dijiste"
+    },
+    {
+        "input": "aplica",
+        "output": "aplica"
+    },
+    {
+        "input": "I",
+        "output": "i"
+    },
+    {
+        "input": "am",
+        "output": "am"
+    },
+    {
+        "input": "happy",
+        "output": "happy"
+    },
+    {
+        "input": "I’m",
+        "output": "im"
+    },
+    {
+        "input": "feel",
+        "output": "feel"
+    },
+    {
+        "input": "feelin’",
+        "output": "feelin"
+    },
+    {
+        "input": "in",
+        "output": "in"
+    },
+    {
+        "input": "mood",
+        "output": "mood"
+    },
+    {
+        "input": "Today",
+        "output": "today"
+    },
+    {
+        "input": "Today’s",
+        "output": "todays"
+    },
+    {
+        "input": "excellent",
+        "output": "excellent"
+    },
+    {
+        "input": "super",
+        "output": "super"
+    },
+    {
+        "input": "glad",
+        "output": "glad"
+    },
+    {
+        "input": "Everything",
+        "output": "everything"
+    },
+    {
+        "input": "great",
+        "output": "great"
+    },
+    {
+        "input": "Everything’s",
+        "output": "everythings"
+    },
+    {
+        "input": "goin’",
+        "output": "goin"
+    },
+    {
+        "input": "amazing",
+        "output": "amazing"
+    },
+    {
+        "input": "has",
+        "output": "has"
+    },
+    {
+        "input": "been",
+        "output": "been"
+    },
+    {
+        "input": "cannot",
+        "output": "cannot"
+    },
+    {
+        "input": "stop",
+        "output": "stop"
+    },
+    {
+        "input": "smiling",
+        "output": "smiling"
+    },
+    {
+        "input": "can’t",
+        "output": "cant"
+    },
+    {
+        "input": "smilin’",
+        "output": "smilin"
+    },
+    {
+        "input": "making",
+        "output": "making"
+    },
+    {
+        "input": "makin’",
+        "output": "makin"
+    },
+    {
+        "input": "so",
+        "output": "so"
+    },
+    {
+        "input": "excited!",
+        "output": "excited"
+    },
+    {
+        "input": "optimistic",
+        "output": "optimistic"
+    },
+    {
+        "input": "Life",
+        "output": "life"
+    },
+    {
+        "input": "awesome",
+        "output": "awesome"
+    },
+    {
+        "input": "very",
+        "output": "very"
+    },
+    {
+        "input": "cheerful",
+        "output": "cheerful"
+    },
+    {
+        "input": "real",
+        "output": "real"
+    },
+    {
+        "input": "perfect",
+        "output": "perfect"
+    },
+    {
+        "input": "pumped",
+        "output": "pumped"
+    },
+    {
+        "input": "much",
+        "output": "much"
+    },
+    {
+        "input": "joy",
+        "output": "joy"
+    },
+    {
+        "input": "could",
+        "output": "could"
+    },
+    {
+        "input": "not",
+        "output": "not"
+    },
+    {
+        "input": "be",
+        "output": "be"
+    },
+    {
+        "input": "better",
+        "output": "better"
+    },
+    {
+        "input": "couldn’t",
+        "output": "couldnt"
+    },
+    {
+        "input": "the",
+        "output": "the"
+    },
+    {
+        "input": "best",
+        "output": "best"
+    },
+    {
+        "input": "ever",
+        "output": "ever"
+    },
+    {
+        "input": "thrilled",
+        "output": "thrilled"
+    },
+    {
+        "input": "working",
+        "output": "working"
+    },
+    {
+        "input": "out",
+        "output": "out"
+    },
+    {
+        "input": "for",
+        "output": "for"
+    },
+    {
+        "input": "workin’",
+        "output": "workin"
+    },
+    {
+        "input": "positive",
+        "output": "positive"
+    },
+    {
+        "input": "vibes",
+        "output": "vibes"
+    },
+    {
+        "input": "truly",
+        "output": "truly"
+    },
+    {
+        "input": "motivated",
+        "output": "motivated"
+    },
+    {
+        "input": "wonderful",
+        "output": "wonderful"
+    },
+    {
+        "input": "grateful",
+        "output": "grateful"
+    },
+    {
+        "input": "full",
+        "output": "full"
+    },
+    {
+        "input": "of",
+        "output": "of"
+    },
+    {
+        "input": "energy",
+        "output": "energy"
+    },
+    {
+        "input": "an",
+        "output": "an"
+    },
+    {
+        "input": "incredible",
+        "output": "incredible"
+    },
+    {
+        "input": "enjoying",
+        "output": "enjoying"
+    },
+    {
+        "input": "lot",
+        "output": "lot"
+    },
+    {
+        "input": "lovin’",
+        "output": "lovin"
+    },
+    {
+        "input": "happiness",
+        "output": "happiness"
+    },
+    {
+        "input": "spectacular",
+        "output": "spectacular"
+    },
+    {
+        "input": "Nothing",
+        "output": "nothing"
+    },
+    {
+        "input": "Nothin’",
+        "output": "nothin"
+    },
+    {
+        "input": "was",
+        "output": "was"
+    },
+    {
+        "input": "quiet",
+        "output": "quiet"
+    },
+    {
+        "input": "chill",
+        "output": "chill"
+    },
+    {
+        "input": "fresh",
+        "output": "fresh"
+    },
+    {
+        "input": "calm",
+        "output": "calm"
+    },
+    {
+        "input": "special",
+        "output": "special"
+    },
+    {
+        "input": "happened",
+        "output": "happened"
+    },
+    {
+        "input": "but",
+        "output": "but"
+    },
+    {
+        "input": "relaxing",
+        "output": "relaxing"
+    },
+    {
+        "input": "to",
+        "output": "to"
+    },
+    {
+        "input": "share,",
+        "output": "share"
+    },
+    {
+        "input": "stress-free",
+        "output": "stressfree"
+    },
+    {
+        "input": "and",
+        "output": "and"
+    },
+    {
+        "input": "peaceful",
+        "output": "peaceful"
+    },
+    {
+        "input": "ordinary",
+        "output": "ordinary"
+    },
+    {
+        "input": "outta",
+        "output": "outta"
+    },
+    {
+        "input": "serene",
+        "output": "serene"
+    },
+    {
+        "input": "problems",
+        "output": "problems"
+    },
+    {
+        "input": "important",
+        "output": "important"
+    },
+    {
+        "input": "None",
+        "output": "none"
+    },
+    {
+        "input": "that,",
+        "output": "that"
+    },
+    {
+        "input": "feeling",
+        "output": "feeling"
+    },
+    {
+        "input": "what",
+        "output": "what"
+    },
+    {
+        "input": "said,",
+        "output": "said"
+    },
+    {
+        "input": "like",
+        "output": "like"
+    },
+    {
+        "input": "emotions",
+        "output": "emotions"
+    },
+    {
+        "input": "mentioned,",
+        "output": "mentioned"
+    },
+    {
+        "input": "those",
+        "output": "those"
+    },
+    {
+        "input": "That’s",
+        "output": "thats"
+    },
+    {
+        "input": "Nope,",
+        "output": "nope"
+    },
+    {
+        "input": "options,",
+        "output": "option"
+    },
+    {
+        "input": "Doesn’t",
+        "output": "doesnt"
+    },
+    {
+        "input": "match,",
+        "output": "match"
+    },
+    {
+        "input": "fit,",
+        "output": "fit"
+    },
+    {
+        "input": "don’t",
+        "output": "dont"
+    },
+    {
+        "input": "apply,",
+        "output": "apply"
+    },
+    {
+        "input": "really",
+        "output": "really"
+    },
+    {
+        "input": "Pasaron",
+        "output": "pasaron"
+    },
+    {
+        "input": "cosas",
+        "output": "cosas"
+    },
+    {
+        "input": "mi",
+        "output": "mi"
+    },
+    {
+        "input": "salió",
+        "output": "salió"
+    },
+    {
+        "input": "Solo",
+        "output": "solo"
+    },
+    {
+        "input": "tengo",
+        "output": "tengo"
+    },
+    {
+        "input": "una",
+        "output": "una"
+    },
+    {
+        "input": "razón",
+        "output": "razón"
+    },
+    {
+        "input": "específica",
+        "output": "especif"
+    },
+    {
+        "input": "afortunado",
+        "output": "afortunado"
+    },
+    {
+        "input": "relajado",
+        "output": "relaj"
+    },
+    {
+        "input": "productivo",
+        "output": "productivo"
+    },
+    {
+        "input": "quejas",
+        "output": "quej"
+    },
+    {
+        "input": "paz",
+        "output": "paz"
+    },
+    {
+        "input": "malo",
+        "output": "malo"
+    },
+    {
+        "input": "orden",
+        "output": "orden"
+    },
+    {
+        "input": "por",
+        "output": "por"
+    },
+    {
+        "input": "cada",
+        "output": "cada"
+    },
+    {
+        "input": "momento",
+        "output": "momento"
+    },
+    {
+        "input": "para",
+        "output": "para"
+    },
+    {
+        "input": "recordar",
+        "output": "record"
+    },
+    {
+        "input": "things",
+        "output": "thing"
+    },
+    {
+        "input": "my",
+        "output": "my"
+    },
+    {
+        "input": "went",
+        "output": "went"
+    },
+    {
+        "input": "well",
+        "output": "well"
+    },
+    {
+        "input": "Just",
+        "output": "just"
+    },
+    {
+        "input": "specific",
+        "output": "specific"
+    },
+    {
+        "input": "reason",
+        "output": "reason"
+    },
+    {
+        "input": "have",
+        "output": "have"
+    },
+    {
+        "input": "lucky",
+        "output": "lucky"
+    },
+    {
+        "input": "relaxed",
+        "output": "relaxed"
+    },
+    {
+        "input": "productive",
+        "output": "productive"
+    },
+    {
+        "input": "complaints",
+        "output": "complaints"
+    },
+    {
+        "input": "any",
+        "output": "any"
+    },
+    {
+        "input": "at",
+        "output": "at"
+    },
+    {
+        "input": "peace",
+        "output": "peace"
+    },
+    {
+        "input": "bad",
+        "output": "bad"
+    },
+    {
+        "input": "wrong",
+        "output": "wrong"
+    },
+    {
+        "input": "order",
+        "output": "order"
+    },
+    {
+        "input": "every",
+        "output": "every"
+    },
+    {
+        "input": "moment",
+        "output": "moment"
+    },
+    {
+        "input": "with",
+        "output": "with"
+    },
+    {
+        "input": "remember",
+        "output": "remember"
+    },
+    {
+        "input": "relajado",
+        "output": "relajado"
+    },
+    {
+        "input": "relajao",
+        "output": "relajao"
+    },
+    {
+        "input": "fresca",
+        "output": "fresca"
+    },
+    {
+        "input": "papaya",
+        "output": "papaya"
+    },
+    {
+        "input": "preocupa",
+        "output": "preocupa"
+    },
+    {
+        "input": "estado",
+        "output": "estad"
+    },
+    {
+        "input": "inquieta",
+        "output": "inquieta"
+    },
+    {
+        "input": "bajo",
+        "output": "bajo"
+    },
+    {
+        "input": "control",
+        "output": "control"
+    },
+    {
+        "input": "preocupaciones",
+        "output": "preocup"
+    },
+    {
+        "input": "sosegado",
+        "output": "sosegado"
+    },
+    {
+        "input": "fluye",
+        "output": "fluye"
+    },
+    {
+        "input": "balanceado",
+        "output": "balanc"
+    },
+    {
+        "input": "perturbe",
+        "output": "perturbe"
+    },
+    {
+        "input": "tranquilidad",
+        "output": "tranquil"
+    },
+    {
+        "input": "apacible",
+        "output": "apac"
+    },
+    {
+        "input": "ni",
+        "output": "ni"
+    },
+    {
+        "input": "tensiones",
+        "output": "tensiones"
+    },
+    {
+        "input": "total",
+        "output": "total"
+    },
+    {
+        "input": "agradable",
+        "output": "agrad"
+    },
+    {
+        "input": "chillin’",
+        "output": "chillin"
+    },
+    {
+        "input": "fine",
+        "output": "fine"
+    },
+    {
+        "input": "worries",
+        "output": "worries"
+    },
+    {
+        "input": "state",
+        "output": "state"
+    },
+    {
+        "input": "stress",
+        "output": "stress"
+    },
+    {
+        "input": "bothers",
+        "output": "bother"
+    },
+    {
+        "input": "under",
+        "output": "under"
+    },
+    {
+        "input": "worry-free",
+        "output": "worryfree"
+    },
+    {
+        "input": "composed",
+        "output": "composed"
+    },
+    {
+        "input": "flows",
+        "output": "flow"
+    },
+    {
+        "input": "calmly",
+        "output": "calmly"
+    },
+    {
+        "input": "balanced",
+        "output": "balanced"
+    },
+    {
+        "input": "disturbs",
+        "output": "disturbs"
+    },
+    {
+        "input": "tranquility",
+        "output": "tranquility"
+    },
+    {
+        "input": "or",
+        "output": "or"
+    },
+    {
+        "input": "tension",
+        "output": "tension"
+    },
+    {
+        "input": "totally",
+        "output": "totally"
+    },
+    {
+        "input": "pleasant",
+        "output": "pleasant"
+    },
+    {
+        "input": "común",
+        "output": "común"
+    },
+    {
+        "input": "equilibrio",
+        "output": "equilibri"
+    },
+    {
+        "input": "sucedió,",
+        "output": "suced"
+    },
+    {
+        "input": "problem-free",
+        "output": "problemfree"
+    },
+    {
+        "input": "triste",
+        "output": "triste"
+    },
+    {
+        "input": "animo",
+        "output": "animo"
+    },
+    {
+        "input": "decaído",
+        "output": "decaid"
+    },
+    {
+        "input": "melancólico",
+        "output": "melancol"
+    },
+    {
+        "input": "va",
+        "output": "va"
+    },
+    {
+        "input": "cabizbajo",
+        "output": "cabizbaj"
+    },
+    {
+        "input": "mal",
+        "output": "mal"
+    },
+    {
+        "input": "emocionalmente",
+        "output": "emocional"
+    },
+    {
+        "input": "desanimado",
+        "output": "desanimado"
+    },
+    {
+        "input": "tristeza",
+        "output": "tristeza"
+    },
+    {
+        "input": "deprimido",
+        "output": "deprim"
+    },
+    {
+        "input": "difícil",
+        "output": "difícil"
+    },
+    {
+        "input": "teniendo",
+        "output": "teniendo"
+    },
+    {
+        "input": "vacío",
+        "output": "vacío"
+    },
+    {
+        "input": "pasando",
+        "output": "pasando"
+    },
+    {
+        "input": "gris",
+        "output": "gris"
+    },
+    {
+        "input": "mí",
+        "output": "mí"
+    },
+    {
+        "input": "cargado",
+        "output": "carg"
+    },
+    {
+        "input": "tristes",
+        "output": "tristes"
+    },
+    {
+        "input": "sé",
+        "output": "sé"
+    },
+    {
+        "input": "cómo",
+        "output": "cómo"
+    },
+    {
+        "input": "salir",
+        "output": "salir"
+    },
+    {
+        "input": "esto",
+        "output": "esto"
+    },
+    {
+        "input": "fuerzas",
+        "output": "fuerz"
+    },
+    {
+        "input": "abatido",
+        "output": "abatido"
+    },
+    {
+        "input": "desmotivado",
+        "output": "desmotivado"
+    },
+    {
+        "input": "desolado",
+        "output": "desol"
+    },
+    {
+        "input": "apenado",
+        "output": "apenado"
+    },
+    {
+        "input": "deprimido",
+        "output": "deprimido"
+    },
+    {
+        "input": "sad",
+        "output": "sad"
+    },
+    {
+        "input": "okay",
+        "output": "okay"
+    },
+    {
+        "input": "down",
+        "output": "down"
+    },
+    {
+        "input": "melancholic",
+        "output": "melancholic"
+    },
+    {
+        "input": "low",
+        "output": "low"
+    },
+    {
+        "input": "spirits",
+        "output": "spirits"
+    },
+    {
+        "input": "right",
+        "output": "right"
+    },
+    {
+        "input": "emotionally",
+        "output": "emotionally"
+    },
+    {
+        "input": "discouraged",
+        "output": "discouraged"
+    },
+    {
+        "input": "sadness",
+        "output": "sadness"
+    },
+    {
+        "input": "bit",
+        "output": "bit"
+    },
+    {
+        "input": "depressed",
+        "output": "depressed"
+    },
+    {
+        "input": "hard",
+        "output": "hard"
+    },
+    {
+        "input": "tough",
+        "output": "tough"
+    },
+    {
+        "input": "having",
+        "output": "having"
+    },
+    {
+        "input": "empty",
+        "output": "empty"
+    },
+    {
+        "input": "through",
+        "output": "through"
+    },
+    {
+        "input": "time",
+        "output": "time"
+    },
+    {
+        "input": "gray",
+        "output": "gray"
+    },
+    {
+        "input": "grey",
+        "output": "grey"
+    },
+    {
+        "input": "void",
+        "output": "void"
+    },
+    {
+        "input": "overwhelmed",
+        "output": "overwhelmed"
+    },
+    {
+        "input": "know",
+        "output": "know"
+    },
+    {
+        "input": "get",
+        "output": "get"
+    },
+    {
+        "input": "this",
+        "output": "this"
+    },
+    {
+        "input": "powerless",
+        "output": "powerless"
+    },
+    {
+        "input": "isn’t",
+        "output": "isnt"
+    },
+    {
+        "input": "defeated",
+        "output": "defeated"
+    },
+    {
+        "input": "unmotivated",
+        "output": "unmotivated"
+    },
+    {
+        "input": "downcast",
+        "output": "downcast"
+    },
+    {
+        "input": "desolate",
+        "output": "desolate"
+    },
+    {
+        "input": "heartbroken",
+        "output": "heartbroken"
+    },
+    {
+        "input": "terrible",
+        "output": "terrible"
+    },
+    {
+        "input": "Tuve",
+        "output": "tuve"
+    },
+    {
+        "input": "complicado",
+        "output": "complic"
+    },
+    {
+        "input": "esperaba",
+        "output": "esper"
+    },
+    {
+        "input": "abrumado",
+        "output": "abrumado"
+    },
+    {
+        "input": "parece",
+        "output": "parece"
+    },
+    {
+        "input": "mejorar",
+        "output": "mejorar"
+    },
+    {
+        "input": "oscuro",
+        "output": "oscuro"
+    },
+    {
+        "input": "pesado",
+        "output": "pesado"
+    },
+    {
+        "input": "encontré",
+        "output": "encontré"
+    },
+    {
+        "input": "relevante,",
+        "output": "relevante"
+    },
+    {
+        "input": "altibajos",
+        "output": "altibajos"
+    },
+    {
+        "input": "expresar",
+        "output": "expres"
+    },
+    {
+        "input": "wasn’t",
+        "output": "wasnt"
+    },
+    {
+        "input": "had",
+        "output": "had"
+    },
+    {
+        "input": "expected",
+        "output": "expected"
+    },
+    {
+        "input": "turned",
+        "output": "turned"
+    },
+    {
+        "input": "way",
+        "output": "way"
+    },
+    {
+        "input": "hoped",
+        "output": "hoped"
+    },
+    {
+        "input": "difficult",
+        "output": "difficult"
+    },
+    {
+        "input": "seems",
+        "output": "seems"
+    },
+    {
+        "input": "dark",
+        "output": "dark"
+    },
+    {
+        "input": "heavy",
+        "output": "heavy"
+    },
+    {
+        "input": "find",
+        "output": "find"
+    },
+    {
+        "input": "anything",
+        "output": "anything"
+    },
+    {
+        "input": "relevant,",
+        "output": "relevant"
+    },
+    {
+        "input": "ups",
+        "output": "ups"
+    },
+    {
+        "input": "downs",
+        "output": "downs"
+    },
+    {
+        "input": "express",
+        "output": "express"
+    },
+    {
+        "input": "emotional",
+        "output": "emotional"
+    },
+    {
+        "input": "enojado",
+        "output": "enojado"
+    },
+    {
+        "input": "enojao",
+        "output": "enojao"
+    },
+    {
+        "input": "furioso",
+        "output": "furios"
+    },
+    {
+        "input": "molesto",
+        "output": "molesto"
+    },
+    {
+        "input": "más",
+        "output": "más"
+    },
+    {
+        "input": "frustrado",
+        "output": "frustrado"
+    },
+    {
+        "input": "indignado",
+        "output": "indignado"
+    },
+    {
+        "input": "demasiado",
+        "output": "demasiado"
+    },
+    {
+        "input": "enfadado",
+        "output": "enfad"
+    },
+    {
+        "input": "harto",
+        "output": "harto"
+    },
+    {
+        "input": "aguanto",
+        "output": "aguanto"
+    },
+    {
+        "input": "irritado",
+        "output": "irritado"
+    },
+    {
+        "input": "ira",
+        "output": "ira"
+    },
+    {
+        "input": "soportarlo",
+        "output": "soportarlo"
+    },
+    {
+        "input": "voy",
+        "output": "voy"
+    },
+    {
+        "input": "explotar",
+        "output": "explotar"
+    },
+    {
+        "input": "alterado",
+        "output": "alter"
+    },
+    {
+        "input": "molesta",
+        "output": "molesta"
+    },
+    {
+        "input": "irritable",
+        "output": "irritable"
+    },
+    {
+        "input": "cansado",
+        "output": "cansado"
+    },
+    {
+        "input": "ofuscado",
+        "output": "ofusc"
+    },
+    {
+        "input": "rabia",
+        "output": "rabia"
+    },
+    {
+        "input": "angry",
+        "output": "angry"
+    },
+    {
+        "input": "pissed",
+        "output": "pissed"
+    },
+    {
+        "input": "off",
+        "output": "off"
+    },
+    {
+        "input": "mad",
+        "output": "mad"
+    },
+    {
+        "input": "furious",
+        "output": "furious"
+    },
+    {
+        "input": "upset",
+        "output": "upset"
+    },
+    {
+        "input": "take",
+        "output": "take"
+    },
+    {
+        "input": "anymore",
+        "output": "anymore"
+    },
+    {
+        "input": "frustrated",
+        "output": "frustrated"
+    },
+    {
+        "input": "indignant",
+        "output": "indignant"
+    },
+    {
+        "input": "too",
+        "output": "too"
+    },
+    {
+        "input": "enraged",
+        "output": "enraged"
+    },
+    {
+        "input": "fed",
+        "output": "fed"
+    },
+    {
+        "input": "stand",
+        "output": "stand"
+    },
+    {
+        "input": "irritated",
+        "output": "irritated"
+    },
+    {
+        "input": "anger",
+        "output": "anger"
+    },
+    {
+        "input": "handle",
+        "output": "handle"
+    },
+    {
+        "input": "gonna",
+        "output": "gonna"
+    },
+    {
+        "input": "explode",
+        "output": "explod"
+    },
+    {
+        "input": "agitated",
+        "output": "agitated"
+    },
+    {
+        "input": "bothering",
+        "output": "bothering"
+    },
+    {
+        "input": "tired",
+        "output": "tired"
+    },
+    {
+        "input": "rage",
+        "output": "rage"
+    },
+    {
+        "input": "salió",
+        "output": "sal"
+    },
+    {
+        "input": "frustrante",
+        "output": "frustrante"
+    },
+    {
+        "input": "desastre",
+        "output": "desastr"
+    },
+    {
+        "input": "funcionando",
+        "output": "funcion"
+    },
+    {
+        "input": "quiero",
+        "output": "quier"
+    },
+    {
+        "input": "horrible",
+        "output": "horrible"
+    },
+    {
+        "input": "ocurrió",
+        "output": "ocurr"
+    },
+    {
+        "input": "pensar",
+        "output": "pensar"
+    },
+    {
+        "input": "conflictos",
+        "output": "conflict"
+    },
+    {
+        "input": "colmó",
+        "output": "colm"
+    },
+    {
+        "input": "paciencia",
+        "output": "pacienci"
+    },
+    {
+        "input": "lidiar",
+        "output": "lidiar"
+    },
+    {
+        "input": "agotador",
+        "output": "agotador"
+    },
+    {
+        "input": "frustraciones",
+        "output": "frustracion"
+    },
+    {
+        "input": "rabioso",
+        "output": "rabios"
+    },
+    {
+        "input": "fastidiado",
+        "output": "fastidiado"
+    },
+    {
+        "input": "colérico",
+        "output": "colérico"
+    },
+    {
+        "input": "enfurecido",
+        "output": "enfurec"
+    },
+    {
+        "input": "frustrating",
+        "output": "frustrating"
+    },
+    {
+        "input": "about",
+        "output": "about"
+    },
+    {
+        "input": "disaster",
+        "output": "disaster"
+    },
+    {
+        "input": "want",
+        "output": "want"
+    },
+    {
+        "input": "thinking",
+        "output": "thinking"
+    },
+    {
+        "input": "tested",
+        "output": "tested"
+    },
+    {
+        "input": "patience",
+        "output": "patience"
+    },
+    {
+        "input": "deal",
+        "output": "deal"
+    },
+    {
+        "input": "exhausting",
+        "output": "exhausting"
+    },
+    {
+        "input": "annoyed",
+        "output": "annoyed"
+    },
+    {
+        "input": "livid",
+        "output": "livid"
+    },
+    {
+        "input": "neutral",
+        "output": "neutral"
+    },
+    {
+        "input": "cualquiera",
+        "output": "cualqu"
+    },
+    {
+        "input": "estable",
+        "output": "estable"
+    },
+    {
+        "input": "estable",
+        "output": "establ"
+    },
+    {
+        "input": "ok",
+        "output": "ok"
+    },
+    {
+        "input": "regular",
+        "output": "regular"
+    },
+    {
+        "input": "decir",
+        "output": "dec"
+    },
+    {
+        "input": "interesante",
+        "output": "interesante"
+    },
+    {
+        "input": "igual",
+        "output": "igual"
+    },
+    {
+        "input": "supongo",
+        "output": "supongo"
+    },
+    {
+        "input": "si",
+        "output": "si"
+    },
+    {
+        "input": "pasara",
+        "output": "pasara"
+    },
+    {
+        "input": "sigue",
+        "output": "sig"
+    },
+    {
+        "input": "su",
+        "output": "su"
+    },
+    {
+        "input": "curso",
+        "output": "curso"
+    },
+    {
+        "input": "siguiera",
+        "output": "sigu"
+    },
+    {
+        "input": "sorpresas",
+        "output": "sorpres"
+    },
+    {
+        "input": "sorpresa",
+        "output": "sorpresa"
+    },
+    {
+        "input": "simplemente",
+        "output": "simplemente"
+    },
+    {
+        "input": "equilibrado",
+        "output": "equilibr"
+    },
+    {
+        "input": "neutro",
+        "output": "neutro"
+    },
+    {
+        "input": "habitual",
+        "output": "habitual"
+    },
+    {
+        "input": "Neither",
+        "output": "neither"
+    },
+    {
+        "input": "nor",
+        "output": "nor"
+    },
+    {
+        "input": "stable",
+        "output": "stable"
+    },
+    {
+        "input": "say",
+        "output": "say"
+    },
+    {
+        "input": "interesting",
+        "output": "interesting"
+    },
+    {
+        "input": "same",
+        "output": "same"
+    },
+    {
+        "input": "guess",
+        "output": "guess"
+    },
+    {
+        "input": "more",
+        "output": "more"
+    },
+    {
+        "input": "typical",
+        "output": "typical"
+    },
+    {
+        "input": "usual",
+        "output": "usual"
+    },
+    {
+        "input": "without",
+        "output": "without"
+    },
+    {
+        "input": "surprises",
+        "output": "surprises"
+    },
+    {
+        "input": "siempre",
+        "output": "siempre"
+    },
+    {
+        "input": "nuevo",
+        "output": "nuev"
+    },
+    {
+        "input": "bastante",
+        "output": "bastante"
+    },
+    {
+        "input": "sorprendió",
+        "output": "sorprend"
+    },
+    {
+        "input": "fuertes",
+        "output": "fuert"
+    },
+    {
+        "input": "another",
+        "output": "another"
+    },
+    {
+        "input": "always",
+        "output": "always"
+    },
+    {
+        "input": "simply",
+        "output": "simply"
+    },
+    {
+        "input": "quite",
+        "output": "quite"
+    },
+    {
+        "input": "surprised",
+        "output": "surprised"
+    },
+    {
+        "input": "strong",
+        "output": "strong"
+    },
+    {
+        "input": "aburrido",
+        "output": "aburr"
+    },
+    {
+        "input": "interesa",
+        "output": "interesa"
+    },
+    {
+        "input": "hacer",
+        "output": "hac"
+    },
+    {
+        "input": "inspiración",
+        "output": "inspir"
+    },
+    {
+        "input": "ganas",
+        "output": "ganas"
+    },
+    {
+        "input": "ocupar",
+        "output": "ocupar"
+    },
+    {
+        "input": "tiempo",
+        "output": "tiempo"
+    },
+    {
+        "input": "lento",
+        "output": "lento"
+    },
+    {
+        "input": "divertido",
+        "output": "divertido"
+    },
+    {
+        "input": "hacer",
+        "output": "hacer"
+    },
+    {
+        "input": "perdiendo",
+        "output": "perdiendo"
+    },
+    {
+        "input": "llame",
+        "output": "llame"
+    },
+    {
+        "input": "atención",
+        "output": "atencion"
+    },
+    {
+        "input": "monótono",
+        "output": "monoton"
+    },
+    {
+        "input": "avanza",
+        "output": "avanza"
+    },
+    {
+        "input": "encuentro",
+        "output": "encuentr"
+    },
+    {
+        "input": "motive",
+        "output": "motive"
+    },
+    {
+        "input": "buscando",
+        "output": "buscando"
+    },
+    {
+        "input": "entretiene",
+        "output": "entretiene"
+    },
+    {
+        "input": "ideas",
+        "output": "idea"
+    },
+    {
+        "input": "pasar",
+        "output": "pasar"
+    },
+    {
+        "input": "pasa",
+        "output": "pasa"
+    },
+    {
+        "input": "atrapado",
+        "output": "atrapado"
+    },
+    {
+        "input": "rutina",
+        "output": "rutina"
+    },
+    {
+        "input": "El",
+        "output": "el"
+    },
+    {
+        "input": "siendo",
+        "output": "siendo"
+    },
+    {
+        "input": "tedioso",
+        "output": "tedioso"
+    },
+    {
+        "input": "distrae",
+        "output": "distrae"
+    },
+    {
+        "input": "del",
+        "output": "del"
+    },
+    {
+        "input": "sea",
+        "output": "sea"
+    },
+    {
+        "input": "mismo,",
+        "output": "mismo"
+    },
+    {
+        "input": "matar",
+        "output": "matar"
+    },
+    {
+        "input": "sol,",
+        "output": "sol"
+    },
+    {
+        "input": "Este",
+        "output": "este"
+    },
+    {
+        "input": "tiene",
+        "output": "tiene"
+    },
+    {
+        "input": "desinteresado",
+        "output": "desinteres"
+    },
+    {
+        "input": "apático",
+        "output": "apático"
+    },
+    {
+        "input": "desganado",
+        "output": "desgan"
+    },
+    {
+        "input": "interés",
+        "output": "interés"
+    },
+    {
+        "input": "aburrido",
+        "output": "aburrido"
+    },
+    {
+        "input": "motivación",
+        "output": "motiv"
+    },
+    {
+        "input": "bored",
+        "output": "bored"
+    },
+    {
+        "input": "interests",
+        "output": "interest"
+    },
+    {
+        "input": "do",
+        "output": "do"
+    },
+    {
+        "input": "boring",
+        "output": "boring"
+    },
+    {
+        "input": "uninspired",
+        "output": "uninspired"
+    },
+    {
+        "input": "doing",
+        "output": "doing"
+    },
+    {
+        "input": "spend",
+        "output": "spend"
+    },
+    {
+        "input": "slow",
+        "output": "slow"
+    },
+    {
+        "input": "fun",
+        "output": "fun"
+    },
+    {
+        "input": "wasting",
+        "output": "wasting"
+    },
+    {
+        "input": "catches",
+        "output": "catch"
+    },
+    {
+        "input": "attention",
+        "output": "attention"
+    },
+    {
+        "input": "feels",
+        "output": "feels"
+    },
+    {
+        "input": "monotonous",
+        "output": "monotonous"
+    },
+    {
+        "input": "moving",
+        "output": "moving"
+    },
+    {
+        "input": "forward",
+        "output": "forward"
+    },
+    {
+        "input": "motivates",
+        "output": "motivates"
+    },
+    {
+        "input": "looking",
+        "output": "looking"
+    },
+    {
+        "input": "something",
+        "output": "something"
+    },
+    {
+        "input": "entertains",
+        "output": "entertains"
+    },
+    {
+        "input": "pass",
+        "output": "pass"
+    },
+    {
+        "input": "exciting",
+        "output": "exciting"
+    },
+    {
+        "input": "stuck",
+        "output": "stuck"
+    },
+    {
+        "input": "routine",
+        "output": "routine"
+    },
+    {
+        "input": "tedious",
+        "output": "tedious"
+    },
+    {
+        "input": "distracts",
+        "output": "distracts"
+    },
+    {
+        "input": "from",
+        "output": "from"
+    },
+    {
+        "input": "boredom",
+        "output": "boredom"
+    },
+    {
+        "input": "make",
+        "output": "make"
+    },
+    {
+        "input": "kill",
+        "output": "kill"
+    },
+    {
+        "input": "sun,",
+        "output": "sun"
+    },
+    {
+        "input": "uninterested",
+        "output": "uninterested"
+    },
+    {
+        "input": "apathetic",
+        "output": "apathetic"
+    },
+    {
+        "input": "interested",
+        "output": "interested"
+    },
+    {
+        "input": "así,",
+        "output": "así"
+    },
+    {
+        "input": "agotado",
+        "output": "agotado"
+    },
+    {
+        "input": "exhausto",
+        "output": "exhausto"
+    },
+    {
+        "input": "fatigado",
+        "output": "fatigado"
+    },
+    {
+        "input": "completamente",
+        "output": "completamente"
+    },
+    {
+        "input": "rendido",
+        "output": "rendido"
+    },
+    {
+        "input": "largo",
+        "output": "larg"
+    },
+    {
+        "input": "desgastado",
+        "output": "desgastado"
+    },
+    {
+        "input": "débil",
+        "output": "débil"
+    },
+    {
+        "input": "tres",
+        "output": "tres"
+    },
+    {
+        "input": "describe",
+        "output": "describ"
+    },
+    {
+        "input": "exhausted",
+        "output": "exhausted"
+    },
+    {
+        "input": "strength",
+        "output": "strength"
+    },
+    {
+        "input": "drained",
+        "output": "drained"
+    },
+    {
+        "input": "fatigued",
+        "output": "fatigu"
+    },
+    {
+        "input": "completely",
+        "output": "completely"
+    },
+    {
+        "input": "worn",
+        "output": "worn"
+    },
+    {
+        "input": "long",
+        "output": "long"
+    },
+    {
+        "input": "weak",
+        "output": "weak"
+    },
+    {
+        "input": "three",
+        "output": "three"
+    },
+    {
+        "input": "descansar",
+        "output": "descans"
+    },
+    {
+        "input": "Hice",
+        "output": "hice"
+    },
+    {
+        "input": "muchas",
+        "output": "muchas"
+    },
+    {
+        "input": "detuve",
+        "output": "detuve"
+    },
+    {
+        "input": "segundo",
+        "output": "segundo"
+    },
+    {
+        "input": "mentalmente",
+        "output": "mentalmente"
+    },
+    {
+        "input": "físicamente",
+        "output": "físicamente"
+    },
+    {
+        "input": "demandante",
+        "output": "demandante"
+    },
+    {
+        "input": "he",
+        "output": "he"
+    },
+    {
+        "input": "podido",
+        "output": "podido"
+    },
+    {
+        "input": "suficiente",
+        "output": "suficient"
+    },
+    {
+        "input": "dejó",
+        "output": "dej"
+    },
+    {
+        "input": "didn’t",
+        "output": "didnt"
+    },
+    {
+        "input": "rest",
+        "output": "rest"
+    },
+    {
+        "input": "did",
+        "output": "did"
+    },
+    {
+        "input": "many",
+        "output": "many"
+    },
+    {
+        "input": "second",
+        "output": "second"
+    },
+    {
+        "input": "mentally",
+        "output": "mentally"
+    },
+    {
+        "input": "physically",
+        "output": "physically"
+    },
+    {
+        "input": "myself",
+        "output": "myself"
+    },
+    {
+        "input": "demanding",
+        "output": "demanding"
+    },
+    {
+        "input": "haven’t",
+        "output": "havent"
+    },
+    {
+        "input": "able",
+        "output": "able"
+    },
+    {
+        "input": "enough",
+        "output": "enough"
+    },
+    {
+        "input": "left",
+        "output": "left"
+    },
+    {
+        "input": "estresado",
+        "output": "estres"
+    },
+    {
+        "input": "estresao",
+        "output": "estresa"
+    },
+    {
+        "input": "presión",
+        "output": "presion"
+    },
+    {
+        "input": "tanto",
+        "output": "tanto"
+    },
+    {
+        "input": "al",
+        "output": "al"
+    },
+    {
+        "input": "límite",
+        "output": "límite"
+    },
+    {
+        "input": "demasiadas",
+        "output": "demasiadas"
+    },
+    {
+        "input": "cabeza",
+        "output": "cabez"
+    },
+    {
+        "input": "calmarme",
+        "output": "calmarme"
+    },
+    {
+        "input": "agobiado",
+        "output": "agobiado"
+    },
+    {
+        "input": "tenso",
+        "output": "tenso"
+    },
+    {
+        "input": "afectando",
+        "output": "afect"
+    },
+    {
+        "input": "relajarme",
+        "output": "relajarme"
+    },
+    {
+        "input": "ahora",
+        "output": "ahora"
+    },
+    {
+        "input": "preocupado",
+        "output": "preocupado"
+    },
+    {
+        "input": "agobiado",
+        "output": "agobi"
+    },
+    {
+        "input": "stressed",
+        "output": "stressed"
+    },
+    {
+        "input": "pressure",
+        "output": "pressure"
+    },
+    {
+        "input": "stressing",
+        "output": "stressing"
+    },
+    {
+        "input": "limit",
+        "output": "limit"
+    },
+    {
+        "input": "on",
+        "output": "on"
+    },
+    {
+        "input": "mind",
+        "output": "mind"
+    },
+    {
+        "input": "stressful",
+        "output": "stressful"
+    },
+    {
+        "input": "burdened",
+        "output": "burdened"
+    },
+    {
+        "input": "tense",
+        "output": "tense"
+    },
+    {
+        "input": "getting",
+        "output": "getting"
+    },
+    {
+        "input": "relax",
+        "output": "relax"
+    },
+    {
+        "input": "now",
+        "output": "now"
+    },
+    {
+        "input": "pressured",
+        "output": "pressured"
+    },
+    {
+        "input": "worried",
+        "output": "worried"
+    },
+    {
+        "input": "pude",
+        "output": "pude"
+    },
+    {
+        "input": "generó",
+        "output": "generó"
+    },
+    {
+        "input": "manejar",
+        "output": "manejar"
+    },
+    {
+        "input": "caos",
+        "output": "caos"
+    },
+    {
+        "input": "respirar",
+        "output": "respirar"
+    },
+    {
+        "input": "by",
+        "output": "by"
+    },
+    {
+        "input": "caused",
+        "output": "caused"
+    },
+    {
+        "input": "complicated",
+        "output": "complicated"
+    },
+    {
+        "input": "chaos",
+        "output": "chaos"
+    },
+    {
+        "input": "trapped",
+        "output": "trapped"
+    },
+    {
+        "input": "breathe",
+        "output": "breathe"
+    },
+    {
+        "input": "Prefiero",
+        "output": "prefiero"
+    },
+    {
+        "input": "decirte",
+        "output": "decirt"
+    },
+    {
+        "input": "decirtelo",
+        "output": "decirtel"
+    },
+    {
+        "input": "contarte",
+        "output": "contarte"
+    },
+    {
+        "input": "contartelo",
+        "output": "contartelo"
+    },
+    {
+        "input": "te",
+        "output": "te"
+    },
+    {
+        "input": "cuento",
+        "output": "cuent"
+    },
+    {
+        "input": "cambie",
+        "output": "cambi"
+    },
+    {
+        "input": "opinion",
+        "output": "opinion"
+    },
+    {
+        "input": "otro",
+        "output": "otro"
+    },
+    {
+        "input": "entrar",
+        "output": "entrar"
+    },
+    {
+        "input": "detalles",
+        "output": "detalles"
+    },
+    {
+        "input": "hablar",
+        "output": "habl"
+    },
+    {
+        "input": "contigo",
+        "output": "contigo"
+    },
+    {
+        "input": "guardarme",
+        "output": "guardarme"
+    },
+    {
+        "input": "cómodo",
+        "output": "comod"
+    },
+    {
+        "input": "hablándote",
+        "output": "hablándote"
+    },
+    {
+        "input": "personal,",
+        "output": "personal"
+    },
+    {
+        "input": "dejo",
+        "output": "dejo"
+    },
+    {
+        "input": "importa,",
+        "output": "importa"
+    },
+    {
+        "input": "verdad",
+        "output": "verdad"
+    },
+    {
+        "input": "ello",
+        "output": "ello"
+    },
+    {
+        "input": "privado,",
+        "output": "privado"
+    },
+    {
+        "input": "compartirlo",
+        "output": "compartirlo"
+    },
+    {
+        "input": "necesito",
+        "output": "necesito"
+    },
+    {
+        "input": "ti",
+        "output": "ti"
+    },
+    {
+        "input": "mantener",
+        "output": "mantener"
+    },
+    {
+        "input": "guardármelo",
+        "output": "guardármelo"
+    },
+    {
+        "input": "importancia,",
+        "output": "importancia"
+    },
+    {
+        "input": "preocupes",
+        "output": "preocupes"
+    },
+    {
+        "input": "vale",
+        "output": "vale"
+    },
+    {
+        "input": "pena",
+        "output": "pena"
+    },
+    {
+        "input": "creo",
+        "output": "creo"
+    },
+    {
+        "input": "necesario",
+        "output": "necesari"
+    },
+    {
+        "input": "compartir",
+        "output": "compartir"
+    },
+    {
+        "input": "contártelo,",
+        "output": "contártelo"
+    },
+    {
+        "input": "disculpa",
+        "output": "disculpa"
+    },
+    {
+        "input": "dejamos",
+        "output": "dejamos"
+    },
+    {
+        "input": "mantenerlo",
+        "output": "mantenerlo"
+    },
+    {
+        "input": "importe",
+        "output": "importe"
+    },
+    {
+        "input": "falta",
+        "output": "falta"
+    },
+    {
+        "input": "sepas",
+        "output": "sepas"
+    },
+    {
+        "input": "guardo",
+        "output": "guardo"
+    },
+    {
+        "input": "tema",
+        "output": "tema"
+    },
+    {
+        "input": "necesidad",
+        "output": "neces"
+    },
+    {
+        "input": "Claro,",
+        "output": "clar"
+    },
+    {
+        "input": "quieres",
+        "output": "quieres"
+    },
+    {
+        "input": "saberlo",
+        "output": "saberlo"
+    },
+    {
+        "input": "supuesto,",
+        "output": "supuest"
+    },
+    {
+        "input": "diré",
+        "output": "diré"
+    },
+    {
+        "input": "gusto",
+        "output": "gusto"
+    },
+    {
+        "input": "problema,",
+        "output": "problema"
+    },
+    {
+        "input": "Sí,",
+        "output": "sí"
+    },
+    {
+        "input": "necesitas",
+        "output": "necesitas"
+    },
+    {
+        "input": "secreto,",
+        "output": "secreto"
+    },
+    {
+        "input": "digo",
+        "output": "digo"
+    },
+    {
+        "input": "esconder,",
+        "output": "escond"
+    },
+    {
+        "input": "inconveniente",
+        "output": "inconveniente"
+    },
+    {
+        "input": "preocuparse",
+        "output": "preocuparse"
+    },
+    {
+        "input": "explicarte",
+        "output": "explicarte"
+    },
+    {
+        "input": "toda",
+        "output": "toda"
+    },
+    {
+        "input": "confianza",
+        "output": "confianza"
+    },
+    {
+        "input": "prefieres",
+        "output": "prefieres"
+    },
+    {
+        "input": "I’d",
+        "output": "id"
+    },
+    {
+        "input": "rather",
+        "output": "rather"
+    },
+    {
+        "input": "tell",
+        "output": "tell"
+    },
+    {
+        "input": "prefer",
+        "output": "prefer"
+    },
+    {
+        "input": "talk",
+        "output": "talk"
+    },
+    {
+        "input": "changed",
+        "output": "changed"
+    },
+    {
+        "input": "never",
+        "output": "never"
+    },
+    {
+        "input": "Maybe",
+        "output": "maybe"
+    },
+    {
+        "input": "go",
+        "output": "go"
+    },
+    {
+        "input": "into",
+        "output": "into"
+    },
+    {
+        "input": "details",
+        "output": "details"
+    },
+    {
+        "input": "keep",
+        "output": "keep"
+    },
+    {
+        "input": "comfortable",
+        "output": "comfort"
+    },
+    {
+        "input": "talking",
+        "output": "talking"
+    },
+    {
+        "input": "leave",
+        "output": "leave"
+    },
+    {
+        "input": "matter,",
+        "output": "matter"
+    },
+    {
+        "input": "private;",
+        "output": "private"
+    },
+    {
+        "input": "need",
+        "output": "need"
+    },
+    {
+        "input": "worry",
+        "output": "worry"
+    },
+    {
+        "input": "worth",
+        "output": "worth"
+    },
+    {
+        "input": "mentioning",
+        "output": "mentioning"
+    },
+    {
+        "input": "think",
+        "output": "think"
+    },
+    {
+        "input": "necessary",
+        "output": "necessary"
+    },
+    {
+        "input": "sorry",
+        "output": "sorry"
+    },
+    {
+        "input": "let’s",
+        "output": "lets"
+    },
+    {
+        "input": "matters",
+        "output": "matters"
+    },
+    {
+        "input": "sharing",
+        "output": "sharing"
+    },
+    {
+        "input": "Sure,",
+        "output": "sure"
+    },
+    {
+        "input": "can",
+        "output": "can"
+    },
+    {
+        "input": "if",
+        "output": "if"
+    },
+    {
+        "input": "course,",
+        "output": "course"
+    },
+    {
+        "input": "Yes,",
+        "output": "yes"
+    },
+    {
+        "input": "telling",
+        "output": "telling"
+    },
+    {
+        "input": "secret;",
+        "output": "secret"
+    },
+    {
+        "input": "I’ll",
+        "output": "ill"
+    },
+    {
+        "input": "hide;",
+        "output": "hide"
+    },
+    {
+        "input": "issues",
+        "output": "issues"
+    },
+    {
+        "input": "explain",
+        "output": "explain"
+    },
+    {
+        "input": "confidence",
+        "output": "confidenc"
+    },
+    {
+        "input": "you’d",
+        "output": "youd"
+    },
+    {
+        "input": "angustiado",
+        "output": "angustiado"
+    },
+    {
+        "input": "ansioso",
+        "output": "ansioso"
+    },
+    {
+        "input": "inquieto",
+        "output": "inquieto"
+    },
+    {
+        "input": "ansiedad",
+        "output": "ansiedad"
+    },
+    {
+        "input": "se",
+        "output": "se"
+    },
+    {
+        "input": "sentirme",
+        "output": "sentirme"
+    },
+    {
+        "input": "nervioso",
+        "output": "nervioso"
+    },
+    {
+        "input": "preocuparme",
+        "output": "preocuparme"
+    },
+    {
+        "input": "anda",
+        "output": "anda"
+    },
+    {
+        "input": "incertidumbre",
+        "output": "incertidumbre"
+    },
+    {
+        "input": "confundido",
+        "output": "confund"
+    },
+    {
+        "input": "entiendo",
+        "output": "entiend"
+    },
+    {
+        "input": "perdido",
+        "output": "perdido"
+    },
+    {
+        "input": "desorientado",
+        "output": "desorient"
+    },
+    {
+        "input": "dudas",
+        "output": "dudas"
+    },
+    {
+        "input": "sobre",
+        "output": "sobr"
+    },
+    {
+        "input": "avergonzado",
+        "output": "avergonz"
+    },
+    {
+        "input": "vergüenza",
+        "output": "vergüenza"
+    },
+    {
+        "input": "incómodo",
+        "output": "incomod"
+    },
+    {
+        "input": "humillado",
+        "output": "humillado"
+    },
+    {
+        "input": "culpable",
+        "output": "culpable"
+    },
+    {
+        "input": "arrepentido",
+        "output": "arrepent"
+    },
+    {
+        "input": "remordimiento",
+        "output": "remord"
+    },
+    {
+        "input": "debí",
+        "output": "deb"
+    },
+    {
+        "input": "culpa",
+        "output": "culpa"
+    },
+    {
+        "input": "miedo",
+        "output": "miedo"
+    },
+    {
+        "input": "asustado",
+        "output": "asustado"
+    },
+    {
+        "input": "temor",
+        "output": "temor"
+    },
+    {
+        "input": "seguro",
+        "output": "seguro"
+    },
+    {
+        "input": "aterrorizado",
+        "output": "aterrorizado"
+    },
+    {
+        "input": "da",
+        "output": "da"
+    },
+    {
+        "input": "pavor",
+        "output": "pavor"
+    },
+    {
+        "input": "enamorado",
+        "output": "enamor"
+    },
+    {
+        "input": "amor",
+        "output": "amor"
+    },
+    {
+        "input": "mariposas",
+        "output": "mariposas"
+    },
+    {
+        "input": "estómago",
+        "output": "estomag"
+    },
+    {
+        "input": "apegado",
+        "output": "apegado"
+    },
+    {
+        "input": "cariño",
+        "output": "cariñ"
+    },
+    {
+        "input": "esperanzado",
+        "output": "esperanz"
+    },
+    {
+        "input": "fe",
+        "output": "fe"
+    },
+    {
+        "input": "saldrá",
+        "output": "saldrá"
+    },
+    {
+        "input": "futuro",
+        "output": "futuro"
+    },
+    {
+        "input": "ilusión",
+        "output": "ilusion"
+    },
+    {
+        "input": "sale",
+        "output": "sale"
+    },
+    {
+        "input": "intentarlo",
+        "output": "intentarlo"
+    },
+    {
+        "input": "logro",
+        "output": "logro"
+    },
+    {
+        "input": "satisfecho",
+        "output": "satisfecho"
+    },
+    {
+        "input": "pleno",
+        "output": "pleno"
+    },
+    {
+        "input": "Logré",
+        "output": "logré"
+    },
+    {
+        "input": "quería",
+        "output": "quer"
+    },
+    {
+        "input": "conmigo",
+        "output": "conmigo"
+    },
+    {
+        "input": "realizado",
+        "output": "realizado"
+    },
+    {
+        "input": "celoso",
+        "output": "celos"
+    },
+    {
+        "input": "celos",
+        "output": "cel"
+    },
+    {
+        "input": "esa",
+        "output": "esa"
+    },
+    {
+        "input": "persona",
+        "output": "persona"
+    },
+    {
+        "input": "inseguro",
+        "output": "inseguro"
+    },
+    {
+        "input": "veo",
+        "output": "veo"
+    },
+    {
+        "input": "envidia",
+        "output": "envidi"
+    },
+    {
+        "input": "distressed",
+        "output": "distressed"
+    },
+    {
+        "input": "anxious",
+        "output": "anxious"
+    },
+    {
+        "input": "restless",
+        "output": "restless"
+    },
+    {
+        "input": "anxiety",
+        "output": "anxiety"
+    },
+    {
+        "input": "nervous",
+        "output": "nervous"
+    },
+    {
+        "input": "worrying",
+        "output": "worrying"
+    },
+    {
+        "input": "something’s",
+        "output": "somethings"
+    },
+    {
+        "input": "uncertainty",
+        "output": "uncertainty"
+    },
+    {
+        "input": "confused",
+        "output": "confused"
+    },
+    {
+        "input": "understand",
+        "output": "understand"
+    },
+    {
+        "input": "lost",
+        "output": "lost"
+    },
+    {
+        "input": "disoriented",
+        "output": "disoriented"
+    },
+    {
+        "input": "doubts",
+        "output": "doubts"
+    },
+    {
+        "input": "embarrassed",
+        "output": "embarrassed"
+    },
+    {
+        "input": "ashamed",
+        "output": "ashamed"
+    },
+    {
+        "input": "shame",
+        "output": "shame"
+    },
+    {
+        "input": "awkward",
+        "output": "awkward"
+    },
+    {
+        "input": "humiliated",
+        "output": "humiliated"
+    },
+    {
+        "input": "guilty",
+        "output": "guilty"
+    },
+    {
+        "input": "regretful",
+        "output": "regretful"
+    },
+    {
+        "input": "remorse",
+        "output": "remorse"
+    },
+    {
+        "input": "shouldn’t",
+        "output": "shouldnt"
+    },
+    {
+        "input": "done",
+        "output": "done"
+    },
+    {
+        "input": "carrying",
+        "output": "carrying"
+    },
+    {
+        "input": "guilt",
+        "output": "guilt"
+    },
+    {
+        "input": "scared",
+        "output": "scared"
+    },
+    {
+        "input": "afraid",
+        "output": "afraid"
+    },
+    {
+        "input": "fear",
+        "output": "fear"
+    },
+    {
+        "input": "safe",
+        "output": "safe"
+    },
+    {
+        "input": "terrified",
+        "output": "terrified"
+    },
+    {
+        "input": "dreading",
+        "output": "dreading"
+    },
+    {
+        "input": "might",
+        "output": "might"
+    },
+    {
+        "input": "happen",
+        "output": "happen"
+    },
+    {
+        "input": "love",
+        "output": "love"
+    },
+    {
+        "input": "butterflies",
+        "output": "butterflies"
+    },
+    {
+        "input": "stomach",
+        "output": "stomach"
+    },
+    {
+        "input": "attached",
+        "output": "attached"
+    },
+    {
+        "input": "someone",
+        "output": "someone"
+    },
+    {
+        "input": "affection",
+        "output": "affection"
+    },
+    {
+        "input": "hopeful",
+        "output": "hopeful"
+    },
+    {
+        "input": "faith",
+        "output": "faith"
+    },
+    {
+        "input": "will",
+        "output": "will"
+    },
+    {
+        "input": "turn",
+        "output": "turn"
+    },
+    {
+        "input": "future",
+        "output": "future"
+    },
+    {
+        "input": "excitement",
+        "output": "excitement"
+    },
+    {
+        "input": "goes",
+        "output": "goes"
+    },
+    {
+        "input": "trying",
+        "output": "trying"
+    },
+    {
+        "input": "achieving",
+        "output": "achieving"
+    },
+    {
+        "input": "satisfied",
+        "output": "satisfied"
+    },
+    {
+        "input": "fulfilled",
+        "output": "fulfilled"
+    },
+    {
+        "input": "achieved",
+        "output": "achieved"
+    },
+    {
+        "input": "wanted",
+        "output": "wanted"
+    },
+    {
+        "input": "accomplished",
+        "output": "accomplished"
+    },
+    {
+        "input": "jealous",
+        "output": "jealous"
+    },
+    {
+        "input": "person",
+        "output": "person"
+    },
+    {
+        "input": "insecure",
+        "output": "insecure"
+    },
+    {
+        "input": "see",
+        "output": "see"
+    },
+    {
+        "input": "envious",
+        "output": "envious"
+    },
+    {
+        "input": "manejas?",
+        "output": "manejas"
+    },
+    {
+        "input": "cuales",
+        "output": "cual"
+    },
+    {
+        "input": "son",
+        "output": "son"
+    },
+    {
+        "input": "tienes",
+        "output": "tienes"
+    },
+    {
+        "input": "entrenadas",
+        "output": "entren"
+    },
+    {
+        "input": "reconocer",
+        "output": "reconoc"
+    },
+    {
+        "input": "sabes",
+        "output": "sabes"
+    },
+    {
+        "input": "identificar",
+        "output": "identificar"
+    },
+    {
+        "input": "entiendes",
+        "output": "entiendes"
+    },
+    {
+        "input": "tus",
+        "output": "tus"
+    },
+    {
+        "input": "Dime",
+        "output": "dime"
+    },
+    {
+        "input": "programadas",
+        "output": "programadas"
+    },
+    {
+        "input": "tipo",
+        "output": "tipo"
+    },
+    {
+        "input": "configuradas",
+        "output": "configur"
+    },
+    {
+        "input": "procesar",
+        "output": "proces"
+    },
+    {
+        "input": "están",
+        "output": "estan"
+    },
+    {
+        "input": "bot",
+        "output": "bot"
+    },
+    {
+        "input": "tu",
+        "output": "tu"
+    },
+    {
+        "input": "sabe",
+        "output": "sabe"
+    },
+    {
+        "input": "chatbot",
+        "output": "chatbot"
+    },
+    {
+        "input": "cargadas",
+        "output": "cargadas"
+    },
+    {
+        "input": "todas",
+        "output": "todas"
+    },
+    {
+        "input": "guardadas",
+        "output": "guardadas"
+    },
+    {
+        "input": "disponibles",
+        "output": "dispon"
+    },
+    {
+        "input": "compatibles",
+        "output": "compatibles"
+    },
+    {
+        "input": "entender",
+        "output": "entender"
+    },
+    {
+        "input": "Which",
+        "output": "which"
+    },
+    {
+        "input": "recognize?",
+        "output": "recognize"
+    },
+    {
+        "input": "trained",
+        "output": "trained"
+    },
+    {
+        "input": "identify?",
+        "output": "identify"
+    },
+    {
+        "input": "programmed",
+        "output": "programmed"
+    },
+    {
+        "input": "type",
+        "output": "type"
+    },
+    {
+        "input": "configured?",
+        "output": "configured"
+    },
+    {
+        "input": "process?",
+        "output": "process"
+    },
+    {
+        "input": "your",
+        "output": "your"
+    },
+    {
+        "input": "does",
+        "output": "does"
+    },
+    {
+        "input": "training?",
+        "output": "training"
+    },
+    {
+        "input": "train?",
+        "output": "train"
+    },
+    {
+        "input": "they?",
+        "output": "they"
+    },
+    {
+        "input": "loaded?",
+        "output": "load"
+    },
+    {
+        "input": "stored?",
+        "output": "stored"
+    },
+    {
+        "input": "available",
+        "output": "available"
+    },
+    {
+        "input": "compatible?",
+        "output": "compatible"
+    },
+    {
+        "input": "Cuentame",
+        "output": "cuentam"
+    },
+    {
+        "input": "curioso",
+        "output": "curioso"
+    },
+    {
+        "input": "Dame",
+        "output": "dame"
+    },
+    {
+        "input": "dato",
+        "output": "dato"
+    },
+    {
+        "input": "curioso",
+        "output": "curios"
+    },
+    {
+        "input": "Algún",
+        "output": "algun"
+    },
+    {
+        "input": "Sorprendeme",
+        "output": "sorprendeme"
+    },
+    {
+        "input": "Contame",
+        "output": "contame"
+    },
+    {
+        "input": "copado",
+        "output": "copado"
+    },
+    {
+        "input": "porfa",
+        "output": "porf"
+    },
+    {
+        "input": "Tirame",
+        "output": "tirame"
+    },
+    {
+        "input": "chido",
+        "output": "chido"
+    },
+    {
+        "input": "random",
+        "output": "random"
+    },
+    {
+        "input": "Alguna",
+        "output": "alguna"
+    },
+    {
+        "input": "curiosidad?",
+        "output": "curiosidad"
+    },
+    {
+        "input": "favor,",
+        "output": "favor"
+    },
+    {
+        "input": "sorpréndeme",
+        "output": "sorpréndeme"
+    },
+    {
+        "input": "gustaría",
+        "output": "gust"
+    },
+    {
+        "input": "escuchar",
+        "output": "escuch"
+    },
+    {
+        "input": "tengas",
+        "output": "tengas"
+    },
+    {
+        "input": "curiso",
+        "output": "curiso"
+    },
+    {
+        "input": "saber",
+        "output": "saber"
+    },
+    {
+        "input": "comparte",
+        "output": "comparte"
+    },
+    {
+        "input": "contarme?",
+        "output": "contarme"
+    },
+    {
+        "input": "e",
+        "output": "e"
+    },
+    {
+        "input": "fascinante",
+        "output": "fascinante"
+    },
+    {
+        "input": "curious",
+        "output": "curious"
+    },
+    {
+        "input": "Give",
+        "output": "give"
+    },
+    {
+        "input": "fact",
+        "output": "fact"
+    },
+    {
+        "input": "Surprise",
+        "output": "surprise"
+    },
+    {
+        "input": "Got",
+        "output": "got"
+    },
+    {
+        "input": "cool",
+        "output": "cool"
+    },
+    {
+        "input": "please",
+        "output": "please"
+    },
+    {
+        "input": "Drop",
+        "output": "drop"
+    },
+    {
+        "input": "curiosity?",
+        "output": "curiosity"
+    },
+    {
+        "input": "hear",
+        "output": "hear"
+    },
+    {
+        "input": "Yeah,",
+        "output": "yeah"
+    },
+    {
+        "input": "Gimme",
+        "output": "gimme"
+    },
+    {
+        "input": "Alright,",
+        "output": "alright"
+    },
+    {
+        "input": "wanna",
+        "output": "wanna"
+    },
+    {
+        "input": "fascinating",
+        "output": "fascinating"
+    },
+    {
+        "input": "Adios",
+        "output": "adios"
+    },
+    {
+        "input": "Nos",
+        "output": "nos"
+    },
+    {
+        "input": "vemos",
+        "output": "vemos"
+    },
+    {
+        "input": "Hasta",
+        "output": "hasta"
+    },
+    {
+        "input": "luego",
+        "output": "lueg"
+    },
+    {
+        "input": "Chao",
+        "output": "chao"
+    },
+    {
+        "input": "Bye",
+        "output": "bye"
+    },
+    {
+        "input": "Cuidate",
+        "output": "cuidate"
+    },
+    {
+        "input": "pronto",
+        "output": "pronto"
+    },
+    {
+        "input": "vidrios",
+        "output": "vidrios"
+    },
+    {
+        "input": "Chau",
+        "output": "chau"
+    },
+    {
+        "input": "cuidas",
+        "output": "cuid"
+    },
+    {
+        "input": "próxima",
+        "output": "próxima"
+    },
+    {
+        "input": "vemo",
+        "output": "vemo"
+    },
+    {
+        "input": "ves",
+        "output": "ves"
+    },
+    {
+        "input": "después",
+        "output": "después"
+    },
+    {
+        "input": "Suerte!",
+        "output": "suert"
+    },
+    {
+        "input": "Goodbye",
+        "output": "goodbye"
+    },
+    {
+        "input": "care",
+        "output": "care"
+    },
+    {
+        "input": "later",
+        "output": "later"
+    },
+    {
+        "input": "ya",
+        "output": "ya"
+    },
+    {
+        "input": "easy",
+        "output": "easy"
+    },
+    {
+        "input": "yourself",
+        "output": "yourself"
+    },
+    {
+        "input": "next",
+        "output": "next"
+    },
+    {
+        "input": "soon",
+        "output": "soon"
+    },
+    {
+        "input": "around",
+        "output": "around"
+    },
+    {
+        "input": "Stay",
+        "output": "stay"
+    },
+    {
+        "input": "one",
+        "output": "one"
+    },
+    {
+        "input": "Cheers!",
+        "output": "cheers"
+    },
+    {
+        "input": "luck!",
+        "output": "luck"
+    },
+    {
+        "input": "Gracias",
+        "output": "graci"
+    },
+    {
+        "input": "agradezco",
+        "output": "agradezco"
+    },
+    {
+        "input": "Eres",
+        "output": "eres"
+    },
+    {
+        "input": "amable",
+        "output": "amable"
+    },
+    {
+        "input": "Mil",
+        "output": "mil"
+    },
+    {
+        "input": "ayuda",
+        "output": "ayuda"
+    },
+    {
+        "input": "Thanks",
+        "output": "thanks"
+    },
+    {
+        "input": "Thank",
+        "output": "thank"
+    },
+    {
+        "input": "appreciate",
+        "output": "appreciate"
+    },
+    {
+        "input": "appreciated",
+        "output": "appreciated"
+    },
+    {
+        "input": "help",
+        "output": "help"
+    },
+    {
+        "input": "You're",
+        "output": "youre"
+    },
+    {
+        "input": "kind",
+        "output": "kind"
+    },
+    {
+        "input": "ton",
+        "output": "ton"
+    },
+    {
+        "input": "million",
+        "output": "million"
+    },
+    {
+        "input": "kindly",
+        "output": "kindly"
+    },
+    {
+        "input": "nombre?",
+        "output": "nombr"
+    },
+    {
+        "input": "llamas?",
+        "output": "llam"
+    },
+    {
+        "input": "Quién",
+        "output": "quién"
+    },
+    {
+        "input": "debo",
+        "output": "debo"
+    },
+    {
+        "input": "llamarte?",
+        "output": "llamart"
+    },
+    {
+        "input": "usas?",
+        "output": "usas"
+    },
+    {
+        "input": "llama",
+        "output": "llama"
+    },
+    {
+        "input": "identificas?",
+        "output": "identificas"
+    },
+    {
+        "input": "identificación?",
+        "output": "identif"
+    },
+    {
+        "input": "name?",
+        "output": "name"
+    },
+    {
+        "input": "called?",
+        "output": "called"
+    },
+    {
+        "input": "Who",
+        "output": "who"
+    },
+    {
+        "input": "should",
+        "output": "should"
+    },
+    {
+        "input": "call",
+        "output": "call"
+    },
+    {
+        "input": "use?",
+        "output": "use"
+    },
+    {
+        "input": "identification?",
+        "output": "identification"
+    },
+    {
+        "input": "speaking",
+        "output": "speaking"
+    },
+    {
+        "input": "chatting",
+        "output": "chatting"
+    },
+    {
+        "input": "people",
+        "output": "people"
+    },
+    {
+        "input": "Cuántos",
+        "output": "cuant"
+    },
+    {
+        "input": "años",
+        "output": "años"
+    },
+    {
+        "input": "edad",
+        "output": "edad"
+    },
+    {
+        "input": "old",
+        "output": "old"
+    },
+    {
+        "input": "age?",
+        "output": "age"
+    },
+    {
+        "input": "years",
+        "output": "year"
+    },
+    {
+        "input": "exact",
+        "output": "exact"
+    },
+    {
+        "input": "color",
+        "output": "color"
+    },
+    {
+        "input": "favorito?",
+        "output": "favorito"
+    },
+    {
+        "input": "gusta",
+        "output": "gusta"
+    },
+    {
+        "input": "preferido?",
+        "output": "preferido"
+    },
+    {
+        "input": "favorite",
+        "output": "favorite"
+    },
+    {
+        "input": "most?",
+        "output": "most"
+    },
+    {
+        "input": "preferred",
+        "output": "preferred"
+    },
+    {
+        "input": "top",
+        "output": "top"
+    },
+    {
+        "input": "go-to",
+        "output": "goto"
+    },
+    {
+        "input": "colors?",
+        "output": "colors"
+    },
+    {
+        "input": "robot?",
+        "output": "robot"
+    },
+    {
+        "input": "asistente?",
+        "output": "asistente"
+    },
+    {
+        "input": "assistant?",
+        "output": "assistant"
+    },
+    {
+        "input": "some",
+        "output": "some"
+    },
+    {
+        "input": "exactly",
+        "output": "exactly"
+    },
+    {
+        "input": "program?",
+        "output": "program"
+    },
+    {
+        "input": "supposed",
+        "output": "supposed"
+    },
+    {
+        "input": "Siri",
+        "output": "siri"
+    },
+    {
+        "input": "Alexa?",
+        "output": "alexa"
+    },
+    {
+        "input": "truth,",
+        "output": "truth"
+    },
+    {
+        "input": "purpose?",
+        "output": "purpose"
+    },
+    {
+        "input": "AI",
+        "output": "ai"
+    },
+    {
+        "input": "util?",
+        "output": "util"
+    },
+    {
+        "input": "sirves?",
+        "output": "sirves"
+    },
+    {
+        "input": "utilidades",
+        "output": "utilidades"
+    },
+    {
+        "input": "ayudarme",
+        "output": "ayudarme"
+    },
+    {
+        "input": "habilidades",
+        "output": "habilidades"
+    },
+    {
+        "input": "podrias",
+        "output": "podrias"
+    },
+    {
+        "input": "mas",
+        "output": "mas"
+    },
+    {
+        "input": "otras",
+        "output": "otras"
+    },
+    {
+        "input": "otra",
+        "output": "otra"
+    },
+    {
+        "input": "cosa",
+        "output": "cos"
+    },
+    {
+        "input": "ayudame,",
+        "output": "ayudame"
+    },
+    {
+        "input": "ofrecerme?",
+        "output": "ofrecerme"
+    },
+    {
+        "input": "podrías",
+        "output": "podr"
+    },
+    {
+        "input": "servicios",
+        "output": "servici"
+    },
+    {
+        "input": "asistirme?",
+        "output": "asistirme"
+    },
+    {
+        "input": "darme?",
+        "output": "darme"
+    },
+    {
+        "input": "soluciones",
+        "output": "solucion"
+    },
+    {
+        "input": "brindarme?",
+        "output": "brindarme"
+    },
+    {
+        "input": "tareas",
+        "output": "tareas"
+    },
+    {
+        "input": "realizar?",
+        "output": "realizar"
+    },
+    {
+        "input": "resolver",
+        "output": "resolver"
+    },
+    {
+        "input": "mis",
+        "output": "mis"
+    },
+    {
+        "input": "beneficios",
+        "output": "benefici"
+    },
+    {
+        "input": "capacidades",
+        "output": "capacidades"
+    },
+    {
+        "input": "aportarme?",
+        "output": "aportarme"
+    },
+    {
+        "input": "posibilidades",
+        "output": "posibilidades"
+    },
+    {
+        "input": "ofreces?",
+        "output": "ofreces"
+    },
+    {
+        "input": "ofrecer?",
+        "output": "ofrecer"
+    },
+    {
+        "input": "aportar",
+        "output": "aportar"
+    },
+    {
+        "input": "caso?",
+        "output": "cas"
+    },
+    {
+        "input": "useful",
+        "output": "useful"
+    },
+    {
+        "input": "abilities",
+        "output": "abilities"
+    },
+    {
+        "input": "skills",
+        "output": "skills"
+    },
+    {
+        "input": "assist",
+        "output": "assist"
+    },
+    {
+        "input": "else",
+        "output": "else"
+    },
+    {
+        "input": "other",
+        "output": "other"
+    },
+    {
+        "input": "function?",
+        "output": "function"
+    },
+    {
+        "input": "capabilities?",
+        "output": "capabilities"
+    },
+    {
+        "input": "functions?",
+        "output": "functions"
+    },
+    {
+        "input": "services",
+        "output": "service"
+    },
+    {
+        "input": "offer?",
+        "output": "offer"
+    },
+    {
+        "input": "provide?",
+        "output": "provide"
+    },
+    {
+        "input": "solutions",
+        "output": "solutions"
+    },
+    {
+        "input": "tasks",
+        "output": "tasks"
+    },
+    {
+        "input": "perform?",
+        "output": "perform"
+    },
+    {
+        "input": "solve",
+        "output": "solve"
+    },
+    {
+        "input": "benefits",
+        "output": "benefits"
+    },
+    {
+        "input": "contribute?",
+        "output": "contribute"
+    },
+    {
+        "input": "assistance",
+        "output": "assistance"
+    },
+    {
+        "input": "list",
+        "output": "list"
+    },
+    {
+        "input": "skill",
+        "output": "skill"
+    },
+    {
+        "input": "set?",
+        "output": "set"
+    },
+    {
+        "input": "expertise?",
+        "output": "expertise"
+    },
+    {
+        "input": "Dónde",
+        "output": "dond"
+    },
+    {
+        "input": "estás?",
+        "output": "estás"
+    },
+    {
+        "input": "Donde",
+        "output": "donde"
+    },
+    {
+        "input": "andas?",
+        "output": "andas"
+    },
+    {
+        "input": "Where",
+        "output": "where"
+    },
+    {
+        "input": "live?",
+        "output": "live"
+    },
+    {
+        "input": "located?",
+        "output": "located"
+    },
+    {
+        "input": "exist?",
+        "output": "exist"
+    },
+    {
+        "input": "here?",
+        "output": "here"
+    },
+    {
+        "input": "based?",
+        "output": "based"
+    },
+    {
+        "input": "location?",
+        "output": "location"
+    },
+    {
+        "input": "operate",
+        "output": "operate"
+    },
+    {
+        "input": "nearby?",
+        "output": "nearby"
+    },
+    {
+        "input": "belong?",
+        "output": "belong"
+    },
+    {
+        "input": "De",
+        "output": "de"
+    },
+    {
+        "input": "existes?",
+        "output": "existes"
+    },
+    {
+        "input": "Exististe?",
+        "output": "exististe"
+    },
+    {
+        "input": "true?",
+        "output": "true"
+    },
+    {
+        "input": "reality?",
+        "output": "reality"
+    },
+    {
+        "input": "confirm",
+        "output": "confirm"
+    },
+    {
+        "input": "conversation?",
+        "output": "conversation"
+    },
+    {
+        "input": "amigos?",
+        "output": "amigos"
+    },
+    {
+        "input": "compañeros?",
+        "output": "compañer"
+    },
+    {
+        "input": "conocidos?",
+        "output": "conoc"
+    },
+    {
+        "input": "amistades?",
+        "output": "amistades"
+    },
+    {
+        "input": "quien",
+        "output": "quien"
+    },
+    {
+        "input": "Y",
+        "output": "y"
+    },
+    {
+        "input": "friends?",
+        "output": "friends"
+    },
+    {
+        "input": "companions?",
+        "output": "companions"
+    },
+    {
+        "input": "acquaintances?",
+        "output": "acquaintances"
+    },
+    {
+        "input": "friendships?",
+        "output": "friendship"
+    },
+    {
+        "input": "others",
+        "output": "others"
+    },
+    {
+        "input": "buddies?",
+        "output": "buddies"
+    },
+    {
+        "input": "connect",
+        "output": "connect"
+    },
+    {
+        "input": "hang",
+        "output": "hang"
+    },
+    {
+        "input": "chatbots?",
+        "output": "chatbots"
+    },
+    {
+        "input": "guste?",
+        "output": "guste"
+    },
+    {
+        "input": "disfrutas",
+        "output": "disfrutas"
+    },
+    {
+        "input": "encante?",
+        "output": "encant"
+    },
+    {
+        "input": "enjoy",
+        "output": "enjoy"
+    },
+    {
+        "input": "makes",
+        "output": "makes"
+    },
+    {
+        "input": "hobbies?",
+        "output": "hobbies"
+    },
+    {
+        "input": "trabajo?",
+        "output": "trabajo"
+    },
+    {
+        "input": "ocupación?",
+        "output": "ocup"
+    },
+    {
+        "input": "job?",
+        "output": "job"
+    },
+    {
+        "input": "role?",
+        "output": "role"
+    },
+    {
+        "input": "work?",
+        "output": "work"
+    },
+    {
+        "input": "occupation?",
+        "output": "occupation"
+    },
+    {
+        "input": "responsible",
+        "output": "responsible"
+    },
+    {
+        "input": "main",
+        "output": "main"
+    },
+    {
+        "input": "task?",
+        "output": "task"
+    },
+    {
+        "input": "tan",
+        "output": "tan"
+    },
+    {
+        "input": "inteligente",
+        "output": "inteligente"
+    },
+    {
+        "input": "listo?",
+        "output": "listo"
+    },
+    {
+        "input": "smart",
+        "output": "smart"
+    },
+    {
+        "input": "intelligent",
+        "output": "intelligent"
+    },
+    {
+        "input": "clever",
+        "output": "clever"
+    },
+    {
+        "input": "knowledgeable",
+        "output": "knowledgeable"
+    },
+    {
+        "input": "answer",
+        "output": "answer"
+    },
+    {
+        "input": "consider",
+        "output": "consider"
+    },
+    {
+        "input": "level",
+        "output": "level"
+    },
+    {
+        "input": "intelligence?",
+        "output": "intelligence"
+    },
+    {
+        "input": "human?",
+        "output": "human"
+    },
+    {
+        "input": "idiomas",
+        "output": "idiomas"
+    },
+    {
+        "input": "inglés?",
+        "output": "inglés"
+    },
+    {
+        "input": "español?",
+        "output": "español"
+    },
+    {
+        "input": "alemán?",
+        "output": "alemán"
+    },
+    {
+        "input": "francés?",
+        "output": "francés"
+    },
+    {
+        "input": "italiano?",
+        "output": "italiano"
+    },
+    {
+        "input": "portugués?",
+        "output": "portugués"
+    },
+    {
+        "input": "chino?",
+        "output": "chino"
+    },
+    {
+        "input": "japonés?",
+        "output": "japonés"
+    },
+    {
+        "input": "lenguajes",
+        "output": "lenguaj"
+    },
+    {
+        "input": "lenguajes",
+        "output": "lenguajes"
+    },
+    {
+        "input": "idioma?",
+        "output": "idioma"
+    },
+    {
+        "input": "languages",
+        "output": "languages"
+    },
+    {
+        "input": "speak?",
+        "output": "speak"
+    },
+    {
+        "input": "English?",
+        "output": "english"
+    },
+    {
+        "input": "Spanish?",
+        "output": "spanish"
+    },
+    {
+        "input": "German?",
+        "output": "german"
+    },
+    {
+        "input": "French?",
+        "output": "french"
+    },
+    {
+        "input": "Italian?",
+        "output": "italian"
+    },
+    {
+        "input": "Portuguese?",
+        "output": "portuguese"
+    },
+    {
+        "input": "Chinese?",
+        "output": "chinese"
+    },
+    {
+        "input": "Japanese?",
+        "output": "japanese"
+    },
+    {
+        "input": "than",
+        "output": "than"
+    },
+    {
+        "input": "language?",
+        "output": "language"
+    },
+    {
+        "input": "multilingual?",
+        "output": "multilingual"
+    },
+    {
+        "input": "proficiency?",
+        "output": "proficiency"
+    },
+    {
+        "input": "multiple",
+        "output": "multiple"
+    },
+    {
+        "input": "ser",
+        "output": "ser"
+    },
+    {
+        "input": "útil?",
+        "output": "útil"
+    },
+    {
+        "input": "capaz",
+        "output": "capaz"
+    },
+    {
+        "input": "kinds",
+        "output": "kinds"
+    },
+    {
+        "input": "capable",
+        "output": "capable"
+    },
+    {
+        "input": "specialize",
+        "output": "specialize"
+    },
+    {
+        "input": "entertainment",
+        "output": "entertainment"
+    },
+    {
+        "input": "recommend?",
+        "output": "recommend"
+    },
+    {
+        "input": "types",
+        "output": "types"
+    },
+    {
+        "input": "questions",
+        "output": "questions"
+    },
+    {
+        "input": "topics",
+        "output": "topic"
+    },
+    {
+        "input": "construido?",
+        "output": "constru"
+    },
+    {
+        "input": "hecho?",
+        "output": "hecho"
+    },
+    {
+        "input": "trabajas?",
+        "output": "trabajas"
+    },
+    {
+        "input": "diseñado",
+        "output": "diseñ"
+    },
+    {
+        "input": "creado",
+        "output": "creado"
+    },
+    {
+        "input": "tecnología",
+        "output": "tecnolog"
+    },
+    {
+        "input": "operas?",
+        "output": "operas"
+    },
+    {
+        "input": "crearon?",
+        "output": "crearon"
+    },
+    {
+        "input": "sistema?",
+        "output": "sistema"
+    },
+    {
+        "input": "built?",
+        "output": "built"
+    },
+    {
+        "input": "constructed?",
+        "output": "constructed"
+    },
+    {
+        "input": "designed?",
+        "output": "designed"
+    },
+    {
+        "input": "created?",
+        "output": "created"
+    },
+    {
+        "input": "made",
+        "output": "made"
+    },
+    {
+        "input": "technology",
+        "output": "technology"
+    },
+    {
+        "input": "behind",
+        "output": "behind"
+    },
+    {
+        "input": "system",
+        "output": "system"
+    },
+    {
+        "input": "design",
+        "output": "design"
+    },
+    {
+        "input": "construction?",
+        "output": "construction"
+    },
+    {
+        "input": "architecture?",
+        "output": "architecture"
+    },
+    {
+        "input": "powers",
+        "output": "powers"
+    },
+    {
+        "input": "were",
+        "output": "were"
+    },
+    {
+        "input": "messages?",
+        "output": "messages"
+    },
+    {
+        "input": "framework?",
+        "output": "framework"
+    },
+    {
+        "input": "model",
+        "output": "model"
+    },
+    {
+        "input": "tools",
+        "output": "tools"
+    },
+    {
+        "input": "used",
+        "output": "used"
+    },
+    {
+        "input": "create",
+        "output": "create"
+    },
+    {
+        "input": "gustan?",
+        "output": "gustan"
+    },
+    {
+        "input": "agrada?",
+        "output": "agrada"
+    },
+    {
+        "input": "actividades",
+        "output": "activ"
+    },
+    {
+        "input": "actividades",
+        "output": "actividades"
+    },
+    {
+        "input": "apasiona?",
+        "output": "apasiona"
+    },
+    {
+        "input": "activities",
+        "output": "activities"
+    },
+    {
+        "input": "passionate",
+        "output": "passionate"
+    },
+    {
+        "input": "enjoyable?",
+        "output": "enjoyable"
+    },
+    {
+        "input": "chiste",
+        "output": "chiste"
+    },
+    {
+        "input": "gracioso",
+        "output": "gracios"
+    },
+    {
+        "input": "Hazme",
+        "output": "hazme"
+    },
+    {
+        "input": "reír",
+        "output": "reír"
+    },
+    {
+        "input": "reir",
+        "output": "reir"
+    },
+    {
+        "input": "Haz",
+        "output": "haz"
+    },
+    {
+        "input": "haga",
+        "output": "haga"
+    },
+    {
+        "input": "joke",
+        "output": "joke"
+    },
+    {
+        "input": "jokes?",
+        "output": "jokes"
+    },
+    {
+        "input": "laugh",
+        "output": "laugh"
+    },
+    {
+        "input": "funny",
+        "output": "funny"
+    },
+    {
+        "input": "that’ll",
+        "output": "thatll"
+    },
+    {
+        "input": "Cheer",
+        "output": "cheer"
+    },
+    {
+        "input": "Hit",
+        "output": "hit"
+    },
+    {
+        "input": "crack",
+        "output": "crack"
+    },
+    {
+        "input": "funniest",
+        "output": "funniest"
+    },
+    {
+        "input": "you’ve",
+        "output": "youve"
+    },
+    {
+        "input": "3",
+        "output": "3"
+    },
+    {
+        "input": "5?",
+        "output": "5"
+    },
+    {
+        "input": "Suma",
+        "output": "suma"
+    },
+    {
+        "input": "4",
+        "output": "4"
+    },
+    {
+        "input": "6",
+        "output": "6"
+    },
+    {
+        "input": "7",
+        "output": "7"
+    },
+    {
+        "input": "+",
+        "output": ""
+    },
+    {
+        "input": "2?",
+        "output": "2"
+    },
+    {
+        "input": "estos",
+        "output": "estos"
+    },
+    {
+        "input": "números:",
+        "output": "números"
+    },
+    {
+        "input": "10",
+        "output": "10"
+    },
+    {
+        "input": "20",
+        "output": "20"
+    },
+    {
+        "input": "8",
+        "output": "8"
+    },
+    {
+        "input": "Calcula",
+        "output": "calcula"
+    },
+    {
+        "input": "12",
+        "output": "12"
+    },
+    {
+        "input": "9+3",
+        "output": "93"
+    },
+    {
+        "input": "resulta",
+        "output": "resulta"
+    },
+    {
+        "input": "14",
+        "output": "14"
+    },
+    {
+        "input": "sumar",
+        "output": "sumar"
+    },
+    {
+        "input": "9?",
+        "output": "9"
+    },
+    {
+        "input": "plus",
+        "output": "plus"
+    },
+    {
+        "input": "Add",
+        "output": "add"
+    },
+    {
+        "input": "these",
+        "output": "these"
+    },
+    {
+        "input": "numbers:",
+        "output": "numbers"
+    },
+    {
+        "input": "addition",
+        "output": "addition"
+    },
+    {
+        "input": "Calculate",
+        "output": "calculate"
+    },
+    {
+        "input": "result",
+        "output": "result"
+    },
+    {
+        "input": "menos",
+        "output": "menos"
+    },
+    {
+        "input": "Resta",
+        "output": "resta"
+    },
+    {
+        "input": "50",
+        "output": "50"
+    },
+    {
+        "input": "15?",
+        "output": "15"
+    },
+    {
+        "input": "100",
+        "output": "100"
+    },
+    {
+        "input": "40",
+        "output": "40"
+    },
+    {
+        "input": "minus",
+        "output": "minus"
+    },
+    {
+        "input": "Subtract",
+        "output": "subtract"
+    },
+    {
+        "input": "Multiplica",
+        "output": "multiplica"
+    },
+    {
+        "input": "times",
+        "output": "times"
+    },
+    {
+        "input": "Multiply",
+        "output": "multiply"
+    },
+    {
+        "input": "dividido",
+        "output": "dividido"
+    },
+    {
+        "input": "entre",
+        "output": "entre"
+    },
+    {
+        "input": "Divide",
+        "output": "divide"
+    },
+    {
+        "input": "divided",
+        "output": "divided"
+    },
+    {
+        "input": "pintó",
+        "output": "pint"
+    },
+    {
+        "input": "Mona",
+        "output": "mona"
+    },
+    {
+        "input": "Lisa?",
+        "output": "lisa"
+    },
+    {
+        "input": "autor",
+        "output": "autor"
+    },
+    {
+        "input": "creó",
+        "output": "cre"
+    },
+    {
+        "input": "hizo",
+        "output": "hizo"
+    },
+    {
+        "input": "pintada",
+        "output": "pintada"
+    },
+    {
+        "input": "painted",
+        "output": "painted"
+    },
+    {
+        "input": "author",
+        "output": "author"
+    },
+    {
+        "input": "whom?",
+        "output": "whom"
+    },
+    {
+        "input": "artist",
+        "output": "artist"
+    },
+    {
+        "input": "creator",
+        "output": "creator"
+    },
+    {
+        "input": "Torre",
+        "output": "torre"
+    },
+    {
+        "input": "Eiffel?",
+        "output": "eiffel"
+    },
+    {
+        "input": "explicarme",
+        "output": "explicarme"
+    },
+    {
+        "input": "representa",
+        "output": "representa"
+    },
+    {
+        "input": "simboliza",
+        "output": "simboliza"
+    },
+    {
+        "input": "Tower?",
+        "output": "tower"
+    },
+    {
+        "input": "represents?",
+        "output": "represents"
+    },
+    {
+        "input": "symbolize?",
+        "output": "symbolize"
+    },
+    {
+        "input": "importance",
+        "output": "importance"
+    },
+    {
+        "input": "habla",
+        "output": "habla"
+    },
+    {
+        "input": "Brasil?",
+        "output": "brasil"
+    },
+    {
+        "input": "hablan",
+        "output": "hablan"
+    },
+    {
+        "input": "principal",
+        "output": "principal"
+    },
+    {
+        "input": "lengua",
+        "output": "lengua"
+    },
+    {
+        "input": "oficial",
+        "output": "oficial"
+    },
+    {
+        "input": "usan",
+        "output": "usan"
+    },
+    {
+        "input": "lenguaje",
+        "output": "lenguaje"
+    },
+    {
+        "input": "usa",
+        "output": "usa"
+    },
+    {
+        "input": "spoken",
+        "output": "spoken"
+    },
+    {
+        "input": "Brazil?",
+        "output": "brazil"
+    },
+    {
+        "input": "official",
+        "output": "official"
+    },
+    {
+        "input": "common",
+        "output": "common"
+    },
+    {
+        "input": "significa",
+        "output": "significa"
+    },
+    {
+        "input": "ADN?",
+        "output": "adn"
+    },
+    {
+        "input": "quiere",
+        "output": "quiere"
+    },
+    {
+        "input": "Explícame",
+        "output": "explícame"
+    },
+    {
+        "input": "DNA",
+        "output": "dna"
+    },
+    {
+        "input": "mean?",
+        "output": "mean"
+    },
+    {
+        "input": "represent?",
+        "output": "represent"
+    },
+    {
+        "input": "descubrió",
+        "output": "descubr"
+    },
+    {
+        "input": "América?",
+        "output": "américa"
+    },
+    {
+        "input": "descubridor",
+        "output": "descubridor"
+    },
+    {
+        "input": "¿Cuándo",
+        "output": "cuand"
+    },
+    {
+        "input": "descubierto",
+        "output": "descubiert"
+    },
+    {
+        "input": "llegó",
+        "output": "llegó"
+    },
+    {
+        "input": "primero?",
+        "output": "primero"
+    },
+    {
+        "input": "discovered",
+        "output": "discovered"
+    },
+    {
+        "input": "America?",
+        "output": "america"
+    },
+    {
+        "input": "discoverer",
+        "output": "discoverer"
+    },
+    {
+        "input": "When",
+        "output": "when"
+    },
+    {
+        "input": "arrived",
+        "output": "arrived"
+    },
+    {
+        "input": "first?",
+        "output": "first"
+    },
+    {
+        "input": "Navidad?",
+        "output": "navidad"
+    },
+    {
+        "input": "fecha",
+        "output": "fecha"
+    },
+    {
+        "input": "celebra",
+        "output": "celebra"
+    },
+    {
+        "input": "Christmas?",
+        "output": "christmas"
+    },
+    {
+        "input": "date",
+        "output": "date"
+    },
+    {
+        "input": "celebrated?",
+        "output": "celebrated"
+    },
+    {
+        "input": "independencia",
+        "output": "independencia"
+    },
+    {
+        "input": "México?",
+        "output": "mexic"
+    },
+    {
+        "input": "celebramos",
+        "output": "celebramos"
+    },
+    {
+        "input": "celebramos",
+        "output": "celebr"
+    },
+    {
+        "input": "Independence",
+        "output": "independence"
+    },
+    {
+        "input": "we",
+        "output": "we"
+    },
+    {
+        "input": "celebrate",
+        "output": "celebrate"
+    },
+    {
+        "input": "Año",
+        "output": "año"
+    },
+    {
+        "input": "San",
+        "output": "san"
+    },
+    {
+        "input": "Valentín?",
+        "output": "valentín"
+    },
+    {
+        "input": "Valentine's",
+        "output": "valentines"
+    },
+    {
+        "input": "empezó",
+        "output": "empezó"
+    },
+    {
+        "input": "Segunda",
+        "output": "segunda"
+    },
+    {
+        "input": "Guerra",
+        "output": "guerr"
+    },
+    {
+        "input": "Mundial?",
+        "output": "mundial"
+    },
+    {
+        "input": "inició",
+        "output": "inició"
+    },
+    {
+        "input": "inicio",
+        "output": "inicio"
+    },
+    {
+        "input": "comenzó",
+        "output": "comenzó"
+    },
+    {
+        "input": "World",
+        "output": "world"
+    },
+    {
+        "input": "War",
+        "output": "war"
+    },
+    {
+        "input": "II",
+        "output": "ii"
+    },
+    {
+        "input": "start?",
+        "output": "start"
+    },
+    {
+        "input": "begin?",
+        "output": "begin"
+    },
+    {
+        "input": "started.",
+        "output": "started"
+    },
+    {
+        "input": "Halloween?",
+        "output": "halloween"
+    },
+    {
+        "input": "Madres?",
+        "output": "madres"
+    },
+    {
+        "input": "Mother's",
+        "output": "mother"
+    },
+    {
+        "input": "Padre?",
+        "output": "padre"
+    },
+    {
+        "input": "Father's",
+        "output": "father"
+    },
+    {
+        "input": "Tierra?",
+        "output": "tierr"
+    },
+    {
+        "input": "Earth",
+        "output": "earth"
+    },
+    {
+        "input": "Labor",
+        "output": "labor"
+    },
+    {
+        "input": "Amistad?",
+        "output": "amistad"
+    },
+    {
+        "input": "Internacional",
+        "output": "internacional"
+    },
+    {
+        "input": "Mujer?",
+        "output": "mujer"
+    },
+    {
+        "input": "International",
+        "output": "international"
+    },
+    {
+        "input": "Women's",
+        "output": "womens"
+    },
+    {
+        "input": "Niño?",
+        "output": "niño"
+    },
+    {
+        "input": "Niño?",
+        "output": "niñ"
+    },
+    {
+        "input": "Children's",
+        "output": "childrens"
+    },
+    {
+        "input": "presidente",
+        "output": "president"
+    },
+    {
+        "input": "Estados",
+        "output": "estados"
+    },
+    {
+        "input": "Unidos?",
+        "output": "unid"
+    },
+    {
+        "input": "lidera",
+        "output": "lider"
+    },
+    {
+        "input": "gobierna",
+        "output": "gobierna"
+    },
+    {
+        "input": "United",
+        "output": "united"
+    },
+    {
+        "input": "States?",
+        "output": "states"
+    },
+    {
+        "input": "leads",
+        "output": "lead"
+    },
+    {
+        "input": "governs",
+        "output": "governs"
+    },
+    {
+        "input": "charge",
+        "output": "charge"
+    },
+    {
+        "input": "presidente",
+        "output": "presidente"
+    },
+    {
+        "input": "Francia?",
+        "output": "francia"
+    },
+    {
+        "input": "France?",
+        "output": "france"
+    },
+    {
+        "input": "primer",
+        "output": "primer"
+    },
+    {
+        "input": "ministro",
+        "output": "ministro"
+    },
+    {
+        "input": "Canadá?",
+        "output": "canad"
+    },
+    {
+        "input": "Canadá?",
+        "output": "canadá"
+    },
+    {
+        "input": "prime",
+        "output": "prime"
+    },
+    {
+        "input": "minister",
+        "output": "minister"
+    },
+    {
+        "input": "Canada?",
+        "output": "canada"
+    },
+    {
+        "input": "Google?",
+        "output": "google"
+    },
+    {
+        "input": "¿Quiénes",
+        "output": "quiénes"
+    },
+    {
+        "input": "los",
+        "output": "los"
+    },
+    {
+        "input": "fundadores",
+        "output": "fundadores"
+    },
+    {
+        "input": "Quienes",
+        "output": "quienes"
+    },
+    {
+        "input": "inventó",
+        "output": "invent"
+    },
+    {
+        "input": "dueño",
+        "output": "dueñ"
+    },
+    {
+        "input": "founders",
+        "output": "founders"
+    },
+    {
+        "input": "invented",
+        "output": "invented"
+    },
+    {
+        "input": "owns",
+        "output": "owns"
+    },
+    {
+        "input": "fundó",
+        "output": "fund"
+    },
+    {
+        "input": "Meta?",
+        "output": "meta"
+    },
+    {
+        "input": "creador",
+        "output": "creador"
+    },
+    {
+        "input": "Facebook?",
+        "output": "facebook"
+    },
+    {
+        "input": "fundada",
+        "output": "fundada"
+    },
+    {
+        "input": "founded",
+        "output": "founded"
+    },
+    {
+        "input": "OpenAI?",
+        "output": "openai"
+    },
+    {
+        "input": "detrás",
+        "output": "detrás"
+    },
+    {
+        "input": "fundadores",
+        "output": "fundador"
+    },
+    {
+        "input": "Tesla?",
+        "output": "tesla"
+    },
+    {
+        "input": "creada",
+        "output": "creada"
+    },
+    {
+        "input": "founder",
+        "output": "founder"
+    },
+    {
+        "input": "Amazon?",
+        "output": "amazon"
+    },
+    {
+        "input": "moneda",
+        "output": "moneda"
+    },
+    {
+        "input": "Guatemala?",
+        "output": "guatemala"
+    },
+    {
+        "input": "dinero",
+        "output": "dinero"
+    },
+    {
+        "input": "currency",
+        "output": "currency"
+    },
+    {
+        "input": "money",
+        "output": "money"
+    },
+    {
+        "input": "Guatemala's",
+        "output": "guatemalas"
+    },
+    {
+        "input": "tongue",
+        "output": "tongue"
+    },
+    {
+        "input": "capital",
+        "output": "capital"
+    },
+    {
+        "input": "ciudad",
+        "output": "ciud"
+    },
+    {
+        "input": "city",
+        "output": "city"
+    },
+    {
+        "input": "Canada's",
+        "output": "canadas"
+    },
+    {
+        "input": "France's",
+        "output": "frances"
+    },
+    {
+        "input": "España?",
+        "output": "españ"
+    },
+    {
+        "input": "Spain?",
+        "output": "spain"
+    },
+    {
+        "input": "Spain's",
+        "output": "spains"
+    },
+    {
+        "input": "Reino",
+        "output": "reino"
+    },
+    {
+        "input": "Kingdom?",
+        "output": "kingdom"
+    },
+    {
+        "input": "Kingdom's",
+        "output": "kingdoms"
+    },
+    {
+        "input": "Alemania?",
+        "output": "alemania"
+    },
+    {
+        "input": "Germany?",
+        "output": "germany"
+    },
+    {
+        "input": "Germany's",
+        "output": "germanys"
+    },
+    {
+        "input": "Italia?",
+        "output": "italia"
+    },
+    {
+        "input": "Italy?",
+        "output": "italy"
+    },
+    {
+        "input": "Italy's",
+        "output": "italys"
+    },
+    {
+        "input": "Japón?",
+        "output": "japón"
+    },
+    {
+        "input": "Japan?",
+        "output": "japan"
+    },
+    {
+        "input": "Japan's",
+        "output": "japans"
+    },
+    {
+        "input": "consejo",
+        "output": "consej"
+    },
+    {
+        "input": "aconsejarme?",
+        "output": "aconsej"
+    },
+    {
+        "input": "advice",
+        "output": "advice"
+    },
+    {
+        "input": "guide",
+        "output": "guid"
+    },
+    {
+        "input": "pizza?",
+        "output": "pizza"
+    },
+    {
+        "input": "enseñarme",
+        "output": "enseñ"
+    },
+    {
+        "input": "ingredientes",
+        "output": "ingredientes"
+    },
+    {
+        "input": "preparar",
+        "output": "prepar"
+    },
+    {
+        "input": "teach",
+        "output": "teach"
+    },
+    {
+        "input": "ingredients",
+        "output": "ingredients"
+    },
+    {
+        "input": "prepare",
+        "output": "prepare"
+    },
+    {
+        "input": "hamburguesa?",
+        "output": "hamburguesa"
+    },
+    {
+        "input": "lleva",
+        "output": "lleva"
+    },
+    {
+        "input": "burger?",
+        "output": "burger"
+    },
+    {
+        "input": "ensalada?",
+        "output": "ensal"
+    },
+    {
+        "input": "salad?",
+        "output": "salad"
+    },
+    {
+        "input": "contain?",
+        "output": "contain"
+    },
+    {
+        "input": "pasta?",
+        "output": "pasta"
+    },
+    {
+        "input": "sopa?",
+        "output": "sopa"
+    },
+    {
+        "input": "soup?",
+        "output": "soup"
+    },
+    {
+        "input": "recomendarme",
+        "output": "recomendarme"
+    },
+    {
+        "input": "libro?",
+        "output": "libr"
+    },
+    {
+        "input": "recomiendas?",
+        "output": "recomiend"
+    },
+    {
+        "input": "leer",
+        "output": "leer"
+    },
+    {
+        "input": "Recomiéndame",
+        "output": "recomiendam"
+    },
+    {
+        "input": "recomendación",
+        "output": "recomend"
+    },
+    {
+        "input": "recomendar?",
+        "output": "recomendar"
+    },
+    {
+        "input": "moda?",
+        "output": "moda"
+    },
+    {
+        "input": "valen",
+        "output": "valen"
+    },
+    {
+        "input": "título",
+        "output": "titul"
+    },
+    {
+        "input": "book?",
+        "output": "book"
+    },
+    {
+        "input": "books?",
+        "output": "books"
+    },
+    {
+        "input": "read?",
+        "output": "read"
+    },
+    {
+        "input": "recommendation",
+        "output": "recommendation"
+    },
+    {
+        "input": "suggest?",
+        "output": "suggest"
+    },
+    {
+        "input": "popular",
+        "output": "popular"
+    },
+    {
+        "input": "reading?",
+        "output": "reading"
+    },
+    {
+        "input": "title",
+        "output": "title"
+    },
+    {
+        "input": "check",
+        "output": "check"
+    },
+    {
+        "input": "must-read",
+        "output": "mustread"
+    },
+    {
+        "input": "trending",
+        "output": "trending"
+    },
+    {
+        "input": "clásico",
+        "output": "clasic"
+    },
+    {
+        "input": "literatura",
+        "output": "literatura"
+    },
+    {
+        "input": "literario",
+        "output": "literario"
+    },
+    {
+        "input": "Sugiéreme",
+        "output": "sugiéreme"
+    },
+    {
+        "input": "¿Sabés",
+        "output": "sabés"
+    },
+    {
+        "input": "Decime",
+        "output": "decim"
+    },
+    {
+        "input": "Recomendame",
+        "output": "recomendame"
+    },
+    {
+        "input": "obra",
+        "output": "obra"
+    },
+    {
+        "input": "¿Tenés",
+        "output": "tenés"
+    },
+    {
+        "input": "sugerir?",
+        "output": "sugerir"
+    },
+    {
+        "input": "Sugiereme",
+        "output": "sugiereme"
+    },
+    {
+        "input": "novela",
+        "output": "novela"
+    },
+    {
+        "input": "universal",
+        "output": "universal"
+    },
+    {
+        "input": "classic",
+        "output": "classic"
+    },
+    {
+        "input": "literary",
+        "output": "literary"
+    },
+    {
+        "input": "classics?",
+        "output": "classics"
+    },
+    {
+        "input": "novel",
+        "output": "novel"
+    },
+    {
+        "input": "fantasía",
+        "output": "fantas"
+    },
+    {
+        "input": "épica",
+        "output": "épica"
+    },
+    {
+        "input": "saga",
+        "output": "saga"
+    },
+    {
+        "input": "épico",
+        "output": "épico"
+    },
+    {
+        "input": "género",
+        "output": "gener"
+    },
+    {
+        "input": "esté",
+        "output": "esté"
+    },
+    {
+        "input": "historia",
+        "output": "historia"
+    },
+    {
+        "input": "fantástica",
+        "output": "fantast"
+    },
+    {
+        "input": "fantasy",
+        "output": "fantasy"
+    },
+    {
+        "input": "epic",
+        "output": "epic"
+    },
+    {
+        "input": "genre",
+        "output": "genre"
+    },
+    {
+        "input": "fantastic",
+        "output": "fantastic"
+    },
+    {
+        "input": "story",
+        "output": "story"
+    },
+    {
+        "input": "ciencia",
+        "output": "cienci"
+    },
+    {
+        "input": "ficción",
+        "output": "ficcion"
+    },
+    {
+        "input": "futurista",
+        "output": "futurista"
+    },
+    {
+        "input": "buena?",
+        "output": "buena"
+    },
+    {
+        "input": "adentrarme",
+        "output": "adentrarme"
+    },
+    {
+        "input": "leo?",
+        "output": "leo"
+    },
+    {
+        "input": "sugieres?",
+        "output": "sugieres"
+    },
+    {
+        "input": "distópico",
+        "output": "distópico"
+    },
+    {
+        "input": "science",
+        "output": "science"
+    },
+    {
+        "input": "fiction",
+        "output": "fiction"
+    },
+    {
+        "input": "sci-fi",
+        "output": "scifi"
+    },
+    {
+        "input": "futuristic",
+        "output": "futuristic"
+    },
+    {
+        "input": "dive",
+        "output": "dive"
+    },
+    {
+        "input": "would",
+        "output": "would"
+    },
+    {
+        "input": "dystopian",
+        "output": "dystopian"
+    },
+    {
+        "input": "o",
+        "output": "o"
+    },
+    {
+        "input": "ensayo",
+        "output": "ensayo"
+    },
+    {
+        "input": "divulgación",
+        "output": "divulg"
+    },
+    {
+        "input": "histórica",
+        "output": "histórica"
+    },
+    {
+        "input": "histórico",
+        "output": "histórico"
+    },
+    {
+        "input": "aprender",
+        "output": "aprender"
+    },
+    {
+        "input": "humana",
+        "output": "humana"
+    },
+    {
+        "input": "history",
+        "output": "history"
+    },
+    {
+        "input": "essay",
+        "output": "essay"
+    },
+    {
+        "input": "historical",
+        "output": "historical"
+    },
+    {
+        "input": "learn",
+        "output": "learn"
+    },
+    {
+        "input": "nonfiction",
+        "output": "nonfiction"
+    },
+    {
+        "input": "religioso",
+        "output": "religioso"
+    },
+    {
+        "input": "filosófico",
+        "output": "filosof"
+    },
+    {
+        "input": "espiritual",
+        "output": "espiritual"
+    },
+    {
+        "input": "religiosa",
+        "output": "religiosa"
+    },
+    {
+        "input": "inspirador?",
+        "output": "inspirador"
+    },
+    {
+        "input": "lectura",
+        "output": "lectura"
+    },
+    {
+        "input": "reflexionar",
+        "output": "reflexionar"
+    },
+    {
+        "input": "sugerís?",
+        "output": "suger"
+    },
+    {
+        "input": "inspire",
+        "output": "inspire"
+    },
+    {
+        "input": "texto",
+        "output": "texto"
+    },
+    {
+        "input": "religious",
+        "output": "religious"
+    },
+    {
+        "input": "philosophical",
+        "output": "philosophical"
+    },
+    {
+        "input": "spiritual",
+        "output": "spiritual"
+    },
+    {
+        "input": "inspiring",
+        "output": "inspiring"
+    },
+    {
+        "input": "reflect",
+        "output": "reflect"
+    },
+    {
+        "input": "inspires",
+        "output": "inspires"
+    },
+    {
+        "input": "philosophy",
+        "output": "philosophy"
+    },
+    {
+        "input": "text",
+        "output": "text"
+    },
+    {
+        "input": "terror",
+        "output": "terror"
+    },
+    {
+        "input": "horror",
+        "output": "horror"
+    },
+    {
+        "input": "anatomía,",
+        "output": "anatomía"
+    },
+    {
+        "input": "medicina?",
+        "output": "medicina"
+    },
+    {
+        "input": "suspenso",
+        "output": "suspens"
+    },
+    {
+        "input": "biología",
+        "output": "biolog"
+    },
+    {
+        "input": "policiaca",
+        "output": "policiac"
+    },
+    {
+        "input": "psicología",
+        "output": "psicolog"
+    },
+    {
+        "input": "médica",
+        "output": "médica"
+    },
+    {
+        "input": "misterio",
+        "output": "misterio"
+    },
+    {
+        "input": "detectives",
+        "output": "detectives"
+    },
+    {
+        "input": "criminología?",
+        "output": "criminolog"
+    },
+    {
+        "input": "negra",
+        "output": "negra"
+    },
+    {
+        "input": "anatomy,",
+        "output": "anatomy"
+    },
+    {
+        "input": "medicine?",
+        "output": "medicine"
+    },
+    {
+        "input": "biology",
+        "output": "biology"
+    },
+    {
+        "input": "detective",
+        "output": "detective"
+    },
+    {
+        "input": "psychology",
+        "output": "psychology"
+    },
+    {
+        "input": "medical",
+        "output": "medical"
+    },
+    {
+        "input": "mystery",
+        "output": "mystery"
+    },
+    {
+        "input": "criminology?",
+        "output": "criminology"
+    },
+    {
+        "input": "noir",
+        "output": "noir"
+    },
+    {
+        "input": "película?",
+        "output": "pelicul"
+    },
+    {
+        "input": "unas",
+        "output": "unas"
+    },
+    {
+        "input": "algunas",
+        "output": "algunas"
+    },
+    {
+        "input": "ver?",
+        "output": "ver"
+    },
+    {
+        "input": "interesantes",
+        "output": "interesantes"
+    },
+    {
+        "input": "crees",
+        "output": "cree"
+    },
+    {
+        "input": "peli",
+        "output": "peli"
+    },
+    {
+        "input": "pelis",
+        "output": "pelis"
+    },
+    {
+        "input": "sugerirme",
+        "output": "sugerirme"
+    },
+    {
+        "input": "movie?",
+        "output": "movie"
+    },
+    {
+        "input": "movies?",
+        "output": "movies"
+    },
+    {
+        "input": "recommendations",
+        "output": "recommendations"
+    },
+    {
+        "input": "watch?",
+        "output": "watch"
+    },
+    {
+        "input": "flick",
+        "output": "flick"
+    },
+    {
+        "input": "flicks",
+        "output": "flicks"
+    },
+    {
+        "input": "acción",
+        "output": "accion"
+    },
+    {
+        "input": "pelicula",
+        "output": "pelicula"
+    },
+    {
+        "input": "Sugiere",
+        "output": "sugiere"
+    },
+    {
+        "input": "peliculas",
+        "output": "peliculas"
+    },
+    {
+        "input": "drama",
+        "output": "drama"
+    },
+    {
+        "input": "thriller",
+        "output": "thriller"
+    },
+    {
+        "input": "comedia",
+        "output": "comedia"
+    },
+    {
+        "input": "divertida",
+        "output": "divertida"
+    },
+    {
+        "input": "comedias",
+        "output": "comedias"
+    },
+    {
+        "input": "animada",
+        "output": "animada"
+    },
+    {
+        "input": "action",
+        "output": "action"
+    },
+    {
+        "input": "suspense",
+        "output": "suspense"
+    },
+    {
+        "input": "comedy",
+        "output": "comedy"
+    },
+    {
+        "input": "comedies",
+        "output": "comedies"
+    },
+    {
+        "input": "animated",
+        "output": "animated"
+    },
+    {
+        "input": "animation",
+        "output": "animation"
+    },
+    {
+        "input": "canción?",
+        "output": "cancion"
+    },
+    {
+        "input": "música",
+        "output": "music"
+    },
+    {
+        "input": "oír?",
+        "output": "oír"
+    },
+    {
+        "input": "valga",
+        "output": "valga"
+    },
+    {
+        "input": "vos?",
+        "output": "vos"
+    },
+    {
+        "input": "rola",
+        "output": "rola"
+    },
+    {
+        "input": "sonando",
+        "output": "sonando"
+    },
+    {
+        "input": "rolas",
+        "output": "rol"
+    },
+    {
+        "input": "ahorita?",
+        "output": "ahorita"
+    },
+    {
+        "input": "escuchás",
+        "output": "escuchas"
+    },
+    {
+        "input": "recomendás",
+        "output": "recomendás"
+    },
+    {
+        "input": "escuchar",
+        "output": "escuchar"
+    },
+    {
+        "input": "song?",
+        "output": "song"
+    },
+    {
+        "input": "songs?",
+        "output": "songs"
+    },
+    {
+        "input": "listen",
+        "output": "listen"
+    },
+    {
+        "input": "listening",
+        "output": "listening"
+    },
+    {
+        "input": "track",
+        "output": "track"
+    },
+    {
+        "input": "tracks",
+        "output": "tracks"
+    },
+    {
+        "input": "rock",
+        "output": "rock"
+    },
+    {
+        "input": "pop",
+        "output": "pop"
+    },
+    {
+        "input": "tranquila",
+        "output": "tranquila"
+    },
+    {
+        "input": "relajantes",
+        "output": "relajantes"
+    },
+    {
+        "input": "¿Podrías",
+        "output": "podrías"
+    },
+    {
+        "input": "latina",
+        "output": "latina"
+    },
+    {
+        "input": "latinas",
+        "output": "latinas"
+    },
+    {
+        "input": "Latin",
+        "output": "latin"
+    },
+    {
+        "input": "electrónica",
+        "output": "electron"
+    },
+    {
+        "input": "jazz",
+        "output": "jazz"
+    },
+    {
+        "input": "reggaetón",
+        "output": "reggaeton"
+    },
+    {
+        "input": "reggaetón",
+        "output": "reggaetón"
+    },
+    {
+        "input": "rap",
+        "output": "rap"
+    },
+    {
+        "input": "compositores",
+        "output": "compositores"
+    },
+    {
+        "input": "pieza",
+        "output": "pieza"
+    },
+    {
+        "input": "blues",
+        "output": "blues"
+    },
+    {
+        "input": "metal",
+        "output": "metal"
+    },
+    {
+        "input": "reggae",
+        "output": "reggae"
+    },
+    {
+        "input": "country",
+        "output": "country"
+    },
+    {
+        "input": "trap",
+        "output": "trap"
+    },
+    {
+        "input": "K-Pop",
+        "output": "kpop"
+    },
+    {
+        "input": "salsa",
+        "output": "salsa"
+    },
+    {
+        "input": "alternativa",
+        "output": "alternativa"
+    },
+    {
+        "input": "alternativo",
+        "output": "alternativo"
+    },
+    {
+        "input": "cumbia",
+        "output": "cumbia"
+    },
+    {
+        "input": "punk",
+        "output": "punk"
+    },
+    {
+        "input": "ópera",
+        "output": "ópera"
+    },
+    {
+        "input": "piezas",
+        "output": "piezas"
+    },
+    {
+        "input": "flamenco",
+        "output": "flamenc"
+    },
+    {
+        "input": "techno",
+        "output": "techno"
+    },
+    {
+        "input": "indie",
+        "output": "indie"
+    },
+    {
+        "input": "electronic",
+        "output": "electronic"
+    },
+    {
+        "input": "hot",
+        "output": "hot"
+    },
+    {
+        "input": "classical",
+        "output": "classical"
+    },
+    {
+        "input": "composers",
+        "output": "composers"
+    },
+    {
+        "input": "piece",
+        "output": "piece"
+    },
+    {
+        "input": "alternative",
+        "output": "alternative"
+    },
+    {
+        "input": "opera",
+        "output": "opera"
+    },
+    {
+        "input": "pieces",
+        "output": "pieces"
+    },
+    {
+        "input": "activity",
+        "output": "activity"
+    },
+    {
+        "input": "destino",
+        "output": "destin"
+    },
+    {
+        "input": "lugar",
+        "output": "lugar"
+    },
+    {
+        "input": "visitar?",
+        "output": "visitar"
+    },
+    {
+        "input": "viajar?",
+        "output": "viajar"
+    },
+    {
+        "input": "ir?",
+        "output": "ir"
+    },
+    {
+        "input": "destino",
+        "output": "destino"
+    },
+    {
+        "input": "turístico",
+        "output": "turist"
+    },
+    {
+        "input": "lugares",
+        "output": "lugares"
+    },
+    {
+        "input": "destination",
+        "output": "destination"
+    },
+    {
+        "input": "place",
+        "output": "plac"
+    },
+    {
+        "input": "visit?",
+        "output": "visit"
+    },
+    {
+        "input": "travel?",
+        "output": "travel"
+    },
+    {
+        "input": "tourist",
+        "output": "tourist"
+    },
+    {
+        "input": "recitarme",
+        "output": "recitarme"
+    },
+    {
+        "input": "poema?",
+        "output": "poema"
+    },
+    {
+        "input": "bonito?",
+        "output": "bonito"
+    },
+    {
+        "input": "hermoso?",
+        "output": "hermoso"
+    },
+    {
+        "input": "dar",
+        "output": "dar"
+    },
+    {
+        "input": "recite",
+        "output": "recite"
+    },
+    {
+        "input": "poem?",
+        "output": "poem"
+    },
+    {
+        "input": "beautiful",
+        "output": "beautiful"
+    },
+    {
+        "input": "lovely",
+        "output": "lovely"
+    },
+    {
+        "input": "corto?",
+        "output": "corto"
+    },
+    {
+        "input": "contaras",
+        "output": "cont"
+    },
+    {
+        "input": "Quisiera",
+        "output": "quisiera"
+    },
+    {
+        "input": "definitivamente",
+        "output": "definitivamente"
+    },
+    {
+        "input": "nice",
+        "output": "nice"
+    },
+    {
+        "input": "stories?",
+        "output": "stories"
+    },
+    {
+        "input": "short",
+        "output": "short"
+    },
+    {
+        "input": "It’d",
+        "output": "itd"
+    },
+    {
+        "input": "absolutely",
+        "output": "absolutely"
+    },
+    {
+        "input": "narrarme",
+        "output": "narrarme"
+    },
+    {
+        "input": "entretenida",
+        "output": "entreten"
+    },
+    {
+        "input": "historias",
+        "output": "historias"
+    },
+    {
+        "input": "gustar?",
+        "output": "gustar"
+    },
+    {
+        "input": "puedan",
+        "output": "puedan"
+    },
+    {
+        "input": "entretenerme",
+        "output": "entretenerme"
+    },
+    {
+        "input": "inventar",
+        "output": "inventar"
+    },
+    {
+        "input": "original",
+        "output": "original"
+    },
+    {
+        "input": "compartirme",
+        "output": "compartirme"
+    },
+    {
+        "input": "conozcas",
+        "output": "conozc"
+    },
+    {
+        "input": "narrate",
+        "output": "narrate"
+    },
+    {
+        "input": "entertaining",
+        "output": "entertaining"
+    },
+    {
+        "input": "entertain",
+        "output": "entertain"
+    },
+    {
+        "input": "frase",
+        "output": "frase"
+    },
+    {
+        "input": "bonita?",
+        "output": "bonita"
+    },
+    {
+        "input": "motivadora?",
+        "output": "motivadora"
+    },
+    {
+        "input": "inspiradora",
+        "output": "inspiradora"
+    },
+    {
+        "input": "quote?",
+        "output": "quote"
+    },
+    {
+        "input": "motivational",
+        "output": "motivational"
+    },
+    {
+        "input": "Elijo",
+        "output": "elijo"
+    },
+    {
+        "input": "Netflix",
+        "output": "netflix"
+    },
+    {
+        "input": "Selecciono",
+        "output": "seleccion"
+    },
+    {
+        "input": "Escojo",
+        "output": "escoj"
+    },
+    {
+        "input": "Flix",
+        "output": "flix"
+    },
+    {
+        "input": "elección",
+        "output": "eleccion"
+    },
+    {
+        "input": "Video",
+        "output": "video"
+    },
+    {
+        "input": "Video",
+        "output": "vide"
+    },
+    {
+        "input": "Disney",
+        "output": "disney"
+    },
+    {
+        "input": "raton",
+        "output": "raton"
+    },
+    {
+        "input": "HBO",
+        "output": "hbo"
+    },
+    {
+        "input": "Max",
+        "output": "max"
+    },
+    {
+        "input": "Hulu",
+        "output": "hulu"
+    },
+    {
+        "input": "Apple",
+        "output": "apple"
+    },
+    {
+        "input": "TV",
+        "output": "tv"
+    },
+    {
+        "input": "Peacock",
+        "output": "peacock"
+    },
+    {
+        "input": "choose",
+        "output": "choose"
+    },
+    {
+        "input": "select",
+        "output": "select"
+    },
+    {
+        "input": "pick",
+        "output": "pick"
+    },
+    {
+        "input": "choice",
+        "output": "choice"
+    },
+    {
+        "input": "decide",
+        "output": "decid"
+    },
+    {
+        "input": "mouse",
+        "output": "mouse"
+    },
+    {
+        "input": "HBO’s",
+        "output": "hbos"
+    },
+    {
+        "input": "watching",
+        "output": "watching"
+    },
+    {
+        "input": "Hulu’s",
+        "output": "hulus"
+    },
+    {
+        "input": "dura",
+        "output": "dura"
+    },
+    {
+        "input": "Irishman?",
+        "output": "irishman"
+    },
+    {
+        "input": "Duración",
+        "output": "duracion"
+    },
+    {
+        "input": "minutos",
+        "output": "minutos"
+    },
+    {
+        "input": "película",
+        "output": "película"
+    },
+    {
+        "input": "exactamente",
+        "output": "exactamente"
+    },
+    {
+        "input": "Género",
+        "output": "género"
+    },
+    {
+        "input": "genero",
+        "output": "genero"
+    },
+    {
+        "input": "categoría",
+        "output": "categor"
+    },
+    {
+        "input": "pertenece",
+        "output": "pertenec"
+    },
+    {
+        "input": "trata",
+        "output": "trata"
+    },
+    {
+        "input": "Sinopsis",
+        "output": "sinopsis"
+    },
+    {
+        "input": "trama",
+        "output": "trama"
+    },
+    {
+        "input": "resumen",
+        "output": "resumen"
+    },
+    {
+        "input": "breve",
+        "output": "breve"
+    },
+    {
+        "input": "sinpsis",
+        "output": "sinpsis"
+    },
+    {
+        "input": "resumirme",
+        "output": "resumirme"
+    },
+    {
+        "input": "¿Ganó",
+        "output": "ganó"
+    },
+    {
+        "input": "premios",
+        "output": "premios"
+    },
+    {
+        "input": "nominada",
+        "output": "nominada"
+    },
+    {
+        "input": "Oscar?",
+        "output": "oscar"
+    },
+    {
+        "input": "premiada",
+        "output": "premiada"
+    },
+    {
+        "input": "galardones",
+        "output": "galardones"
+    },
+    {
+        "input": "obtenidos",
+        "output": "obten"
+    },
+    {
+        "input": "recibió",
+        "output": "recib"
+    },
+    {
+        "input": "importantes?",
+        "output": "importantes"
+    },
+    {
+        "input": "premio?",
+        "output": "premio"
+    },
+    {
+        "input": "galardón?",
+        "output": "galardon"
+    },
+    {
+        "input": "actúan",
+        "output": "actúan"
+    },
+    {
+        "input": "Actores",
+        "output": "actor"
+    },
+    {
+        "input": "protagonista",
+        "output": "protagonista"
+    },
+    {
+        "input": "salen",
+        "output": "salen"
+    },
+    {
+        "input": "Reparto",
+        "output": "repart"
+    },
+    {
+        "input": "protagoniza",
+        "output": "protagoniza"
+    },
+    {
+        "input": "elenco",
+        "output": "elenc"
+    },
+    {
+        "input": "actúa",
+        "output": "actúa"
+    },
+    {
+        "input": "personajes",
+        "output": "personaj"
+    },
+    {
+        "input": "aparecen",
+        "output": "aparecen"
+    },
+    {
+        "input": "principales",
+        "output": "principales"
+    },
+    {
+        "input": "participan",
+        "output": "participan"
+    },
+    {
+        "input": "interpreta",
+        "output": "interpreta"
+    },
+    {
+        "input": "Frank",
+        "output": "frank"
+    },
+    {
+        "input": "Sheeran",
+        "output": "sheeran"
+    },
+    {
+        "input": "Pacino",
+        "output": "pacin"
+    },
+    {
+        "input": "¿Robert",
+        "output": "robert"
+    },
+    {
+        "input": "Niro",
+        "output": "niro"
+    },
+    {
+        "input": "escenas",
+        "output": "escen"
+    },
+    {
+        "input": "post-créditos?",
+        "output": "postcréditos"
+    },
+    {
+        "input": "filmó",
+        "output": "filmó"
+    },
+    {
+        "input": "clasificación",
+        "output": "clasif"
+    },
+    {
+        "input": "director",
+        "output": "director"
+    },
+    {
+        "input": "presupuesto",
+        "output": "presupuest"
+    },
+    {
+        "input": "gratis?",
+        "output": "gratis"
+    },
+    {
+        "input": "edades",
+        "output": "edades"
+    },
+    {
+        "input": "recaudó",
+        "output": "recaudó"
+    },
+    {
+        "input": "basada",
+        "output": "basada"
+    },
+    {
+        "input": "hechos",
+        "output": "hechos"
+    },
+    {
+        "input": "reales",
+        "output": "reales"
+    },
+    {
+        "input": "escenas",
+        "output": "escenas"
+    },
+    {
+        "input": "compuso",
+        "output": "compus"
+    },
+    {
+        "input": "banda",
+        "output": "banda"
+    },
+    {
+        "input": "sonora",
+        "output": "sonora"
+    },
+    {
+        "input": "nominaciones",
+        "output": "nomin"
+    },
+    {
+        "input": "tuvo",
+        "output": "tuvo"
+    },
+    {
+        "input": "opinan",
+        "output": "opinan"
+    },
+    {
+        "input": "críticos",
+        "output": "critic"
+    },
+    {
+        "input": "país?",
+        "output": "pais"
+    },
+    {
+        "input": "estrenó",
+        "output": "estren"
+    },
+    {
+        "input": "escribió",
+        "output": "escrib"
+    },
+    {
+        "input": "guion",
+        "output": "guion"
+    },
+    {
+        "input": "spoiler",
+        "output": "spoiler"
+    },
+    {
+        "input": "costó",
+        "output": "costó"
+    },
+    {
+        "input": "producir",
+        "output": "produc"
+    },
+    {
+        "input": "adaptación",
+        "output": "adapt"
+    },
+    {
+        "input": "localizaciones",
+        "output": "localiz"
+    },
+    {
+        "input": "efectos",
+        "output": "efect"
+    },
+    {
+        "input": "Duration",
+        "output": "duration"
+    },
+    {
+        "input": "last?",
+        "output": "last"
+    },
+    {
+        "input": "run?",
+        "output": "run"
+    },
+    {
+        "input": "minutes",
+        "output": "minutes"
+    },
+    {
+        "input": "Running",
+        "output": "running"
+    },
+    {
+        "input": "lasts",
+        "output": "lasts"
+    },
+    {
+        "input": "runtime",
+        "output": "runtime"
+    },
+    {
+        "input": "genres",
+        "output": "genres"
+    },
+    {
+        "input": "category",
+        "output": "category"
+    },
+    {
+        "input": "Synopsis",
+        "output": "synopsis"
+    },
+    {
+        "input": "plot",
+        "output": "plot"
+    },
+    {
+        "input": "happens",
+        "output": "happens"
+    },
+    {
+        "input": "summary",
+        "output": "summary"
+    },
+    {
+        "input": "brief",
+        "output": "brief"
+    },
+    {
+        "input": "summarize",
+        "output": "summarize"
+    },
+    {
+        "input": "Irishman’s",
+        "output": "irishmans"
+    },
+    {
+        "input": "win",
+        "output": "win"
+    },
+    {
+        "input": "awards?",
+        "output": "awards"
+    },
+    {
+        "input": "nominated",
+        "output": "nominated"
+    },
+    {
+        "input": "Recognitions",
+        "output": "recognitions"
+    },
+    {
+        "input": "awarded?",
+        "output": "awarded"
+    },
+    {
+        "input": "accolades",
+        "output": "accolad"
+    },
+    {
+        "input": "receive",
+        "output": "receive"
+    },
+    {
+        "input": "major",
+        "output": "major"
+    },
+    {
+        "input": "won",
+        "output": "won"
+    },
+    {
+        "input": "hold?",
+        "output": "hold"
+    },
+    {
+        "input": "acts",
+        "output": "act"
+    },
+    {
+        "input": "protagonist",
+        "output": "protagonist"
+    },
+    {
+        "input": "appear",
+        "output": "appear"
+    },
+    {
+        "input": "Cast",
+        "output": "cast"
+    },
+    {
+        "input": "stars",
+        "output": "stars"
+    },
+    {
+        "input": "characters",
+        "output": "character"
+    },
+    {
+        "input": "show",
+        "output": "show"
+    },
+    {
+        "input": "plays",
+        "output": "plays"
+    },
+    {
+        "input": "post-credits",
+        "output": "postcredits"
+    },
+    {
+        "input": "scenes?",
+        "output": "scenes"
+    },
+    {
+        "input": "filmed?",
+        "output": "filmed"
+    },
+    {
+        "input": "Classification",
+        "output": "classification"
+    },
+    {
+        "input": "rating",
+        "output": "rating"
+    },
+    {
+        "input": "directed",
+        "output": "directed"
+    },
+    {
+        "input": "kids?",
+        "output": "kids"
+    },
+    {
+        "input": "budget",
+        "output": "budget"
+    },
+    {
+        "input": "free?",
+        "output": "free"
+    },
+    {
+        "input": "events?",
+        "output": "events"
+    },
+    {
+        "input": "soundtrack",
+        "output": "soundtrack"
+    },
+    {
+        "input": "nominations",
+        "output": "nominations"
+    },
+    {
+        "input": "released?",
+        "output": "released"
+    },
+    {
+        "input": "wrote",
+        "output": "wrote"
+    },
+    {
+        "input": "script",
+        "output": "script"
+    },
+    {
+        "input": "spoilers",
+        "output": "spoilers"
+    },
+    {
+        "input": "cost",
+        "output": "cost"
+    },
+    {
+        "input": "produce",
+        "output": "produce"
+    },
+    {
+        "input": "adaptation",
+        "output": "adaptation"
+    },
+    {
+        "input": "filming",
+        "output": "filming"
+    },
+    {
+        "input": "effects",
+        "output": "effects"
+    },
+    {
+        "input": "Stranger",
+        "output": "stranger"
+    },
+    {
+        "input": "filme",
+        "output": "filme"
+    },
+    {
+        "input": "géneros",
+        "output": "géneros"
+    },
+    {
+        "input": "descripción",
+        "output": "descripcion"
+    },
+    {
+        "input": "festival?",
+        "output": "festival"
+    },
+    {
+        "input": "personajes",
+        "output": "personajes"
+    },
+    {
+        "input": "Eleven",
+        "output": "eleven"
+    },
+    {
+        "input": "¿Finn",
+        "output": "finn"
+    },
+    {
+        "input": "Wolfhard",
+        "output": "wolfhard"
+    },
+    {
+        "input": "¿Millie",
+        "output": "millie"
+    },
+    {
+        "input": "Bobby",
+        "output": "bobby"
+    },
+    {
+        "input": "Brown",
+        "output": "brown"
+    },
+    {
+        "input": "description",
+        "output": "description"
+    },
+    {
+        "input": "festivals?",
+        "output": "festivals"
+    },
+    {
+        "input": "Roma?",
+        "output": "roma"
+    },
+    {
+        "input": "protagonistas",
+        "output": "protagonistas"
+    },
+    {
+        "input": "Cleo",
+        "output": "cleo"
+    },
+    {
+        "input": "criticas",
+        "output": "criticas"
+    },
+    {
+        "input": "filmada",
+        "output": "filmada"
+    },
+    {
+        "input": "blanco",
+        "output": "blanc"
+    },
+    {
+        "input": "negro?",
+        "output": "negro"
+    },
+    {
+        "input": "Protagonists",
+        "output": "protagonists"
+    },
+    {
+        "input": "Release",
+        "output": "release"
+    },
+    {
+        "input": "Reviews",
+        "output": "reviews"
+    },
+    {
+        "input": "black",
+        "output": "black"
+    },
+    {
+        "input": "white?",
+        "output": "white"
+    },
+    {
+        "input": "Bird",
+        "output": "bird"
+    },
+    {
+        "input": "Box?",
+        "output": "box"
+    },
+    {
+        "input": "presupuesto",
+        "output": "presupuesto"
+    },
+    {
+        "input": "público?",
+        "output": "public"
+    },
+    {
+        "input": "received",
+        "output": "received"
+    },
+    {
+        "input": "audience?",
+        "output": "audience"
+    },
+    {
+        "input": "Extraction?",
+        "output": "extraction"
+    },
+    {
+        "input": "¿Chris",
+        "output": "chris"
+    },
+    {
+        "input": "Hemsworth",
+        "output": "hemsworth"
+    },
+    {
+        "input": "secuelas?",
+        "output": "secuel"
+    },
+    {
+        "input": "sequels?",
+        "output": "sequels"
+    },
+    {
+        "input": "Sound",
+        "output": "sound"
+    },
+    {
+        "input": "¿Riz",
+        "output": "riz"
+    },
+    {
+        "input": "Ahmed",
+        "output": "ahmed"
+    },
+    {
+        "input": "emotivas?",
+        "output": "emotivas"
+    },
+    {
+        "input": "Tomorrow",
+        "output": "tomorrow"
+    },
+    {
+        "input": "Pratt",
+        "output": "pratt"
+    },
+    {
+        "input": "sequel?",
+        "output": "sequel"
+    },
+    {
+        "input": "Night",
+        "output": "night"
+    },
+    {
+        "input": "Miami?",
+        "output": "miami"
+    },
+    {
+        "input": "documental",
+        "output": "documental"
+    },
+    {
+        "input": "Malcolm",
+        "output": "malcolm"
+    },
+    {
+        "input": "X",
+        "output": "x"
+    },
+    {
+        "input": "documentary?",
+        "output": "documentary"
+    },
+    {
+        "input": "Borat",
+        "output": "borat"
+    },
+    {
+        "input": "Subsequent",
+        "output": "subsequent"
+    },
+    {
+        "input": "Moviefilm?",
+        "output": "moviefilm"
+    },
+    {
+        "input": "¿Sacha",
+        "output": "sacha"
+    },
+    {
+        "input": "Baron",
+        "output": "baron"
+    },
+    {
+        "input": "Cohen",
+        "output": "cohen"
+    },
+    {
+        "input": "Coming",
+        "output": "coming"
+    },
+    {
+        "input": "¿Eddie",
+        "output": "eddie"
+    },
+    {
+        "input": "Murphy",
+        "output": "murphy"
+    },
+    {
+        "input": "Mirabel",
+        "output": "mirabel"
+    },
+    {
+        "input": "film?",
+        "output": "film"
+    },
+    {
+        "input": "Frozen",
+        "output": "frozen"
+    },
+    {
+        "input": "Dos?",
+        "output": "dos"
+    },
+    {
+        "input": "Elsa",
+        "output": "elsa"
+    },
+    {
+        "input": "Two?",
+        "output": "two"
+    },
+    {
+        "input": "Avengers:",
+        "output": "avengers"
+    },
+    {
+        "input": "Endgame?",
+        "output": "endgame"
+    },
+    {
+        "input": "superhéroes?",
+        "output": "superhéroes"
+    },
+    {
+        "input": "Iron",
+        "output": "iron"
+    },
+    {
+        "input": "Man",
+        "output": "man"
+    },
+    {
+        "input": "superhero",
+        "output": "superhero"
+    },
+    {
+        "input": "Soul?",
+        "output": "soul"
+    },
+    {
+        "input": "cinta",
+        "output": "cinta"
+    },
+    {
+        "input": "exacta",
+        "output": "exacta"
+    },
+    {
+        "input": "Joe",
+        "output": "joe"
+    },
+    {
+        "input": "voces",
+        "output": "voces"
+    },
+    {
+        "input": "voz",
+        "output": "voz"
+    },
+    {
+        "input": "22",
+        "output": "22"
+    },
+    {
+        "input": "film's",
+        "output": "films"
+    },
+    {
+        "input": "Soul's",
+        "output": "souls"
+    },
+    {
+        "input": "fall",
+        "output": "fall"
+    },
+    {
+        "input": "belongs",
+        "output": "belongs"
+    },
+    {
+        "input": "prizes?",
+        "output": "prizes"
+    },
+    {
+        "input": "Oscars?",
+        "output": "oscars"
+    },
+    {
+        "input": "voices",
+        "output": "voices"
+    },
+    {
+        "input": "gives",
+        "output": "gives"
+    },
+    {
+        "input": "voice",
+        "output": "voice"
+    },
+    {
+        "input": "well-received",
+        "output": "wellreceived"
+    },
+    {
+        "input": "audiences?",
+        "output": "audiences"
+    },
+    {
+        "input": "Luca?",
+        "output": "luca"
+    },
+    {
+        "input": "aventura?",
+        "output": "aventura"
+    },
+    {
+        "input": "Alberto",
+        "output": "alberto"
+    },
+    {
+        "input": "Luca's",
+        "output": "luc"
+    },
+    {
+        "input": "adventure?",
+        "output": "adventure"
+    },
+    {
+        "input": "Recognition",
+        "output": "recognition"
+    },
+    {
+        "input": "post-credit",
+        "output": "postcredit"
+    }
+]
