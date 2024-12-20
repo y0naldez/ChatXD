@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ChatXD/static/css/main.ae292e60.css",
-    "main.js": "/ChatXD/static/js/main.8a908909.js",
+    "main.js": "/ChatXD/static/js/main.dc665c8a.js",
     "static/js/488.3a6149cd.chunk.js": "/ChatXD/static/js/488.3a6149cd.chunk.js",
     "index.html": "/ChatXD/index.html",
     "main.ae292e60.css.map": "/ChatXD/static/css/main.ae292e60.css.map",
-    "main.8a908909.js.map": "/ChatXD/static/js/main.8a908909.js.map",
+    "main.dc665c8a.js.map": "/ChatXD/static/js/main.dc665c8a.js.map",
     "488.3a6149cd.chunk.js.map": "/ChatXD/static/js/488.3a6149cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ae292e60.css",
-    "static/js/main.8a908909.js"
+    "static/js/main.dc665c8a.js"
   ]
 }
